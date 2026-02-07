@@ -1,0 +1,18 @@
+# robots.txt for Baron Joyeros
+
+User-agent: *
+Allow: /
+
+# Disallow admin or private directories
+Disallow: /private/
+Disallow: /admin/
+
+# Allow search engines to index images
+Allow: /research/*.jpg
+Allow: /research/*.png
+
+# Sitemap
+Sitemap: https://www.baronjoyeros.com/sitemap.xml
+
+# Crawl-delay (optional, adjust as needed)
+Crawl-delay: 10

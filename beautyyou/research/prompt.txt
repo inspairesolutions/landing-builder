@@ -1,0 +1,706 @@
+═══════════════════════════════════════════════════════════════════════
+PROMPT PARA CLAUDE CODE: RENOVACIÓN WEB BEAUTYYOU.ES
+═══════════════════════════════════════════════════════════════════════
+
+Lee el skill frontend-design antes de empezar.
+
+═══════════════════════════════════════════════════════════════════════
+CONTEXTO DEL PROYECTO
+═══════════════════════════════════════════════════════════════════════
+
+Cliente: BeautyYou - Centro Médico-Estético
+Ubicación: Sector Descubridores 1, Local 8, Tres Cantos, Madrid
+Registro: CS14273 (Clínica Médica con Unidad de Medicina Estética)
+
+Servicios:
+- Tratamientos faciales médico-estéticos
+- Tratamientos corporales médico-estéticos
+- Consulta médica especializada
+- Primera consulta gratuita
+
+Público objetivo:
+- Mujeres y hombres 30-60 años
+- Nivel adquisitivo medio-alto
+- Residentes Tres Cantos y zona norte Madrid
+- Preocupados por cuidado personal y estética
+- Buscan profesionalidad médica (no solo estética)
+
+Competencia:
+- NovaNorte (Tres Cantos) - competidor directo
+- Clínicas estéticas Madrid norte
+- Centros médico-estéticos certificados
+
+Diferenciadores clave:
+✅ Clínica MÉDICA certificada (CS14273)
+✅ Personal médico acreditado
+✅ Equipos profesionales (solo clínicas médicas)
+✅ Primera consulta gratuita
+✅ Personalización 100% de tratamientos
+
+
+═══════════════════════════════════════════════════════════════════════
+OBJETIVOS DE LA RENOVACIÓN
+═══════════════════════════════════════════════════════════════════════
+
+1. Transmitir PROFESIONALIDAD MÉDICA (no solo "belleza")
+2. Generar CONFIANZA y CREDIBILIDAD
+3. Comunicar LUJO ACCESIBLE (no lujo inalcanzable)
+4. Destacar CERTIFICACIÓN MÉDICA (diferenciador clave)
+5. Facilitar CONVERSIÓN (citas/consultas)
+6. Posicionamiento SEO local: "medicina estética Tres Cantos"
+
+
+═══════════════════════════════════════════════════════════════════════
+DIRECTRICES DE DISEÑO
+═══════════════════════════════════════════════════════════════════════
+
+ESTÉTICA GENERAL:
+─────────────────────────────────────────────────────────────────────
+Concepto: "Clinical Elegance" - Elegancia médica refinada
+
+Inspiración visual:
+• Clínicas médicas suizas de lujo
+• Spas médicos nórdicos (clean, minimalista)
+• Revista médica premium (no revista de moda)
+• Balance: 70% profesionalidad médica + 30% calidez/belleza
+
+Adjetivos clave:
+✓ Profesional
+✓ Elegante
+✓ Confiable
+✓ Sofisticado
+✓ Sereno
+✓ Limpio
+✓ Premium (sin ser ostentoso)
+
+Evitar absolutamente:
+✗ Aspecto "spa de masajes" barato
+✗ Rosa chicle, púrpuras vibrantes
+✗ Stock photos genéricas de mujeres con pepinos
+✗ Exceso de flores/elementos decorativos
+✗ Look "salón de belleza" común
+
+
+PALETA DE COLORES:
+─────────────────────────────────────────────────────────────────────
+
+COLOR PRIMARIO - Blanco Clínico
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#FFFFFF - Fondo principal
+#FAFBFC - Fondo alternativo (secciones)
+#F8F9FA - Bordes sutiles
+
+Razón: Limpieza, higiene, profesionalidad médica
+
+
+COLOR SECUNDARIO - Gris Sofisticado
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#2C3E50 - Textos principales, headings
+#5D6D7E - Textos secundarios
+#95A5A6 - Bordes, divisores
+#ECF0F1 - Fondos suaves
+
+Razón: Seriedad, profesionalidad, contraste legible
+
+
+COLOR ACENTO - Dorado Discreto
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#C9A961 - Oro champagne (principal)
+#B8985F - Oro oscuro (hover)
+#E8D5B5 - Oro claro (fondos)
+
+Razón: Premium, elegancia, calidez SIN ser chillón
+Uso: CTAs importantes, iconos destacados, detalles
+
+
+COLOR DE APOYO - Azul Médico (Opcional, mínimo)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#4A90A4 - Azul verdoso suave (credibilidad médica)
+Uso: Sello certificación, badges médicos, iconos profesionales
+
+
+DISTRIBUCIÓN DE COLORES:
+─────────────────────────────────────────────────────────────────────
+• 80% Blanco + Gris (predominante)
+• 15% Texto Oscuro (#2C3E50)
+• 5% Dorado (#C9A961) - solo acentos estratégicos
+
+⚠️ REGLA DE ORO: El dorado NUNCA es protagonista, solo acento elegante
+
+
+TIPOGRAFÍA:
+─────────────────────────────────────────────────────────────────────
+
+HEADINGS (H1, H2, H3):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Cormorant Garamond" (Google Fonts) - Serif elegante
+Alternativa: "Playfair Display"
+Peso: 300 (Light) para H1, 400 (Regular) para H2-H3
+Tamaño:
+  H1: 3.5rem (56px) desktop, 2.5rem (40px) mobile
+  H2: 2.5rem (40px) desktop, 2rem (32px) mobile
+  H3: 1.75rem (28px) desktop, 1.5rem (24px) mobile
+Letter-spacing: 0.02em (espaciado generoso)
+Line-height: 1.2
+
+Razón: Elegancia clásica, legibilidad, sofisticación SIN ser pomposo
+
+
+BODY TEXT (Párrafos, textos):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Karla" (Google Fonts) - Sans-serif limpia y moderna
+Alternativa: "Source Sans Pro"
+Peso: 400 (Regular), 500 (Medium) para énfasis
+Tamaño: 1.125rem (18px) desktop, 1rem (16px) mobile
+Line-height: 1.7 (lectura cómoda)
+Letter-spacing: 0.01em
+
+Razón: Legibilidad médica, claridad, modernidad SIN ser genérica
+⚠️ NO usar: Inter, Roboto, Arial (muy comunes)
+
+
+BOTONES Y CTAs:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Karla" Medium (500)
+Tamaño: 1rem (16px)
+Letter-spacing: 0.05em (muy espaciado = premium)
+Text-transform: uppercase (solo CTAs principales)
+
+Ejemplo: "RESERVAR CONSULTA" vs "Reservar consulta"
+
+
+EVITAR ABSOLUTAMENTE:
+─────────────────────────────────────────────────────────────────────
+✗ Inter (demasiado común en SaaS)
+✗ Roboto (muy Android/Google)
+✗ Arial / Helvetica (genérico)
+✗ Montserrat (sobre-usado en 2020-2024)
+✗ Poppins (demasiado "startup tech")
+✗ Comic Sans (obvio)
+
+
+ESPACIADO Y LAYOUT:
+─────────────────────────────────────────────────────────────────────
+
+PRINCIPIO: "Breathing Room" - Espacio generoso = Lujo
+
+Secciones:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Padding vertical: 120px desktop, 80px mobile
+• Máximo width contenido: 1200px (contenido estrecho = elegante)
+• Margins laterales: 80px desktop, 20px mobile
+
+Entre elementos:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Heading → Párrafo: 32px
+• Párrafo → Párrafo: 24px
+• Párrafo → CTA: 40px
+• Cards entre sí: 40px
+
+Regla 8px:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Todos los espaciados múltiplos de 8px: 8, 16, 24, 32, 40, 48, 56, 64...
+
+Whitespace es tu aliado:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Preferir espacio vacío sobre contenido apretado
+• "Menos es más" - cada elemento respira
+• Secciones alternas: fondo blanco / fondo gris suave
+
+
+FOTOGRAFÍA E IMÁGENES:
+─────────────────────────────────────────────────────────────────────
+
+ESTILO FOTOGRÁFICO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Concepto: "Clinical Photography" - Profesional, no glamour
+
+✓ Fotografía médica profesional (clínica, equipos, instalaciones)
+✓ Luz natural o iluminación clínica suave
+✓ Fondos limpios, minimalistas (blanco/gris)
+✓ Enfoque en detalles: manos médico, equipos, texturas piel
+✓ Planos medios y cerrados (evitar planos generales)
+✓ Paleta cromática neutra (blancos, grises, beiges)
+✓ Alta calidad (mínimo 2000px width)
+
+✗ Stock photos genéricas de "spa" con pétalos
+✗ Modelos excesivamente retocadas
+✗ Fondos rosas/púrpuras
+✗ Múltiples personas sonriendo a cámara
+✗ Props decorativos (velas, flores, piedras zen)
+
+Hero image ideal:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Opción 1: Instalaciones clínica (sala tratamiento limpia, moderna)
+• Opción 2: Detalle manos médico con guantes + equipo profesional
+• Opción 3: Producto dermatológico premium en fondo minimalista
+• Tratamiento: Overlay oscuro sutil (30% opacity) para legibilidad texto
+
+Galería tratamientos:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Imágenes grandes: 800x600px mínimo
+• Formato: 4:3 o 16:9 (horizontal)
+• Bordes redondeados sutiles: border-radius: 8px
+• Sombra suave: box-shadow: 0 4px 20px rgba(0,0,0,0.08)
+• Lazy loading
+• WebP format (fallback JPG)
+
+
+ICONOGRAFÍA:
+─────────────────────────────────────────────────────────────────────
+
+Estilo: Line icons minimalistas (outline, no filled)
+Grosor línea: 1.5px (delicado pero visible)
+Tamaño: 48px para icons destacados
+Color: #C9A961 (dorado) o #2C3E50 (gris oscuro)
+
+Set recomendado: Feather Icons, Lucide, o Phosphor Icons
+
+Iconos necesarios:
+• Certificación médica (shield + check)
+• Primera consulta gratis (gift)
+• Personalización (user-cog)
+• Ubicación (map-pin)
+• Teléfono (phone)
+• WhatsApp (message-circle)
+• Horario (clock)
+
+NO usar: Icons rellenos coloridos, emojis, ilustraciones cartoon
+
+
+COMPONENTES UI:
+─────────────────────────────────────────────────────────────────────
+
+BOTONES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Botón Primario (CTA principal):
+───────────────────────────────────────────────────────────────────
+Background: #C9A961 (dorado)
+Color texto: #FFFFFF (blanco)
+Padding: 16px 40px
+Border-radius: 4px (esquinas sutiles, no muy redondeado)
+Font-size: 16px
+Letter-spacing: 0.05em
+Text-transform: uppercase
+Transition: all 0.3s ease
+
+Hover:
+  Background: #B8985F (dorado oscuro)
+  Transform: translateY(-2px)
+  Box-shadow: 0 8px 20px rgba(201, 169, 97, 0.3)
+
+
+Botón Secundario (acciones secundarias):
+───────────────────────────────────────────────────────────────────
+Background: transparent
+Color texto: #2C3E50 (gris oscuro)
+Border: 1px solid #2C3E50
+Padding: 16px 40px
+Border-radius: 4px
+
+Hover:
+  Background: #2C3E50
+  Color texto: #FFFFFF
+  Transform: translateY(-2px)
+
+
+Botón Terciario (links):
+───────────────────────────────────────────────────────────────────
+Solo texto + flecha
+Color: #C9A961
+Text-decoration: none
+Border-bottom: 1px solid transparent
+
+Hover:
+  Border-bottom: 1px solid #C9A961
+
+
+CARDS (Servicios, Tratamientos):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Border: 1px solid #ECF0F1
+Border-radius: 8px
+Padding: 40px
+Box-shadow: 0 4px 20px rgba(0,0,0,0.06)
+
+Hover:
+  Box-shadow: 0 8px 30px rgba(0,0,0,0.12)
+  Transform: translateY(-4px)
+  Transition: all 0.4s ease
+
+Estructura interna:
+• Icon (dorado) - 48px
+• Título (H3) - 28px
+• Descripción - 18px, line-height 1.7
+• Link "Más información →" - dorado
+
+
+FORMULARIOS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Inputs:
+  Background: #FAFBFC
+  Border: 1px solid #E5E7EB
+  Border-radius: 4px
+  Padding: 16px 20px
+  Font-size: 16px
+  Color: #2C3E50
+
+  Focus:
+    Border: 1px solid #C9A961
+    Box-shadow: 0 0 0 3px rgba(201, 169, 97, 0.1)
+    Outline: none
+
+Labels:
+  Font: Karla Medium
+  Font-size: 14px
+  Color: #5D6D7E
+  Margin-bottom: 8px
+  Letter-spacing: 0.03em
+
+
+ANIMACIONES:
+─────────────────────────────────────────────────────────────────────
+
+PRINCIPIO: Sutiles y sofisticadas (nunca llamativas)
+
+Fade-in en scroll:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Secciones aparecen con:
+• Opacity: 0 → 1
+• Transform: translateY(20px) → translateY(0)
+• Duration: 0.8s
+• Easing: cubic-bezier(0.4, 0, 0.2, 1)
+
+Stagger (efecto cascada):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Cards aparecen con delay incremental:
+• Card 1: delay 0s
+• Card 2: delay 0.1s
+• Card 3: delay 0.2s
+
+Hover effects:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Transform: translateY(-4px)
+• Box-shadow más pronunciada
+• Duration: 0.3s
+• Easing: ease-out
+
+Parallax mínimo:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Imagen hero se mueve 20% más lento que scroll
+Efecto: depth, sofisticación
+
+⚠️ EVITAR:
+✗ Animaciones rápidas/bruscas
+✗ Rotaciones, flips, bounces
+✗ Efectos "wow.js" exagerados
+✗ Parallax excesivo (mareo)
+
+
+ESTRUCTURA DE PÁGINA:
+─────────────────────────────────────────────────────────────────────
+
+HEADER/NAVEGACIÓN:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sticky (fija al hacer scroll)
+Background: #FFFFFF
+Box-shadow: 0 2px 10px rgba(0,0,0,0.05)
+Height: 80px
+Padding: 0 80px
+
+Contenido:
+• Logo (izquierda) - 120px width
+• Menú horizontal (centro)
+  - Inicio
+  - Tratamientos
+  - Nosotros
+  - Certificaciones
+  - Contacto
+• CTA destacado (derecha): "RESERVAR CONSULTA" - botón dorado
+
+Al hacer scroll:
+  Height: 60px (compacto)
+  Background: rgba(255,255,255,0.95) backdrop-blur
+
+
+HERO SECTION:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Height: 85vh (casi fullscreen pero no agresivo)
+Background: Imagen instalaciones clínica + overlay 40%
+
+Layout:
+  Contenido centrado verticalmente, alineado izquierda
+  Max-width: 600px
+
+Contenido:
+  • Badge pequeño: "Clínica Médica Certificada CS14273" (dorado/blanco)
+  • H1: "Medicina Estética<br>Con Garantía Médica"
+    Font-size: 56px, Cormorant Garamond Light
+  • Párrafo: "Primera consulta gratuita con nuestro equipo médico"
+    Font-size: 20px, Karla
+  • Dos CTAs:
+    - Primario: "RESERVAR CONSULTA GRATIS"
+    - Secundario: "Ver tratamientos"
+
+Decoración sutil:
+  Línea dorada fina (2px) a la izquierda del contenido
+
+
+SECCIÓN DIFERENCIADORES (Por qué BeautyYou):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FAFBFC
+
+Grid 4 columnas (2 en tablet, 1 en mobile)
+
+Cada item:
+  • Icon dorado (48px)
+  • Título (H3): "Clínica Médica Certificada"
+  • Descripción corta
+  • Número/dato destacado si aplica
+
+Items:
+1. Certificación CS14273
+2. Equipo médico acreditado
+3. Primera consulta gratis
+4. Equipos profesionales
+
+
+SECCIÓN TRATAMIENTOS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+
+Título centrado: "Nuestros Tratamientos"
+Subtítulo: "Medicina estética facial y corporal"
+
+Grid 3 columnas cards
+
+Cada card tratamiento:
+  • Imagen grande (800x600px)
+  • Categoría pequeña: "FACIAL" / "CORPORAL"
+  • Título tratamiento
+  • Descripción 2-3 líneas
+  • Lista beneficios (3-4 bullets con icons check dorados)
+  • Link "Más información →"
+
+Tratamientos principales:
+- Toxina Botulínica
+- Ácido Hialurónico
+- Peeling Médico
+- Láser Facial
+- Mesoterapia
+- Radiofrecuencia
+
+
+SECCIÓN CERTIFICACIÓN:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #2C3E50 (fondo oscuro)
+Color texto: #FFFFFF
+
+Layout 2 columnas:
+  Izquierda: Texto
+  Derecha: Badge certificación (visual grande)
+
+Contenido:
+  • H2: "Clínica Médica Homologada"
+  • Párrafo explicando certificación CS14273
+  • Lista credenciales:
+    - Registro Consejería Sanidad Madrid
+    - Personal médico 100% acreditado
+    - Equipos homologados uso médico
+  • CTA: "Conocer nuestro equipo"
+
+
+SECCIÓN PROCESO/CONSULTA:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+
+Título: "Tu Primera Consulta Gratuita"
+
+Timeline horizontal (4 pasos):
+  1. Reserva → Icon calendario
+  2. Consulta médica → Icon doctor
+  3. Plan personalizado → Icon documento
+  4. Tratamiento → Icon check
+
+Cada paso:
+  Número grande (dorado)
+  Título
+  Descripción breve
+
+
+SECCIÓN UBICACIÓN:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FAFBFC
+
+2 columnas:
+  Izquierda: Mapa Google Maps embebido
+  Derecha: Info contacto
+    • Dirección completa
+    • Teléfono (clickeable)
+    • WhatsApp (botón destacado)
+    • Email
+    • Horarios
+    • Indicaciones parking
+
+
+FOOTER:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #2C3E50
+Color texto: #95A5A6
+
+4 columnas:
+  1. Logo + descripción breve
+  2. Enlaces rápidos (Tratamientos, Nosotros, etc.)
+  3. Contacto (dirección, teléfono, email)
+  4. Redes sociales (icons minimalistas)
+
+Bottom bar:
+  Copyright + Enlaces legales (Privacidad, Cookies)
+  Registro CS14273 visible
+
+
+RESPONSIVE:
+─────────────────────────────────────────────────────────────────────
+
+Breakpoints:
+  Mobile: < 768px
+  Tablet: 768px - 1024px
+  Desktop: > 1024px
+
+Mobile first approach
+
+Cambios mobile:
+• Header: Hamburger menu (no sticky)
+• Hero: Height 70vh, font-sizes reducidos
+• Grids: 4 cols → 1 col
+• Padding secciones: 120px → 60px
+• Font H1: 56px → 36px
+• Espaciado generoso → compacto pero respirable
+
+
+SEO:
+─────────────────────────────────────────────────────────────────────
+
+Title: "BeautyYou - Medicina Estética Tres Cantos | Clínica Certificada"
+Meta description: "Clínica médico-estética certificada en Tres Cantos. Primera consulta gratuita. Tratamientos faciales y corporales con equipo médico acreditado. CS14273."
+
+Keywords focus:
+- medicina estética tres cantos
+- clínica estética tres cantos
+- botox tres cantos
+- ácido hialurónico madrid norte
+- tratamientos faciales tres cantos
+
+Schema.org: MedicalBusiness + LocalBusiness
+
+
+ACCESIBILIDAD:
+─────────────────────────────────────────────────────────────────────
+
+• Contraste WCAG AA mínimo
+• Alt text en todas las imágenes
+• Focus states visibles (outline dorado)
+• Navegación por teclado
+• ARIA labels en icons
+• Tamaños de fuente escalables (rem)
+
+
+PERFORMANCE:
+─────────────────────────────────────────────────────────────────────
+
+• Imágenes: WebP + lazy loading
+• CSS crítico inline
+• JavaScript diferido
+• Fonts: Preload críticos
+• Target: PageSpeed >90
+
+
+═══════════════════════════════════════════════════════════════════════
+RESUMEN VISUAL (MOODBOARD)
+═══════════════════════════════════════════════════════════════════════
+
+Imagina:
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                       │
+│  [Logo]                              [RESERVAR CONSULTA]            │
+│                                                                       │
+│  ─────────────────────────────────────────────────────────────────  │
+│                                                                       │
+│                     MEDICINA ESTÉTICA                                │
+│                   Con Garantía Médica                                │
+│                                                                       │
+│              Primera consulta gratuita con nuestro                   │
+│                      equipo médico                                   │
+│                                                                       │
+│        [RESERVAR CONSULTA GRATIS]  [Ver tratamientos]               │
+│                                                                       │
+│  │ Clínica Certificada CS14273                                       │
+│                                                                       │
+│         [Imagen instalaciones clínica moderna blanca]                │
+│                                                                       │
+└─────────────────────────────────────────────────────────────────────┘
+
+COLORES PREDOMINANTES:
+███ Blanco (80%)
+███ Gris oscuro (15% texto)
+██  Dorado (5% acentos)
+
+
+TIPOGRAFÍA:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Medicina Estética ← Cormorant Garamond Light 56px
+Con Garantía Médica ← Cormorant Garamond Light 56px
+
+Primera consulta gratuita ← Karla Regular 20px
+
+
+SENSACIÓN GENERAL:
+• Sereno
+• Profesional
+• Confiable
+• Premium pero accesible
+• Médico pero humano
+
+
+═══════════════════════════════════════════════════════════════════════
+ENTREGABLES ESPERADOS
+═══════════════════════════════════════════════════════════════════════
+
+1. HTML semántico completo (index.html)
+2. CSS modular (styles.css o SCSS)
+3. JavaScript para interactividad (script.js)
+4. Imágenes optimizadas (si usas placeholders, indicar dimensiones)
+5. README con instrucciones
+6. Responsive completo (mobile, tablet, desktop)
+
+
+═══════════════════════════════════════════════════════════════════════
+NOTAS FINALES
+═══════════════════════════════════════════════════════════════════════
+
+Este diseño debe equilibrar:
+✓ Profesionalidad médica (70%)
+✓ Calidez y belleza (30%)
+
+NO debe parecer:
+✗ Hospital frío y aséptico
+✗ Spa de masajes económico
+✗ Salón de belleza común
+
+DEBE parecer:
+✓ Clínica suiza de lujo
+✓ Consultorio médico premium
+✓ Spa médico nórdico
+
+El dorado es ACENTO, no protagonista.
+El blanco es espacio para respirar, no vacío.
+La tipografía es elegante, no pretenciosa.
+
+Ver archivo beautyyou.src.html para más informacion referente a la web actual.
+
+Te estoy dejando unas imágener before-after en la carpeta research para que incluyas una seccion before and after con algunas imágenes donde se muestre el trabajo realizado
+
+═══════════════════════════════════════════════════════════════════════
+FIN DEL PROMPT
+═══════════════════════════════════════════════════════════════════════

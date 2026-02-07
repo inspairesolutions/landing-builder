@@ -1,0 +1,25 @@
+{
+    "name": "Barón Joyeros",
+    "short_name": "Barón Joyeros",
+    "description": "Joyería familiar en Alcobendas con más de 30 años de experiencia. Especialistas en oro, plata y brillantes.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#D4AF37",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/research/logo_baron_joyeros.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/research/logo_baron_joyeros.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "categories": ["shopping", "jewelry", "business"],
+    "lang": "es",
+    "dir": "ltr"
+}

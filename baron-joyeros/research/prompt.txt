@@ -1,0 +1,64 @@
+Lee el skill frontend-design. Voy a desarrollar una web para Joyería Jesús en Tres Cantos, Madrid.
+
+INFORMACIÓN DEL NEGOCIO:
+- Nombre: Barón Joyeros
+- Ubicación: C. de la Constitución, 50, 28100 Alcobendas, Madrid
+- Teléfono: 916593932
+- Años de experiencia: 30+ años
+- Tipo: Joyería familiar con taller propio
+- Servicios: Venta de joyas (plata y oro, cruces, medallas, pendientes, brillantes, gargantillas, alianzas), reparación de joyas, arreglos de relojes, taller propio
+
+CONTENIDO ENCONTRADO:
+Venta al menor de Joyería Oro 9 Kilates y Oro 18 Kilates, Plata de Ley 925 Milésimas. Relojería. Fabricación y taller propio de reparaciones.
+
+RESEÑAS POSITIVAS (Google):
+Total puntuacion 4,6 (110)
+- Jennifer Azaña
+Local Guide · 48 reseñas · 1 foto
+Hace 9 meses
+Mi novio me regaló un anillo de compromiso precioso de este sitio. Tuvieron que retocarmelo dos veces (sin coste extra) porque tengo los dedos muy finos y mi talla está un poco al límite 😂 pero muy bien, muy buen servicio y muy buena atención.…
+
+- Teresa de Juan Martín
+Local Guide · 68 reseñas · 7 fotos
+Hace 5 meses
+Alianzas perfectas a precio muy muy competitivo y listas en una semana! José María además es encantador! Muchas gracias!!
+
+- Eva Rivera Suero
+Local Guide · 82 reseñas · 43 fotos
+Hace un año
+Encarni un encanto de 10 Excelente profesional y como persona un sol volveré sin duda muchas gracias por ser así bonita❤️❤️
+
+RECURSOS VISUALES:
+- Logo: revisa la carpeta de research para ver imagenes
+- Paleta de colores sugerida: Oro (#D4AF37), Negro elegante (#1a1a1a), Blanco (#FFFFFF), Gris suave (#F5F5F5)
+
+OBJETIVO:
+Crear una web de 5 páginas (inicio, servicios, galería, sobre nosotros, contacto) con diseño elegante, minimalista y sofisticado. Debe transmitir confianza, calidad y tradición familiar.
+
+PÁGINAS REQUERIDAS:
+1. INICIO: Hero impactante con el logo, breve descripción, call-to-action "Visítanos", sección de servicios destacados, testimonios de clientes
+2. SERVICIOS: Lista detallada de servicios (venta, reparación, diseño personalizado, taller propio)
+3. GALERÍA: Grid de imágenes de joyas (usar placeholders de alta calidad por ahora)
+4. SOBRE NOSOTROS: Historia familiar, 30+ años de experiencia, valores (calidad, confianza, tradición)
+5. CONTACTO: Formulario, teléfono, dirección, Google Maps embebido, horarios
+
+REQUISITOS TÉCNICOS:
+- HTML/CSS/JS vanilla (sin frameworks)
+- SEO optimizado para "joyería Alcobendas"
+- Schema.org LocalBusiness markup
+- Responsive mobile-first
+- Lazy loading de imágenes
+- Formulario de contacto funcional (con validación)
+- Google Maps integrado: https://maps.app.goo.gl/vVS37z7LLCeWENnY9
+- Optimizado para Google PageSpeed (>90)
+
+DISEÑO:
+- Estética: Elegante, minimalista, lujo discreto
+- Tipografía: Serif elegante para headings, Sans-serif limpia para body
+- Colores: Predominantemente blanco/negro con acentos dorados
+- Espaciado generoso (sensación premium)
+- Fotografía de producto destacada y grande
+- Animaciones sutiles y sofisticadas
+- Evitar: diseños recargados, colores chillones, tipografías genéricas (Inter, Arial, Roboto)
+
+Por favor, genera la estructura completa del proyecto con todos los archivos necesarios.

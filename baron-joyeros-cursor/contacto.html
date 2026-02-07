@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Contacto Barón Joyeros (Alcobendas): teléfono, dirección, horarios, formulario de contacto y mapa. Taller propio y atención cercana." />
+    <title>Contacto | Barón Joyeros · Alcobendas</title>
+    <link rel="canonical" href="./contacto.html" />
+    <meta name="theme-color" content="#1a1a1a" />
+    <link rel="icon" href="./assets/img/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./assets/css/styles.css" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "JewelryStore",
+        "name": "Barón Joyeros",
+        "telephone": "+34 916 593 932",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "C. de la Constitución, 50",
+          "postalCode": "28100",
+          "addressLocality": "Alcobendas",
+          "addressRegion": "Madrid",
+          "addressCountry": "ES"
+        },
+        "url": "./contacto.html"
+      }
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+
+    <header class="site-header" data-elevate>
+      <div class="container header-inner">
+        <a class="brand" href="./index.html" aria-label="Barón Joyeros, inicio">
+          <img src="./assets/img/logo_baron_joyeros.png" width="160" height="48" alt="Barón Joyeros" decoding="async" />
+        </a>
+
+        <nav class="nav" aria-label="Navegación principal">
+          <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="menu">
+            <span class="nav-toggle-lines" aria-hidden="true"></span>
+            <span class="sr-only">Abrir menú</span>
+          </button>
+
+          <ul id="menu" class="nav-menu">
+            <li><a class="nav-link" href="./index.html">Inicio</a></li>
+            <li><a class="nav-link" href="./servicios.html">Servicios</a></li>
+            <li><a class="nav-link" href="./galeria.html">Galería</a></li>
+            <li><a class="nav-link" href="./sobre-nosotros.html">Sobre nosotros</a></li>
+            <li><a class="nav-link nav-cta is-active" href="./contacto.html">Contacto</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="contenido">
+      <section class="page-hero">
+        <div class="container">
+          <p class="eyebrow">Contacto</p>
+          <h1 class="h1">Visítanos en Alcobendas</h1>
+          <p class="lead">Te atendemos en tienda o por teléfono. Si prefieres, envíanos un mensaje.</p>
+        </div>
+      </section>
+
+      <section class="section" aria-labelledby="info-contacto">
+        <div class="container contact-grid">
+          <div class="contact-card" data-reveal>
+            <h2 id="info-contacto" class="h2">Datos</h2>
+
+            <dl class="dl">
+              <div class="dl-row">
+                <dt>Teléfono</dt>
+                <dd><a class="link" href="tel:+34916593932">+34 916 593 932</a></dd>
+              </div>
+              <div class="dl-row">
+                <dt>Dirección</dt>
+                <dd>
+                  C. de la Constitución, 50<br />
+                  28100 Alcobendas, Madrid
+                </dd>
+              </div>
+              <div class="dl-row">
+                <dt>Horarios</dt>
+                <dd class="muted">Lunes–Sábado: 10:00–14:00 · 17:00–20:30<br />Domingo: cerrado</dd>
+              </div>
+            </dl>
+
+            <div class="contact-actions">
+              <a class="btn btn-primary" href="tel:+34916593932">Llamar ahora</a>
+              <a class="btn btn-ghost" href="#mapa">Ver mapa</a>
+            </div>
+          </div>
+
+          <div class="contact-card" data-reveal>
+            <h2 class="h2">Formulario</h2>
+            <p class="muted">Respuesta lo antes posible en horario comercial.</p>
+
+            <form id="contact-form" class="form" action="./contact.php" method="post" novalidate>
+              <div class="form-row">
+                <label for="nombre">Nombre</label>
+                <input id="nombre" name="nombre" type="text" autocomplete="name" required minlength="2" />
+                <p class="field-error" data-error-for="nombre" aria-live="polite"></p>
+              </div>
+
+              <div class="form-row">
+                <label for="email">Email</label>
+                <input id="email" name="email" type="email" autocomplete="email" required />
+                <p class="field-error" data-error-for="email" aria-live="polite"></p>
+              </div>
+
+              <div class="form-row">
+                <label for="telefono">Teléfono (opcional)</label>
+                <input id="telefono" name="telefono" type="tel" autocomplete="tel" inputmode="tel" />
+                <p class="field-error" data-error-for="telefono" aria-live="polite"></p>
+              </div>
+
+              <div class="form-row">
+                <label for="mensaje">Mensaje</label>
+                <textarea id="mensaje" name="mensaje" rows="6" required minlength="10"></textarea>
+                <p class="field-error" data-error-for="mensaje" aria-live="polite"></p>
+              </div>
+
+              <div class="form-row form-row-inline">
+                <input id="consent" name="consent" type="checkbox" required />
+                <label for="consent">Acepto que se use mi mensaje para responder a mi consulta.</label>
+              </div>
+              <p class="field-error" data-error-for="consent" aria-live="polite"></p>
+
+              <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true" />
+
+              <div class="form-actions">
+                <button class="btn btn-primary" type="submit">Enviar</button>
+                <p class="muted fineprint">También puedes llamarnos al <a class="link" href="tel:+34916593932">916 593 932</a>.</p>
+              </div>
+
+              <div id="form-status" class="form-status" role="status" aria-live="polite"></div>
+            </form>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-alt" id="mapa" aria-labelledby="mapa-title">
+        <div class="container">
+          <div class="section-head">
+            <h2 id="mapa-title" class="h2">Cómo llegar</h2>
+            <p class="muted">C. de la Constitución, 50 · Alcobendas</p>
+          </div>
+
+          <div class="map-wrap" data-reveal>
+            <iframe
+              title="Mapa de Barón Joyeros en Alcobendas"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+              src="https://www.google.com/maps?q=C.%20de%20la%20Constituci%C3%B3n%2050%2C%2028100%20Alcobendas%2C%20Madrid&output=embed"
+            ></iframe>
+          </div>
+          <p class="fineprint">
+            Enlace directo: <a class="link" href="https://maps.app.goo.gl/vVS37z7LLCeWENnY9" rel="noopener">Google Maps</a>
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div>
+          <p class="footer-brand">Barón Joyeros</p>
+          <p class="muted">Joyería familiar con taller propio en Alcobendas, Madrid.</p>
+        </div>
+        <div>
+          <p class="footer-title">Contacto</p>
+          <p><a class="link" href="tel:+34916593932">+34 916 593 932</a></p>
+          <p class="muted">C. de la Constitución, 50 · 28100 Alcobendas</p>
+        </div>
+        <div>
+          <p class="footer-title">Navegación</p>
+          <ul class="footer-links">
+            <li><a class="link" href="./index.html">Inicio</a></li>
+            <li><a class="link" href="./servicios.html">Servicios</a></li>
+            <li><a class="link" href="./galeria.html">Galería</a></li>
+            <li><a class="link" href="./sobre-nosotros.html">Sobre nosotros</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="container footer-bottom">
+        <p class="muted">© <span id="year"></span> Barón Joyeros. Todos los derechos reservados.</p>
+      </div>
+    </footer>
+
+    <script src="./assets/js/main.js" defer></script>
+    <script src="./assets/js/contact.js" defer></script>
+  </body>
+</html>

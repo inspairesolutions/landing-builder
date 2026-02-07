@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Galería de joyas de Barón Joyeros en Alcobendas. Descubre nuestra colección de anillos, pendientes, collares, alianzas y más en oro y plata.">
+    <meta name="keywords" content="galería joyas, fotos joyas, anillos oro, pendientes plata, alianzas boda, joyería Alcobendas">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Galería | Barón Joyeros - Colección de Joyas">
+    <meta property="og:description" content="Explora nuestra colección de joyas en oro y plata. Anillos, pendientes, collares y alianzas de la más alta calidad.">
+    <meta property="og:image" content="img/foto_tienda_interior.jpg">
+    <meta property="og:url" content="https://baronjoyeros.com/galeria">
+    <meta property="og:type" content="website">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://baronjoyeros.com/galeria.html">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="img/logo_baron_joyeros.png">
+
+    <!-- Preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <title>Galería | Barón Joyeros - Colección de Joyas en Alcobendas</title>
+</head>
+<body>
+    <!-- Skip Link -->
+    <a href="#main-content" class="skip-link">Saltar al contenido principal</a>
+
+    <!-- Header -->
+    <header class="header" id="header">
+        <nav class="nav">
+            <a href="index.html" class="logo">
+                <img src="img/logo_baron_joyeros.png" alt="Barón Joyeros" class="logo__img" width="150" height="40">
+            </a>
+
+            <button class="nav__toggle" id="navToggle" aria-label="Abrir menú" aria-expanded="false">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+            <ul class="nav__menu" id="navMenu">
+                <li><a href="index.html" class="nav__link">Inicio</a></li>
+                <li><a href="servicios.html" class="nav__link">Servicios</a></li>
+                <li><a href="galeria.html" class="nav__link nav__link--active">Galería</a></li>
+                <li><a href="nosotros.html" class="nav__link">Nosotros</a></li>
+                <li><a href="contacto.html" class="nav__link">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="main-content">
+        <!-- Hero Secundario -->
+        <section class="hero hero--secondary">
+            <div class="hero__background">
+                <img
+                    src="img/foto_tienda_interior.jpg"
+                    alt="Interior de Barón Joyeros"
+                    class="hero__image"
+                    width="1920"
+                    height="600"
+                >
+                <div class="hero__overlay"></div>
+            </div>
+            <div class="hero__content">
+                <p class="hero__subtitle">Nuestra Colección</p>
+                <h1 class="hero__title">Galería de Joyas</h1>
+            </div>
+        </section>
+
+        <!-- Galería -->
+        <section class="section" aria-labelledby="gallery-title">
+            <div class="container">
+                <header class="section__header fade-in">
+                    <p class="section__subtitle">Explora Nuestra Colección</p>
+                    <h2 class="section__title" id="gallery-title">Joyas Que Cuentan Historias</h2>
+                    <div class="divider">
+                        <span class="divider__icon">◆</span>
+                    </div>
+                    <p class="section__description">Cada pieza de nuestra colección está seleccionada con el máximo cuidado para ofrecerte solo lo mejor en joyería.</p>
+                </header>
+
+                <!-- Filtros -->
+                <div class="gallery-filters fade-in" role="group" aria-label="Filtros de galería">
+                    <button class="gallery-filter gallery-filter--active" data-filter="all">Todas</button>
+                    <button class="gallery-filter" data-filter="anillos">Anillos</button>
+                    <button class="gallery-filter" data-filter="pendientes">Pendientes</button>
+                    <button class="gallery-filter" data-filter="collares">Collares</button>
+                    <button class="gallery-filter" data-filter="alianzas">Alianzas</button>
+                    <button class="gallery-filter" data-filter="relojes">Relojes</button>
+                </div>
+
+                <!-- Grid de Galería -->
+                <div class="gallery-grid" id="galleryGrid">
+                    <!-- Anillos -->
+                    <article class="gallery-item fade-in" data-category="anillos">
+                        <img
+                            data-src="https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=600&q=80"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            alt="Anillo de compromiso con diamante"
+                            class="lazy"
+                            width="400"
+                            height="400"
+                        >
+                        <div class="gallery-item__overlay">
+                            <h3 class="gallery-item__title">Anillo de Compromiso</h3>
+                            <span class="gallery-item__category">Anillos</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-item fade-in" data-category="pendientes">
+                        <img
+                            data-src="https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&q=80"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            alt="Pendientes de oro con perlas"
+                            class="lazy"
+                            width="400"
+                            height="400"
+                        >
+                        <div class="gallery-item__overlay">
+                            <h3 class="gallery-item__title">Pendientes con Perlas</h3>
+                            <span class="gallery-item__category">Pendientes</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-item fade-in" data-category="collares">
+                        <img
+                            data-src="https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&q=80"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            alt="Collar de oro elegante"
+                            class="lazy"
+                            width="400"
+                            height="400"
+                        >
+                        <div class="gallery-item__overlay">
+                            <h3 class="gallery-item__title">Collar de Oro</h3>
+                            <span class="gallery-item__category">Collares</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-item fade-in" data-category="alianzas">
+                        <img
+                            data-src="https://images.unsplash.com/photo-1544078751-58fee2d8a03b?w=600&q=80"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            alt="Alianzas de boda en oro"
+                            class="lazy"
+                            width="400"
+                            height="400"
+                        >
+                        <div class="gallery-item__overlay">
+                            <h3 class="gallery-item__title">Alianzas de Boda</h3>
+                            <span class="gallery-item__category">Alianzas</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-item fade-in" data-category="relojes">
+                        <img
+                            data-src="https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=600&q=80"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            alt="Reloj clásico elegante"
+                            class="lazy"
+                            width="400"
+                            height="400"
+                        >
+                        <div class="gallery-item__overlay">
+                            <h3 class="gallery-item__title">Reloj Clásico</h3>
+                            <span class="gallery-item__category">Relojes</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-item fade-in" data-category="anillos">
+                        <img
+                            data-src="https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=600&q=80"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            alt="Anillo de oro con piedra preciosa"
+                            class="lazy"
+                            width="400"
+                            height="400"
+                        >
+                        <div class="gallery-item__overlay">
+                            <h3 class="gallery-item__title">Anillo con Piedra</h3>
+                            <span class="gallery-item__category">Anillos</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-item fade-in" data-category="pendientes">
+                        <img
+                            data-src="https://images.unsplash.com/photo-1588444837495-c6cfeb53f32d?w=600&q=80"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            alt="Pendientes de plata elegantes"
+                            class="lazy"
+                            width="400"
+                            height="400"
+                        >
+                        <div class="gallery-item__overlay">
+                            <h3 class="gallery-item__title">Pendientes de Plata</h3>
+                            <span class="gallery-item__category">Pendientes</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-item fade-in" data-category="collares">
+                        <img
+                            data-src="https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600&q=80"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            alt="Gargantilla de perlas"
+                            class="lazy"
+                            width="400"
+                            height="400"
+                        >
+                        <div class="gallery-item__overlay">
+                            <h3 class="gallery-item__title">Gargantilla de Perlas</h3>
+                            <span class="gallery-item__category">Collares</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-item fade-in" data-category="anillos">
+                        <img
+                            data-src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            alt="Set de anillos elegantes"
+                            class="lazy"
+                            width="400"
+                            height="400"
+                        >
+                        <div class="gallery-item__overlay">
+                            <h3 class="gallery-item__title">Set de Anillos</h3>
+                            <span class="gallery-item__category">Anillos</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-item fade-in" data-category="alianzas">
+                        <img
+                            data-src="https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=600&q=80"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            alt="Alianzas de oro blanco"
+                            class="lazy"
+                            width="400"
+                            height="400"
+                        >
+                        <div class="gallery-item__overlay">
+                            <h3 class="gallery-item__title">Alianzas Oro Blanco</h3>
+                            <span class="gallery-item__category">Alianzas</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-item fade-in" data-category="pendientes">
+                        <img
+                            data-src="https://images.unsplash.com/photo-1629224316810-9d8805b95e76?w=600&q=80"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            alt="Pendientes de aro dorados"
+                            class="lazy"
+                            width="400"
+                            height="400"
+                        >
+                        <div class="gallery-item__overlay">
+                            <h3 class="gallery-item__title">Aros Dorados</h3>
+                            <span class="gallery-item__category">Pendientes</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-item fade-in" data-category="relojes">
+                        <img
+                            data-src="https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=600&q=80"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            alt="Reloj de pulsera moderno"
+                            class="lazy"
+                            width="400"
+                            height="400"
+                        >
+                        <div class="gallery-item__overlay">
+                            <h3 class="gallery-item__title">Reloj Moderno</h3>
+                            <span class="gallery-item__category">Relojes</span>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- CTA Section -->
+        <section class="section cta-section" aria-labelledby="cta-title">
+            <div class="container">
+                <h2 class="cta-section__title" id="cta-title">¿Te gusta lo que ves?</h2>
+                <p class="cta-section__text">Visítanos en nuestra tienda para ver toda nuestra colección y encontrar la joya perfecta para ti.</p>
+                <a href="contacto.html" class="btn btn--primary">Visítanos</a>
+            </div>
+        </section>
+    </main>
+
+    <!-- Lightbox -->
+    <div class="lightbox" id="lightbox" role="dialog" aria-hidden="true" aria-label="Visor de imagen">
+        <div class="lightbox__content">
+            <button class="lightbox__close" aria-label="Cerrar">&times;</button>
+            <button class="lightbox__nav lightbox__prev" aria-label="Imagen anterior">&#10094;</button>
+            <img src="" alt="" class="lightbox__image">
+            <button class="lightbox__nav lightbox__next" aria-label="Siguiente imagen">&#10095;</button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer__info">
+                    <img src="img/logo_baron_joyeros.png" alt="Barón Joyeros" class="footer__logo" width="150" height="50">
+                    <p class="footer__text">Joyería familiar con más de 30 años de experiencia en Alcobendas. Calidad, confianza y tradición en cada pieza.</p>
+                </div>
+
+                <div class="footer__nav">
+                    <h3 class="footer__title">Navegación</h3>
+                    <ul class="footer__links">
+                        <li><a href="index.html" class="footer__link">Inicio</a></li>
+                        <li><a href="servicios.html" class="footer__link">Servicios</a></li>
+                        <li><a href="galeria.html" class="footer__link">Galería</a></li>
+                        <li><a href="nosotros.html" class="footer__link">Nosotros</a></li>
+                        <li><a href="contacto.html" class="footer__link">Contacto</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer__services">
+                    <h3 class="footer__title">Servicios</h3>
+                    <ul class="footer__links">
+                        <li><a href="servicios.html" class="footer__link">Joyas Oro y Plata</a></li>
+                        <li><a href="servicios.html" class="footer__link">Relojería</a></li>
+                        <li><a href="servicios.html" class="footer__link">Reparaciones</a></li>
+                        <li><a href="servicios.html" class="footer__link">Alianzas</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer__contact">
+                    <h3 class="footer__title">Contacto</h3>
+                    <div class="footer__contact-item">
+                        <span class="footer__contact-icon">📍</span>
+                        <span>C. de la Constitución, 50<br>28100 Alcobendas, Madrid</span>
+                    </div>
+                    <div class="footer__contact-item">
+                        <span class="footer__contact-icon">📞</span>
+                        <a href="tel:+34916593932">916 593 932</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p class="footer__copyright">© 2024 Barón Joyeros. Todos los derechos reservados.</p>
+                <div class="footer__social">
+                    <a href="#" class="footer__social-link" aria-label="Facebook">
+                        <svg viewBox="0 0 24 24" aria-hidden="true">
+                            <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>
+                        </svg>
+                    </a>
+                    <a href="#" class="footer__social-link" aria-label="Instagram">
+                        <svg viewBox="0 0 24 24" aria-hidden="true">
+                            <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+                            <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/>
+                            <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="js/main.js" defer></script>
+</body>
+</html>
