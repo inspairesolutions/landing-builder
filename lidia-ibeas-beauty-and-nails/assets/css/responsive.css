@@ -1,0 +1,311 @@
+/* ═══════════════════════════════════════════════════════
+   LIDIA IBEAS BEAUTY & NAILS — Responsive Styles
+   ═══════════════════════════════════════════════════════ */
+
+/* ─── Tablet (768px - 1024px) ─── */
+@media (max-width: 1024px) {
+  :root {
+    --container-padding: 40px;
+  }
+
+  .section {
+    padding: 100px 0;
+  }
+
+  .process,
+  .contact,
+  .faq {
+    padding: 80px 0;
+  }
+
+  /* Services: 2 columns */
+  .services__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* Portfolio: 3 columns */
+  .portfolio__grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  /* Contact: stack */
+  .contact__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contact__map {
+    height: 400px;
+    order: 2;
+  }
+
+  .contact__info {
+    order: 1;
+  }
+
+  /* Process: keep line */
+  .process__grid::before {
+    left: 15%;
+    right: 15%;
+  }
+}
+
+
+/* ─── Mobile (< 768px) ─── */
+@media (max-width: 767px) {
+  :root {
+    --container-padding: 24px;
+  }
+
+  body {
+    font-size: 1rem;
+  }
+
+  /* Typography */
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+  /* Sections */
+  .section {
+    padding: 80px 0;
+  }
+
+  .section-header {
+    margin-bottom: var(--space-5);
+  }
+
+  .process,
+  .contact,
+  .faq {
+    padding: 60px 0;
+  }
+
+  /* Header */
+  .header__inner {
+    padding: 0 var(--container-padding);
+  }
+
+  .nav {
+    display: none;
+  }
+
+  .header__cta {
+    display: none;
+  }
+
+  .hamburger {
+    display: flex;
+  }
+
+  /* Ensure hamburger stays black when menu is open */
+  .hamburger--active .hamburger__line {
+    background: var(--color-black);
+  }
+
+  /* Hero */
+  .hero {
+    min-height: 85vh;
+  }
+
+  .hero__title {
+    font-size: 2.5rem;
+  }
+
+  .hero__subtitle {
+    font-size: 1.0625rem;
+  }
+
+  .hero__badges {
+    gap: 8px;
+  }
+
+  .hero__badge {
+    font-size: 0.8125rem;
+    padding: 6px 12px;
+  }
+
+  .hero__ctas {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .hero__ctas .btn {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .hero__scroll-indicator {
+    bottom: 80px;
+  }
+
+  /* USP: stack */
+  .usp__grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-5);
+  }
+
+  /* Services: 1 column */
+  .services__grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-3);
+  }
+
+  /* Portfolio: 2 columns */
+  .portfolio__grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-1);
+  }
+
+  .portfolio__item--tall {
+    grid-row: span 1;
+    aspect-ratio: 1;
+  }
+
+  .portfolio__filters {
+    gap: var(--space-1);
+  }
+
+  .portfolio__filter-btn {
+    font-size: 0.8125rem;
+    padding: 6px 14px;
+  }
+
+  /* Testimonials: 1 column */
+  .testimonials__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .testimonials__rating {
+    font-size: 2.5rem;
+  }
+
+  /* Process: stack */
+  .process__grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-5);
+  }
+
+  .process__grid::before {
+    display: none;
+  }
+
+  /* Contact */
+  .contact__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contact__map {
+    height: 300px;
+  }
+
+  /* FAQ */
+  .faq__question {
+    padding: var(--space-2) 0;
+    font-size: 1rem;
+  }
+
+  .faq__answer-inner {
+    padding: 0 0 var(--space-2);
+    font-size: 0.9375rem;
+    background: transparent;
+  }
+
+  .faq__item--open .faq__question {
+    background: transparent;
+    border-radius: 0;
+  }
+
+  /* Footer */
+  .footer__grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-4);
+  }
+
+  .footer__bottom {
+    flex-direction: column;
+    gap: var(--space-1);
+    text-align: center;
+  }
+
+  /* Buttons */
+  .btn {
+    padding: 16px 32px;
+    font-size: 0.9375rem;
+  }
+
+  /* WhatsApp float - adjust for sticky CTA */
+  .whatsapp-float {
+    bottom: 88px;
+    width: 52px;
+    height: 52px;
+  }
+
+  .whatsapp-float svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  /* Mobile Sticky CTA */
+  .mobile-sticky-cta {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: var(--color-white);
+    padding: 12px var(--container-padding);
+    box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.08);
+    z-index: 950;
+  }
+
+  .mobile-sticky-cta .btn {
+    width: 100%;
+    padding: 16px;
+  }
+
+  /* Lightbox */
+  .lightbox__nav--prev {
+    left: 8px;
+  }
+
+  .lightbox__nav--next {
+    right: 8px;
+  }
+
+  .lightbox__close {
+    top: 16px;
+    right: 16px;
+  }
+}
+
+
+/* ─── Very Small Screens ─── */
+@media (max-width: 375px) {
+  .hero__title {
+    font-size: 2rem;
+  }
+
+  .hero__subtitle {
+    font-size: 1rem;
+  }
+
+  .portfolio__grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+
+/* ─── Large Screens (> 1440px) ─── */
+@media (min-width: 1440px) {
+  .hero__title {
+    font-size: 4rem;
+  }
+}

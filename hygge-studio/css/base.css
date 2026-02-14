@@ -1,0 +1,114 @@
+/* ═══════════════════════════════════════════════════════
+   HYGGE STUDIO - Base Typography & Global Styles
+   ═══════════════════════════════════════════════════════ */
+
+body {
+  font-family: var(--font-body);
+  font-size: var(--text-body-sm);
+  font-weight: var(--weight-regular);
+  line-height: var(--leading-relaxed);
+  color: var(--color-black-soft);
+  background-color: var(--color-off-white);
+  letter-spacing: var(--tracking-slight);
+}
+
+/* ── Skip to Content ── */
+.skip-to-content {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  padding: var(--space-2) var(--space-3);
+  background: var(--color-terracotta);
+  color: var(--color-black);
+  font-family: var(--font-heading);
+  font-weight: var(--weight-medium);
+  font-size: var(--text-small);
+  letter-spacing: var(--tracking-wide);
+  text-transform: uppercase;
+  z-index: 9999;
+}
+
+.skip-to-content:focus {
+  left: var(--space-3);
+  top: var(--space-3);
+}
+
+/* ── Headings ── */
+h1 {
+  font-family: var(--font-heading);
+  font-weight: var(--weight-medium);
+  font-size: var(--text-h1);
+  line-height: var(--leading-tight);
+  letter-spacing: var(--tracking-tight);
+  color: var(--color-black);
+}
+
+h2 {
+  font-family: var(--font-heading);
+  font-weight: var(--weight-regular);
+  font-size: var(--text-h2);
+  line-height: var(--leading-tight);
+  letter-spacing: var(--tracking-tight);
+  color: var(--color-black);
+}
+
+h3 {
+  font-family: var(--font-heading);
+  font-weight: var(--weight-regular);
+  font-size: var(--text-h3);
+  line-height: var(--leading-tight);
+  letter-spacing: var(--tracking-tight);
+  color: var(--color-black);
+}
+
+/* ── Body Text ── */
+p {
+  font-size: var(--text-body);
+  line-height: var(--leading-relaxed);
+  color: var(--color-black-soft);
+}
+
+p + p {
+  margin-top: var(--space-2);
+}
+
+/* ── Links ── */
+a {
+  transition: color var(--transition-fast);
+}
+
+/* ── Selection ── */
+::selection {
+  background: var(--color-terracotta);
+  color: var(--color-black);
+}
+
+/* ── Eyebrow Text ── */
+.eyebrow {
+  font-family: var(--font-body);
+  font-weight: var(--weight-regular);
+  font-size: var(--text-small);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wider);
+  color: var(--color-terracotta);
+  margin-bottom: var(--space-2);
+}
+
+/* ── Section Heading ── */
+.section-heading {
+  font-family: var(--font-heading);
+  font-weight: var(--weight-medium);
+  font-size: var(--text-h2);
+  text-align: center;
+  margin-bottom: var(--space-8);
+  color: var(--color-black);
+}
+
+/* ── Section Subtitle ── */
+.section-subtitle {
+  font-family: var(--font-body);
+  font-size: var(--text-body);
+  color: var(--color-text-secondary);
+  text-align: center;
+  margin-bottom: var(--space-2);
+}

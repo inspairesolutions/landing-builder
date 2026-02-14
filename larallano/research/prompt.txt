@@ -1,0 +1,838 @@
+═══════════════════════════════════════════════════════════════════════
+PROMPT PARA CLAUDE CODE: REDISEÑO WEB LARA LLANO
+═══════════════════════════════════════════════════════════════════════
+
+Lee el skill frontend-design antes de empezar.
+
+═══════════════════════════════════════════════════════════════════════
+CONTEXTO DEL PROYECTO
+═══════════════════════════════════════════════════════════════════════
+
+Cliente: Lara Llano
+Profesión: Maquilladora Profesional | Beauty Coach | Hair Stylist
+Ubicación: Centro SLOW BEAUTY, Sector Pintores 2, Tres Cantos, Madrid
+
+Web actual: https://www.larallano.com/ (Wix antigua, necesita renovación)
+
+Especialidades:
+─────────────────────────────────────────────────────────────────────
+• Maquillaje de Novias (Happily Ever After)
+• Maquillaje Social (Eventos)
+• Spots publicitarios y videoclips
+• Sesiones de moda (editoriales, shootings)
+• Cortometrajes
+• Cursos de automaquillaje
+• Beauty Coach (SLOW BEAUTY - Belleza Natural)
+
+Experiencia destacada:
+─────────────────────────────────────────────────────────────────────
+• Spots: Calzedonia, Women's Secret, Mayoral, Cortefiel, ONCE
+• Videoclips: Sôber, Vita Imana, UMMO
+• Series/Cine: Máxima (Max), colaboraciones con Alba Ricart
+• Formada con Vicky Marcos y Gegé Godoy
+
+Filosofía:
+─────────────────────────────────────────────────────────────────────
+"SLOW BEAUTY" - Belleza Natural
+• Origen: Nacida en Cantabria, criada en plena naturaleza
+• Enfoque: Realzar la belleza natural de cada persona
+• Cada novia/cliente se siente "ella misma y única"
+• Experimentar con color y texturas desde niña
+
+Contacto:
+─────────────────────────────────────────────────────────────────────
+Teléfono: 611 151 826
+Email: info@larallano.com
+Instagram: @larallano (principal canal)
+
+
+═══════════════════════════════════════════════════════════════════════
+OBJETIVOS DE LA RENOVACIÓN
+═══════════════════════════════════════════════════════════════════════
+
+1. TRANSMITIR PROFESIONALIDAD CREATIVA (no corporativa)
+2. Mostrar PORTFOLIO visual impactante (el trabajo habla por sí solo)
+3. Comunicar filosofía SLOW BEAUTY (naturalidad, autenticidad)
+4. Diferenciarse de maquilladoras genéricas
+5. Convertir visitas en reservas (bodas, eventos, publicidad)
+6. SEO local: "maquilladora bodas madrid", "maquillaje novias tres cantos"
+
+
+═══════════════════════════════════════════════════════════════════════
+PÚBLICO OBJETIVO
+═══════════════════════════════════════════════════════════════════════
+
+PRIMARY (70%):
+─────────────────────────────────────────────────────────────────────
+• Novias (25-35 años)
+• Nivel adquisitivo medio-alto
+• Bodas en Madrid y alrededores
+• Buscan estilo natural-elegante (no maquillaje "cargado")
+• Valoran profesionalidad + personalización
+
+SECONDARY (30%):
+─────────────────────────────────────────────────────────────────────
+• Productoras audiovisuales (spots, videoclips)
+• Fotógrafos (sesiones moda/editorial)
+• Eventos corporativos/sociales
+• Clientes cursos automaquillaje
+
+
+═══════════════════════════════════════════════════════════════════════
+ANÁLISIS WEB ACTUAL (PROBLEMAS)
+═══════════════════════════════════════════════════════════════════════
+
+PROBLEMAS DETECTADOS:
+─────────────────────────────────────────────────────────────────────
+❌ Wix antigua (2019) - diseño genérico
+❌ Portfolio enterrado (difícil acceder a bodas)
+❌ Videos Publicidad sin contexto (solo embeds)
+❌ Navegación confusa (6 secciones no claras)
+❌ CTA poco visible ("Agenda tu cita" en footer)
+❌ Filosofía SLOW BEAUTY poco destacada
+❌ No transmite el nivel de trabajos (Calzedonia, Cortefiel, etc.)
+❌ Responsive mejorable
+❌ Carga lenta (muchas imágenes pesadas)
+
+
+OPORTUNIDADES:
+─────────────────────────────────────────────────────────────────────
+✅ Portfolio impresionante (bodas + publicidad)
+✅ Experiencia de alto nivel (marcas grandes)
+✅ Filosofía clara (SLOW BEAUTY)
+✅ Ubicación Tres Cantos (mercado local)
+✅ Contacto directo disponible
+
+
+═══════════════════════════════════════════════════════════════════════
+DIRECTRICES DE DISEÑO
+═══════════════════════════════════════════════════════════════════════
+
+ESTÉTICA GENERAL:
+─────────────────────────────────────────────────────────────────────
+Concepto: "Natural Editorial" - Profesionalidad creativa con alma
+
+Inspiración visual:
+• Revistas de moda editorial (Vogue, Elle, Harper's)
+• Portfolio fotógrafos de moda
+• Estudios creativos minimalistas
+• Belleza natural nórdica/escandinava
+
+Adjetivos clave:
+✓ Creativa
+✓ Natural
+✓ Sofisticada
+✓ Artística
+✓ Cálida (no fría)
+✓ Elegante
+✓ Profesional (sin ser corporativa)
+
+Evitar absolutamente:
+✗ Estética "salón de belleza" barato (rosa chicle, purpurina)
+✗ Wix/Squarespace templates genéricos
+✗ Stock photos de maquillaje genérico
+✗ Exceso de flores/elementos decorativos cursis
+✗ Look "Instagram influencer" superficial
+
+
+PALETA DE COLORES:
+─────────────────────────────────────────────────────────────────────
+
+COLOR PRIMARIO - Blanco Limpio
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#FFFFFF - Fondo principal
+#FAFAFA - Fondo alternativo (secciones)
+#F5F5F5 - Bordes sutiles, separadores
+
+Razón: Limpieza, espacio para respirar, foco en portfolio
+
+
+COLOR SECUNDARIO - Negro Profundo
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#1A1A1A - Textos principales, headings
+#333333 - Textos secundarios
+#666666 - Textos terciarios, captions
+#E0E0E0 - Bordes sutiles
+
+Razón: Contraste alto, legibilidad, elegancia editorial
+
+
+COLOR ACENTO - Terracota Natural
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#C17767 - Terracota suave (principal)
+#A96758 - Terracota oscuro (hover)
+#E8D5CF - Terracota claro (fondos)
+
+Razón: Conexión con naturaleza, calidez, femenino SIN ser rosa
+Uso: CTAs, highlights, detalles
+
+
+COLOR DE APOYO - Beige Cálido
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#F4EDE8 - Beige arena (fondos alternos)
+#E8DDD6 - Beige más oscuro (separadores)
+
+Uso: Secciones alternas, fondos suaves
+
+
+DISTRIBUCIÓN DE COLORES:
+─────────────────────────────────────────────────────────────────────
+• 70% Blanco puro (protagonismo a imágenes)
+• 15% Negro/gris oscuro (textos)
+• 10% Beige/crema (fondos alternos)
+• 5% Terracota (solo acentos estratégicos: CTAs, highlights)
+
+⚠️ REGLA: El portfolio (fotos) es el protagonista visual, no los colores
+
+
+TIPOGRAFÍA:
+─────────────────────────────────────────────────────────────────────
+
+HEADINGS (H1, H2, H3):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Cormorant" (Google Fonts) - Serif elegante editorial
+Alternativa: "Lora" o "Libre Baskerville"
+Peso: 300 (Light) para H1, 400 (Regular) para H2-H3
+Tamaño:
+  H1: 4rem (64px) desktop, 2.5rem (40px) mobile
+  H2: 2.5rem (40px) desktop, 2rem (32px) mobile
+  H3: 1.75rem (28px) desktop, 1.5rem (24px) mobile
+Letter-spacing: 0.01em
+Line-height: 1.2
+
+Razón: Elegancia editorial, feminidad sofisticada SIN ser delicada
+
+
+BODY TEXT:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Raleway" (Google Fonts) - Sans-serif limpia y moderna
+Alternativa: "Quicksand" (más suave) o "DM Sans"
+Peso: 400 (Regular), 500 (Medium) para énfasis
+Tamaño: 1.125rem (18px) desktop, 1rem (16px) mobile
+Line-height: 1.8 (lectura cómoda)
+Letter-spacing: 0.01em
+
+Razón: Limpia, moderna, legible, complementa bien Cormorant
+
+
+CAPTIONS (Fotos portfolio):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Raleway" Light (300)
+Tamaño: 0.875rem (14px)
+Color: #666666
+Letter-spacing: 0.05em
+Text-transform: uppercase (para nombres bodas)
+
+Ejemplo: "LA BODA DE MARÍA"
+
+
+BOTONES Y CTAs:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Raleway" Medium (500)
+Tamaño: 1rem (16px)
+Letter-spacing: 0.08em
+Text-transform: uppercase
+
+Ejemplo: "RESERVAR CITA" vs "Reservar cita"
+
+
+EVITAR ABSOLUTAMENTE:
+─────────────────────────────────────────────────────────────────────
+✗ Fonts script/handwritten (cursis para este contexto)
+✗ Montserrat / Poppins (muy usado 2020-2024)
+✗ Comic Sans / Brush Script
+✗ Fonts decorativas difíciles de leer
+
+
+ESPACIADO Y LAYOUT:
+─────────────────────────────────────────────────────────────────────
+
+PRINCIPIO: "Editorial Breathing" - Espacio generoso tipo revista
+
+Secciones:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Padding vertical: 100px desktop, 60px mobile
+• Máximo width contenido texto: 800px (lectura cómoda)
+• Máximo width imágenes: 1400px (grandes, impactantes)
+• Margins laterales: 60px desktop, 20px mobile
+
+Entre elementos:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Heading → Párrafo: 24px
+• Párrafo → Párrafo: 20px
+• Imagen → Caption: 12px
+• Sección → Sección: 80px
+
+Regla 8px:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Todos los espaciados múltiplos de 8: 8, 16, 24, 32, 40, 48...
+
+Grid Portfolio:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Desktop: 3 columnas (con gap 24px)
+• Tablet: 2 columnas (gap 20px)
+• Mobile: 1 columna
+• Imágenes cuadradas (1:1 ratio) o 4:5 (vertical)
+
+
+FOTOGRAFÍA E IMÁGENES:
+─────────────────────────────────────────────────────────────────────
+
+ESTILO FOTOGRÁFICO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Concepto: "Editorial Natural" - Profesional sin ser frío
+
+Portfolio Bodas:
+✓ Fotos reales de trabajos (ya existentes en web actual)
+✓ Primeros planos de maquillaje (detalles: ojos, labios)
+✓ Novias en contexto (vestido, bouquet, naturaleza)
+✓ Antes/después (mostrar transformación)
+✓ Proceso (Lara trabajando con novia)
+✓ Luz natural predominante
+✓ Paleta cromática: tonos tierra, blancos, verdes
+✓ Alta calidad (profesional, no selfies)
+
+Portfolio Publicidad:
+✓ Screenshots de spots (Calzedonia, Women's Secret, etc.)
+✓ Behind the scenes (Lara en set)
+✓ Logo marca cliente visible (credibilidad)
+✓ Videos embebidos (YouTube/Vimeo)
+
+Hero image ideal:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Opción 1: Primer plano trabajo Lara (maquilando novia)
+• Opción 2: Portfolio mosaico (6 trabajos destacados)
+• Opción 3: Retrato profesional Lara + pinceles
+• Tratamiento: Sin overlay oscuro (fotos hablan solas)
+
+Formato imágenes:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Cuadradas: 800x800px (portfolio grid)
+• Verticales: 600x750px (4:5 ratio)
+• Hero: 1920x1080px
+• WebP format (fallback JPG)
+• Lazy loading
+
+
+ICONOGRAFÍA:
+─────────────────────────────────────────────────────────────────────
+
+Estilo: Line icons minimalistas (outline)
+Grosor: 1.5px
+Tamaño: 32px para servicios
+Color: #C17767 (terracota) o #1A1A1A (negro)
+
+Set recomendado: Feather Icons, Lucide
+
+Iconos necesarios:
+• Novia (heart)
+• Maquillaje (palette / brush)
+• Cámara (video)
+• Calendario (book)
+• Ubicación (map-pin)
+• Teléfono (phone)
+• Instagram (instagram)
+
+NO usar: Icons coloridos, emojis, ilustraciones cartoon
+
+
+COMPONENTES UI:
+─────────────────────────────────────────────────────────────────────
+
+BOTONES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Botón Primario (CTA principal):
+───────────────────────────────────────────────────────────────────
+Background: #C17767 (terracota)
+Color texto: #FFFFFF (blanco)
+Padding: 16px 48px
+Border-radius: 2px (esquinas casi rectas, editorial)
+Font-size: 14px
+Letter-spacing: 0.08em
+Text-transform: uppercase
+Transition: all 0.3s ease
+
+Hover:
+  Background: #A96758
+  Transform: translateY(-2px)
+  Box-shadow: 0 8px 20px rgba(193, 119, 103, 0.3)
+
+
+Botón Secundario:
+───────────────────────────────────────────────────────────────────
+Background: transparent
+Color texto: #1A1A1A
+Border: 1px solid #1A1A1A
+Padding: 16px 48px
+
+Hover:
+  Background: #1A1A1A
+  Color texto: #FFFFFF
+
+
+Botón Terciario (links):
+───────────────────────────────────────────────────────────────────
+Solo texto + línea debajo
+Color: #C17767
+Text-decoration: none
+Border-bottom: 1px solid #C17767
+
+Hover:
+  Color: #A96758
+  Border-bottom: 2px solid #A96758
+
+
+CARDS PORTFOLIO (Bodas):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Estructura:
+  Imagen cuadrada (800x800px)
+  Overlay al hover (negro 40% opacity)
+  Título centrado al hover: "LA BODA DE MARÍA"
+  
+Estado normal:
+  Solo imagen (sin overlay)
+  
+Hover:
+  Overlay: rgba(0,0,0,0.4)
+  Título fade-in
+  Transform: scale(1.05)
+  Transition: 0.4s ease
+  Cursor: pointer
+
+
+GRID PORTFOLIO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CSS Grid:
+  display: grid
+  grid-template-columns: repeat(3, 1fr) (desktop)
+  gap: 24px
+  
+Mobile:
+  grid-template-columns: 1fr
+  gap: 16px
+
+
+LIGHTBOX (Al hacer click en foto):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Fondo: rgba(0,0,0,0.95)
+Imagen: Centrada, max-width 90vw
+Navegación: Flechas izq/der
+Close button: X arriba derecha
+Caption: Debajo imagen
+Keyboard nav: Flechas + ESC
+
+
+ANIMACIONES:
+─────────────────────────────────────────────────────────────────────
+
+PRINCIPIO: Suaves y elegantes (tipo editorial)
+
+Fade-in en scroll:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Elementos aparecen con:
+• Opacity: 0 → 1
+• Transform: translateY(30px) → translateY(0)
+• Duration: 0.8s
+• Easing: cubic-bezier(0.4, 0, 0.2, 1)
+
+Stagger portfolio:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Imágenes aparecen con delay incremental:
+• Img 1: delay 0s
+• Img 2: delay 0.1s
+• Img 3: delay 0.2s
+• etc.
+
+Hover imágenes:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Transform: scale(1.05)
+• Overlay fade-in
+• Duration: 0.4s
+• Easing: ease-out
+
+⚠️ EVITAR:
+✗ Animaciones rápidas/exageradas
+✗ Rotaciones, flips
+✗ Parallax excesivo
+✗ Efectos que distraigan de portfolio
+
+
+ESTRUCTURA DE PÁGINA:
+─────────────────────────────────────────────────────────────────────
+
+HEADER/NAVEGACIÓN:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sticky (fija al hacer scroll)
+Background: rgba(255,255,255,0.95) backdrop-blur
+Box-shadow: 0 2px 10px rgba(0,0,0,0.05)
+Height: 80px
+Padding: 0 60px
+
+Contenido:
+• Logo/Nombre (izquierda): "LARA LLANO" (Cormorant, 24px)
+• Menú horizontal (centro):
+  - Inicio
+  - Portfolio
+    - Bodas
+    - Publicidad
+  - Sobre Mí
+  - Slow Beauty
+  - Contacto
+• CTA destacado (derecha): "RESERVAR" - botón terracota
+
+Mobile:
+  Hamburger menu (icon)
+  Menú fullscreen overlay
+
+
+HERO SECTION:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Opción A - Portfolio Mosaico:
+───────────────────────────────────────────────────────────────────
+Height: 90vh
+Layout: Grid 3x2 (6 mejores trabajos)
+Overlay en centro con texto:
+  • "Lara Llano"
+  • "Maquillaje Profesional & Beauty Coach"
+  • "Madrid"
+  • Botón: "VER PORTFOLIO"
+
+Opción B - Hero Image Grande:
+───────────────────────────────────────────────────────────────────
+Height: 85vh
+Background: Foto Lara trabajando (maquilando novia)
+Overlay: rgba(0,0,0,0.2) solo si necesario
+Texto centrado:
+  • Badge: "SLOW BEAUTY"
+  • H1: "Realza Tu Belleza Natural"
+  • Subtítulo: "Maquillaje de novias, eventos y producción audiovisual"
+  • CTA: "RESERVAR CONSULTA"
+
+
+SECCIÓN SERVICIOS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #F4EDE8 (beige suave)
+
+Título centrado: "Servicios"
+
+Grid 3 columnas (2 tablet, 1 mobile)
+
+Cada servicio:
+  • Icon (terracota, 32px)
+  • Título (H3)
+  • Descripción breve
+  • Link "Más información →"
+
+Servicios:
+1. Maquillaje de Novias
+   - Prueba previa incluida
+   - Maquillaje día de la boda
+   - Desplazamiento incluido
+
+2. Eventos & Producción
+   - Spots publicitarios
+   - Videoclips
+   - Sesiones moda
+   
+3. Cursos & Beauty Coaching
+   - Automaquillaje
+   - Cuidado personal
+   - SLOW BEAUTY
+
+
+SECCIÓN PORTFOLIO BODAS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+
+Título: "Happily Ever After"
+Subtítulo: "Cada novia es única. Cada maquillaje, también."
+
+Grid 3 columnas (cuadradas)
+
+Contenido (usar fotos actuales web):
+• La Boda de María
+• La Boda de Mónica
+• La Boda de Alba
+• La Boda de Berta
+• La Boda de Miriam
+• La Boda de Laura
+... (más si hay)
+
+Al hacer click: Lightbox con galería completa de esa boda
+
+
+SECCIÓN PORTFOLIO PUBLICIDAD:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FAFAFA
+
+Título: "Producción Audiovisual"
+Subtítulo: "Colaboraciones con marcas y artistas"
+
+Grid 2 columnas grandes (desktop), 1 mobile
+
+Cada proyecto:
+  • Thumbnail video (YouTube/Vimeo)
+  • Título: Marca/Artista
+  • Descripción: "Spot publicitario 2024"
+  • Play button overlay
+
+Proyectos destacados:
+• Calzedonia FW 2024
+• Women's Secret - Lucía Rivera & Blanca Romero
+• Cortefiel Otoño-Invierno 2024
+• Mayoral Junior Collection
+• ONCE - Tataramillonario (Alba Ricart)
+• Máxima (Serie Max)
+• Vita Imana - "Adversario"
+• Sôber - "Verona"
+
+
+SECCIÓN SOBRE MÍ:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+
+Layout 2 columnas:
+  Izquierda: Foto retrato Lara (profesional)
+  Derecha: Texto
+
+Contenido:
+  • H2: "Hola, soy Lara"
+  • Texto bio (usar contenido actual):
+    - Nacida en Cantabria, criada en naturaleza
+    - Experimentando con color desde niña
+    - Universidad: reafirmación vocación
+    - Videoclips, spots, moda
+    - Especialización: bodas, eventos, audiovisual
+    - Formación: Vicky Marcos, Gegé Godoy
+  • Lista logros:
+    - Colaboraciones Calzedonia, Women's Secret, Cortefiel...
+    - Serie "Máxima" (Max)
+    - 10+ años experiencia
+  • CTA: "TRABAJEMOS JUNTOS"
+
+
+SECCIÓN SLOW BEAUTY:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #F4EDE8 (beige)
+
+Layout: Texto centrado + Imágenes naturaleza
+
+Contenido:
+  • H2: "Slow Beauty"
+  • Subtítulo: "Belleza natural desde el origen"
+  • Texto:
+    - Filosofía belleza natural
+    - Conexión con naturaleza (Cantabria)
+    - Realzar tu esencia, no ocultarla
+    - Productos conscientes
+  • CTA: "CONOCER MÁS"
+
+Decoración:
+  Imágenes sutiles: hojas, texturas naturales (overlay suave)
+
+
+SECCIÓN TESTIMONIOS (Opcional):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+
+Carousel testimonios novias:
+  • Foto novia (pequeña, circular)
+  • Quote: "Lara hizo que me sintiera yo misma..."
+  • Nombre: "María, Novia 2024"
+
+3-5 testimonios rotando
+
+
+SECCIÓN CONTACTO/RESERVA:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #1A1A1A (negro)
+Color texto: #FFFFFF
+
+Layout 2 columnas:
+  Izquierda: Formulario
+  Derecha: Info contacto + Mapa
+
+Formulario:
+  • Nombre
+  • Email
+  • Teléfono
+  • Tipo servicio (dropdown):
+    - Maquillaje Novia
+    - Evento
+    - Producción
+    - Curso
+  • Mensaje
+  • Botón: "ENVIAR MENSAJE" (terracota)
+
+Info contacto:
+  • Teléfono: 611 151 826 (clickeable)
+  • Email: info@larallano.com
+  • Dirección: Centro SLOW BEAUTY
+    Sector Pintores, 2
+    28760 Tres Cantos, Madrid
+  • Instagram: @larallano (icon + link)
+
+Mapa Google Maps embebido
+
+
+FOOTER:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #1A1A1A
+Color texto: #FFFFFF
+
+3 columnas:
+  1. Logo + Tagline
+     "Lara Llano"
+     "Maquillaje Profesional & Beauty Coach"
+     
+  2. Enlaces rápidos
+     - Portfolio
+     - Sobre Mí
+     - Slow Beauty
+     - Reservar
+     
+  3. Social Media
+     - Instagram (principal)
+     - Facebook
+     - TikTok
+
+Bottom bar:
+  © 2026 Lara Llano | Madrid
+  Diseño: WebExpress
+
+
+RESPONSIVE:
+─────────────────────────────────────────────────────────────────────
+
+Breakpoints:
+  Mobile: < 768px
+  Tablet: 768px - 1024px
+  Desktop: > 1024px
+
+Mobile:
+• Header: Hamburger menu
+• Hero: Height 70vh, texto centrado
+• Portfolio grid: 1 columna
+• Videos: 1 columna
+• Servicios: 1 columna
+• Padding: 100px → 60px
+• Font H1: 64px → 40px
+
+
+SEO:
+─────────────────────────────────────────────────────────────────────
+
+Title: "Lara Llano - Maquilladora Profesional Madrid | Bodas & Eventos"
+
+Meta description: "Maquilladora profesional en Madrid. Especializada en 
+maquillaje de novias, eventos y producción audiovisual. Filosofía Slow 
+Beauty. Tres Cantos. Reserva tu cita: 611 151 826"
+
+Keywords:
+- maquilladora bodas madrid
+- maquillaje novias tres cantos
+- maquilladora profesional madrid
+- beauty coach madrid
+- maquillaje eventos madrid
+- slow beauty madrid
+
+Schema.org: LocalBusiness + BeautySalon
+
+
+ACCESIBILIDAD:
+─────────────────────────────────────────────────────────────────────
+
+• Contraste WCAG AA
+• Alt text todas imágenes portfolio
+• Focus states visibles
+• Navegación teclado
+• ARIA labels
+
+
+PERFORMANCE:
+─────────────────────────────────────────────────────────────────────
+
+• Imágenes: WebP + lazy loading
+• CSS crítico inline
+• JavaScript diferido
+• Fonts: Preload Google Fonts
+• Target: PageSpeed >85
+
+
+═══════════════════════════════════════════════════════════════════════
+CONTENIDO EXISTENTE A MIGRAR
+═══════════════════════════════════════════════════════════════════════
+
+PORTFOLIO BODAS (Fotos actuales):
+─────────────────────────────────────────────────────────────────────
+✅ La Boda de María
+✅ La Boda de Mónica
+✅ La Boda de Alba
+✅ La Boda de Berta
+✅ La Boda de Miriam
+✅ La Boda de Laura
+
+PORTFOLIO PUBLICIDAD (Videos actuales):
+─────────────────────────────────────────────────────────────────────
+✅ ONCE - Tataramillonario (Alba Ricart)
+✅ Calzedonia FW
+✅ Women's Secret - Lucía Rivera & Blanca Romero
+✅ Mayoral Junior Collection
+✅ Cortefiel Otoño-Invierno 2024
+✅ Máxima (Serie Max)
+✅ Vita Imana - "Adversario"
+✅ Sôber - "Verona"
+... (más videos si hay)
+
+TEXTO BIO:
+─────────────────────────────────────────────────────────────────────
+✅ Usar contenido "Sobre Mí" actual
+✅ Adaptar para ser más conciso
+
+
+═══════════════════════════════════════════════════════════════════════
+ENTREGABLES ESPERADOS
+═══════════════════════════════════════════════════════════════════════
+
+1. HTML semántico completo (index.html)
+2. CSS modular bien organizado
+3. JavaScript para:
+   - Lightbox portfolio
+   - Navegación smooth scroll
+   - Hamburger menu mobile
+   - Formulario validación
+   - Lazy loading imágenes
+4. Responsive completo (mobile-first)
+5. README con instrucciones
+
+
+═══════════════════════════════════════════════════════════════════════
+NOTAS FINALES
+═══════════════════════════════════════════════════════════════════════
+
+Este diseño debe equilibrar:
+✓ Profesionalidad creativa (70%)
+✓ Calidez y naturalidad (30%)
+
+NO debe parecer:
+✗ Salón de belleza genérico
+✗ Portfolio amateur
+✗ Template Wix/Squarespace genérico
+✗ Instagram influencer superficial
+
+DEBE parecer:
+✓ Portfolio profesional fotógrafo/artista
+✓ Revista moda editorial
+✓ Estudio creativo boutique
+✓ Marca belleza natural premium
+
+El portfolio es el protagonista absoluto.
+El diseño debe potenciar las fotos, no competir con ellas.
+
+SLOW BEAUTY no es solo un tagline, es la filosofía central.
+Naturalidad, autenticidad, conexión.
+
+═══════════════════════════════════════════════════════════════════════
+FIN DEL PROMPT
+═══════════════════════════════════════════════════════════════════════

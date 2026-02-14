@@ -1,0 +1,105 @@
+/* ═══════════════════════════════════════════════════════
+   HYGGE STUDIO - CSS Custom Properties
+   Nordic Minimalist Studio Design System
+   ═══════════════════════════════════════════════════════ */
+
+:root {
+  /* ── Colors: Primary (Warm Greige) ── */
+  --color-off-white: #F5F5F5;
+  --color-grey-light: #E8E8E8;
+  --color-grey-medium: #B8B8B8;
+
+  /* ── Colors: Secondary (Deep Black) ── */
+  --color-black: #000000;
+  --color-black-soft: #1A1A1A;
+
+  /* ── Colors: Accent (Soft Terracotta) ── */
+  --color-terracotta: #E8C4BC;
+  --color-terracotta-dark: #D4A89A;
+
+  /* ── Colors: Support (Sand Beige) ── */
+  --color-beige: #F0E6DC;
+
+  /* ── Colors: Utility ── */
+  --color-white: #FFFFFF;
+  --color-text-secondary: #666666;
+  --color-text-tertiary: #999999;
+  --color-placeholder: #AAAAAA;
+  --color-whatsapp: #25D366;
+
+  /* ── Typography: Font Families ── */
+  --font-heading: 'DM Sans', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  /* ── Typography: Font Sizes ── */
+  --text-h1: 3.5rem;
+  --text-h2: 2.5rem;
+  --text-h3: 1.75rem;
+  --text-body: 1.125rem;
+  --text-body-sm: 1rem;
+  --text-small: 0.875rem;
+  --text-xs: 0.75rem;
+  --text-btn: 1rem;
+  --text-nav: 0.875rem;
+
+  /* ── Typography: Font Weights ── */
+  --weight-regular: 400;
+  --weight-medium: 500;
+
+  /* ── Typography: Line Heights ── */
+  --leading-tight: 1.2;
+  --leading-normal: 1.6;
+  --leading-relaxed: 1.7;
+
+  /* ── Typography: Letter Spacing ── */
+  --tracking-tight: -0.02em;
+  --tracking-slight: -0.01em;
+  --tracking-wide: 0.05em;
+  --tracking-wider: 0.1em;
+
+  /* ── Spacing (8px grid) ── */
+  --space-1: 0.5rem;   /* 8px */
+  --space-2: 1rem;     /* 16px */
+  --space-3: 1.5rem;   /* 24px */
+  --space-4: 2rem;     /* 32px */
+  --space-5: 2.5rem;   /* 40px */
+  --space-6: 3rem;     /* 48px */
+  --space-7: 3.5rem;   /* 56px */
+  --space-8: 4rem;     /* 64px */
+  --space-10: 5rem;    /* 80px */
+  --space-12: 6rem;    /* 96px */
+  --space-15: 7.5rem;  /* 120px */
+
+  /* ── Layout ── */
+  --max-width: 1200px;
+  --max-width-narrow: 800px;
+  --max-width-form: 640px;
+  --padding-x: 5rem;        /* 80px desktop */
+  --section-padding: 7.5rem; /* 120px desktop */
+
+  /* ── Header ── */
+  --header-height: 80px;
+  --header-height-mobile: 70px;
+
+  /* ── Borders & Radius ── */
+  --radius-none: 0px;
+  --border-thin: 1px;
+  --border-medium: 2px;
+
+  /* ── Shadows ── */
+  --shadow-card-hover: 0 8px 24px rgba(0, 0, 0, 0.08);
+  --shadow-btn-hover: 0 4px 12px rgba(232, 196, 188, 0.4);
+  --shadow-header: 0 1px 0 rgba(0, 0, 0, 0.05);
+  --shadow-whatsapp: 0 4px 12px rgba(0, 0, 0, 0.15);
+
+  /* ── Transitions ── */
+  --transition-fast: 0.3s ease;
+  --transition-medium: 0.4s ease;
+  --transition-slow: 0.6s ease-out;
+
+  /* ── Z-index ── */
+  --z-header: 1000;
+  --z-overlay: 1100;
+  --z-lightbox: 1200;
+  --z-whatsapp: 999;
+}

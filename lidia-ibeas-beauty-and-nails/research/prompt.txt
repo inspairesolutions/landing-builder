@@ -1,0 +1,1764 @@
+═══════════════════════════════════════════════════════════════════════
+PROMPT PARA CLAUDE CODE: LIDIA IBEAS BEAUTY & NAILS - LANDING PAGE
+═══════════════════════════════════════════════════════════════════════
+
+Lee el skill frontend-design antes de empezar.
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 1: CONTEXTO DEL PROYECTO
+═══════════════════════════════════════════════════════════════════════
+
+Cliente: Lidia Ibeas Beauty & Nails
+Tipo: Salón de belleza especializado en manicura, pedicura y tratamientos de uñas
+Ubicación: Soto de Viñuelas, Madrid (28150)
+
+Perfil Booksy: https://booksy.com/es-es/92573_lidia-ibeas-beauty_salon-de-unas_53150_soto-de-vinuelas
+Rating: ⭐⭐⭐⭐⭐ (excelentes reseñas)
+
+Servicios principales:
+─────────────────────────────────────────────────────────────────────
+• Manicura permanente (desde 25€)
+• Pedicura permanente (desde 30€)
+• Manicura rusa (especialidad) (35€-45€)
+• Uñas esculpidas/extensiones (45€-60€)
+• Nail art y diseños personalizados (desde +5€)
+• Tratamientos de rejuvenecimiento de manos
+• Depilación con cera
+• Tratamientos faciales
+
+Diferenciadores clave:
+─────────────────────────────────────────────────────────────────────
+✅ Especialización en manicura rusa (técnica premium que alarga la durabilidad)
+✅ Excelente rating en Booksy con reseñas consistentemente positivas
+✅ Ambiente íntimo y personalizado (servicio uno a uno)
+✅ Ubicación exclusiva en Soto de Viñuelas (zona residencial premium)
+✅ Amplia gama de servicios de belleza complementarios
+✅ Profesional cualificada con formación especializada
+✅ Productos de alta calidad (marcas premium)
+
+Público objetivo:
+─────────────────────────────────────────────────────────────────────
+PRIMARY (75%):
+• Mujeres 25-55 años, nivel socioeconómico medio-alto
+• Residentes en Soto de Viñuelas, Tres Cantos, zona norte Madrid
+• Buscan calidad sobre precio, valoran la profesionalidad
+• Aprecian ambiente tranquilo y personalizado (no salones masificados)
+• Frecuencia de visita: cada 2-4 semanas
+• Activas en redes sociales, influenciadas por resultados visuales
+• Valoran higiene, técnicas modernas, trato profesional
+
+SECONDARY (25%):
+• Mujeres 18-25 años (universitarias, jóvenes profesionales)
+• Buscan nail art y diseños creativos para ocasiones especiales
+• Eventos: bodas, graduaciones, celebraciones
+
+Competencia:
+─────────────────────────────────────────────────────────────────────
+• Salones generalistas en Tres Cantos - Diferenciación: Lidia es especialista enfocada
+• Nail bars de centros comerciales - Diferenciación: Calidad premium vs volumen
+• Franquicias de manicura express - Diferenciación: Personalización y técnicas avanzadas
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 2: OBJETIVOS
+═══════════════════════════════════════════════════════════════════════
+
+1. Generar mínimo 15 reservas semanales a través de la web (conversión web 20%+)
+2. Posicionar como referente de manicura rusa en zona norte Madrid
+3. Incrementar ticket medio promocionando servicios complementarios (+15%)
+4. Reducir dependencia de Booksy canalizando reservas a web propia (40% reservas propias)
+5. Captar clientela nueva mediante SEO local: "manicura rusa Soto de Viñuelas", "pedicura permanente Tres Cantos", "uñas esculpidas Madrid norte"
+6. Convertir visitas en reservas mediante sistema de reserva online integrado
+7. Construir base de datos email para promociones mensuales
+8. Mostrar portfolio visual que demuestre calidad y variedad de técnicas
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 3: DIRECTRICES DE DISEÑO
+═══════════════════════════════════════════════════════════════════════
+
+ESTÉTICA GENERAL:
+─────────────────────────────────────────────────────────────────────
+Concepto: "Elegant Minimalism Meets Nail Art" - Sofisticación moderna que equilibra limpieza visual con toques de creatividad colorida, reflejando la dualidad entre técnica profesional y expresión artística.
+
+Inspiración visual:
+• Glossier (limpieza, frescura, femenino moderno sin ser infantil)
+• Pinterest nail aesthetic (portfolio visual protagonista, grids limpios)
+• Spas nórdicos minimalistas (paz, higiene, profesionalidad)
+• Estudios de tatuajes premium (portfolio-first, trabajo habla por sí solo)
+
+Adjetivos clave:
+✓ Pulido
+✓ Sofisticado
+✓ Acogedor
+✓ Profesional
+✓ Luminoso
+✓ Femenino (sin estereotipos)
+✓ Moderno
+
+Evitar absolutamente:
+✗ Estética "nail salon genérico" rosa chicle + brillos excesivos (muy 2010)
+✗ Sobrecarga de dorados/plateados barrocos (no es joyería)
+✗ Tipografía cursiva script excesiva (dificulta legibilidad)
+✗ Fondos con texturas florales o mármol (saturado, pasado de moda)
+✗ Stock photos obvias de manos con joyas/flores (poco auténtico)
+✗ Layout abarrotado estilo revista (necesitamos aire, respiro visual)
+
+
+PALETA DE COLORES:
+─────────────────────────────────────────────────────────────────────
+
+COLOR PRIMARIO - Nude Elegante (Base Neutra)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#F5F0EB - Alabaster Blush (uso principal: fondos, secciones alternas)
+#EAE3DC - Warm Linen (variante más oscura para sutiles contrastes)
+#FFFFFF - Pure White (overlays, cards, highlights)
+
+Razón: Evoca limpieza, higiene profesional, y sofisticación sin frialdad. Base perfecta para que el portfolio colorido (nail art) destaque sin competir. Refleja tonos naturales de piel y manicuras nude, conectando con el servicio.
+
+
+COLOR SECUNDARIO - Terracotta Suave (Calidez)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#D4A59A - Soft Terracotta (acentos, bordes sutiles)
+#C89485 - Dusty Rose (hover states, detalles)
+
+Razón: Aporta calidez femenina moderna sin caer en el rosa cliché. Terracota es tendencia en diseño contemporáneo, transmite naturalidad premium. Complementa tonos piel en fotografías de manos.
+
+
+COLOR ACENTO - Negro Profundo (Sofisticación)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#1A1A1A - Rich Black (CTAs principales, headings importantes)
+#2D2D2D - Charcoal (textos, navegación)
+
+Razón: Máximo contraste y legibilidad. Negro transmite profesionalidad, elegancia atemporal. Ancla visualmente el diseño evitando que los neutros claros se sientan demasiado etéreos.
+Uso: Botones CTA "Reservar Ahora", títulos principales H1, menú navegación, textos importantes.
+
+
+COLOR DE APOYO - Accent Sage (Frescura Sutil)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#B5C4B1 - Sage Whisper (badges, iconos sutiles, separadores)
+
+Razón: Toque de color fresco sin saturar. Verde salvia es calmante, asociado con wellness/spa, aporta distinción visual sin ser agresivo. Uso mínimo pero estratégico.
+
+
+DISTRIBUCIÓN DE COLORES:
+─────────────────────────────────────────────────────────────────────
+• 60% Nude/Blanco (#F5F0EB, #FFFFFF) (Fondos principales, espacios en blanco)
+• 25% Negro/Charcoal (#1A1A1A, #2D2D2D) (Textos, navegación, CTAs)
+• 10% Terracotta (#D4A59A) (Acentos, hover, detalles)
+• 5% Sage (#B5C4B1) (Toques sutiles, badges "Nuevo", iconografía)
+
+⚠️ REGLA DE ORO: El portfolio fotográfico (uñas decoradas) aporta todos los colores vibrantes necesarios. La UI debe ser neutral-elegante para que las fotos de nail art sean las estrellas. No competir con el contenido visual principal.
+
+
+TIPOGRAFÍA:
+─────────────────────────────────────────────────────────────────────
+
+HEADINGS (H1, H2, H3):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Cormorant Garamond" (Google Fonts) - Serif elegante, alta moda sin ser anticuado
+Alternativa: "Lora"
+Peso: 600 (SemiBold) para H1, 500 (Medium) para H2-H3
+Tamaño:
+  H1: 3.5rem (56px) desktop, 2.5rem (40px) mobile
+  H2: 2.5rem (40px) desktop, 2rem (32px) mobile
+  H3: 1.75rem (28px) desktop, 1.5rem (24px) mobile
+Letter-spacing: -0.02em (ligeramente ajustado para elegancia)
+Line-height: 1.2
+
+Razón: Cormorant aporta sofisticación editorial (tipo Vogue) sin excesiva ornamentación. Sus serifas delgadas transmiten lujo accesible. Contrasta perfectamente con sans-serif del body, creando jerarquía visual clara. Muy legible en tamaños grandes.
+
+
+BODY TEXT:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Inter" (Google Fonts) - Sans-serif moderna, óptima legibilidad digital
+Alternativa: "Open Sans"
+Peso: 400 (Regular), 500 (Medium) para énfasis sutiles
+Tamaño: 1.125rem (18px) desktop, 1rem (16px) mobile
+Line-height: 1.7
+Letter-spacing: 0.01em
+
+Razón: Inter es la sans-serif premium moderna por excelencia. Diseñada específicamente para pantallas, legibilidad excepcional incluso en tamaños pequeños. Neutral profesional, no distrae del contenido. Line-height 1.7 facilita lectura cómoda de descripciones de servicios.
+
+
+BOTONES Y CTAs:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Inter" 600 (SemiBold)
+Tamaño: 1rem (16px)
+Letter-spacing: 0.05em
+Text-transform: uppercase
+
+Ejemplo: "RESERVAR AHORA" vs "reservar ahora"
+(Uppercase aporta autoridad y visibilidad al CTA)
+
+
+EVITAR ABSOLUTAMENTE:
+─────────────────────────────────────────────────────────────────────
+✗ "Pacifico" / "Dancing Script" (Scripts decorativas sobre-usadas en salones beauty, infantilizan)
+✗ "Playfair Display" (Demasiado vista en beauty/weddings, no aporta distinción)
+✗ "Lobster" (Asociada con diseño amateur, muy 2012)
+✗ Combinaciones serif + serif (confunde jerarquía)
+
+
+ESPACIADO Y LAYOUT:
+─────────────────────────────────────────────────────────────────────
+
+PRINCIPIO: "Generous Breathing Room" - Espacios amplios que reflejan el ambiente tranquilo del salón, evitando sensación de prisa o aglomeración típica de nail bars masificados.
+
+Secciones:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Padding vertical: 120px desktop, 80px mobile
+• Máximo width contenido: 1200px (evita líneas texto demasiado largas)
+• Margins laterales: 80px desktop, 24px mobile
+
+Entre elementos:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Heading → Párrafo: 24px
+• Párrafo → Párrafo: 16px
+• Imagen → Caption: 12px
+• Cards entre sí: 32px horizontal, 40px vertical
+
+Regla 8px:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Todos los espaciados múltiplos de 8: 8, 16, 24, 32, 40, 48, 56, 64, 80, 96, 120px
+Mantiene consistencia visual, facilita responsive, estándar industria.
+
+
+FOTOGRAFÍA E IMÁGENES:
+─────────────────────────────────────────────────────────────────────
+
+ESTILO FOTOGRÁFICO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Concepto: "Authentic Results Gallery" - Portfolio real del trabajo de Lidia como absoluto protagonista. Fotografías en luz natural, enfoque macro en detalles de uñas, manos en contextos cotidianos naturales (no posadas artificiales).
+
+Portfolio de uñas (categoría principal - 70% imágenes):
+✓ Close-ups macro de nail art recién terminado (calidad profesional iPhone 13+ mínimo)
+✓ Diferentes ángulos: cenital, lateral, detalle de decoración
+✓ Variedad técnicas: manicura rusa, extensiones, nail art, francesas modernas
+✓ Iluminación natural suave (evitar flash directo que crea brillos antinaturales)
+✓ Fondos neutros o manos en entornos lifestyle real (taza café, laptop, steering wheel)
+✓ Diversidad de tonos piel en las manos fotografiadas
+✓ Calidad: Mínimo 1200x1200px, enfoque nítido en uñas
+
+Espacio/Ambiente salón (20% imágenes):
+✓ Estación de trabajo limpia, organizada (transmite higiene profesional)
+✓ Productos de calidad visibles (branding premium)
+✓ Iluminación cálida acogedora
+✓ Sin clientes en foto (privacidad + limpieza visual)
+
+Lidia profesional (10% imágenes):
+✓ Retrato profesional pero cálido
+✓ En acción trabajando (manos, concentración) sin mostrar cara cliente
+✓ Transmite expertise y pasión por su trabajo
+
+Hero image ideal:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Opción 1: Manos con manicura impecable (nude o francesa moderna) sosteniendo taza de café en ambiente acogedor, luz natural
+• Opción 2: Close-up espectacular de nail art complejo (degradados, líneas finas) que demuestre habilidad técnica
+• Opción 3: Collage grid 3x3 mejores trabajos recientes (variedad de estilos)
+• Tratamiento: Overlay gradiente sutil (#1A1A1A a transparent, opacidad 30%) para asegurar legibilidad texto hero sobre imagen. Leve vignette en esquinas.
+
+Formato:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Portfolio grid: 400x400px (1:1 ratio, óptimo para Instagram-style gallery)
+• Hero: 1920x800px desktop, 800x600px mobile
+• Testimonios avatars: 80x80px círculos
+• WebP format (fallback JPG para navegadores antiguos)
+• Lazy loading en portfolio (performance)
+
+
+ICONOGRAFÍA:
+─────────────────────────────────────────────────────────────────────
+
+Estilo: Line icons minimalistas, grosor medio (no ultra thin ni ultra bold)
+Grosor: 1.5px
+Tamaño: 48px secciones, 24px inline
+Color: #2D2D2D (Charcoal) principal, #D4A59A (Terracotta) hover/activo
+
+Set recomendado: Feather Icons o Lucide Icons (consistentes, modernos, gratis)
+
+Iconos necesarios:
+• Reloj/calendario (reservas online, disponibilidad)
+• Ubicación pin (dirección, mapa)
+• Teléfono (contacto)
+• Instagram (link redes)
+• Checkmark (listas beneficios, diferenciadores)
+• Estrella (rating, testimonios)
+• Corazón (servicios favoritos, destacados)
+• Sparkles (especialidades, "nuevo")
+• Usuario/persona (testimonios)
+• Certificado/award (profesionalidad, formación)
+
+NO usar: Iconos de uñas/nail polish literales (demasiado obvio, poco profesional). Preferir símbolos abstractos elegantes.
+
+
+COMPONENTES UI:
+─────────────────────────────────────────────────────────────────────
+
+BOTONES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Botón Primario (CTA principal - RESERVAR):
+───────────────────────────────────────────────────────────────────
+Background: #1A1A1A (Rich Black)
+Color texto: #FFFFFF
+Padding: 18px 40px
+Border-radius: 4px (esquinas ligeramente redondeadas, moderno sin ser Apple-redondeado)
+Font-size: 16px
+Font-weight: 600
+Letter-spacing: 0.05em
+Text-transform: uppercase
+Transition: all 0.3s ease
+Border: 2px solid #1A1A1A
+
+Hover:
+  Background: #2D2D2D
+  Transform: translateY(-2px)
+  Box-shadow: 0 8px 20px rgba(26, 26, 26, 0.3)
+
+Active:
+  Transform: translateY(0)
+
+
+Botón Secundario (Ver Servicios, Contactar):
+───────────────────────────────────────────────────────────────────
+Background: transparent
+Color texto: #1A1A1A
+Padding: 18px 40px
+Border-radius: 4px
+Font-size: 16px
+Font-weight: 600
+Letter-spacing: 0.05em
+Text-transform: uppercase
+Border: 2px solid #1A1A1A
+Transition: all 0.3s ease
+
+Hover:
+  Background: #1A1A1A
+  Color texto: #FFFFFF
+  Transform: translateY(-2px)
+
+Active:
+  Transform: translateY(0)
+
+
+Botón Terciario/Fantasma (Links sutiles):
+───────────────────────────────────────────────────────────────────
+Background: transparent
+Color texto: #D4A59A (Terracotta)
+Padding: 12px 24px
+Border: none
+Font-size: 16px
+Font-weight: 500
+Text-decoration: underline
+Text-underline-offset: 4px
+Transition: all 0.2s ease
+
+Hover:
+  Color texto: #C89485 (Dusty Rose)
+  Text-decoration-thickness: 2px
+
+
+CARDS - Servicio:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Border: 1px solid #EAE3DC
+Border-radius: 8px
+Padding: 32px
+Box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04)
+Transition: all 0.3s ease
+
+Hover:
+  Transform: translateY(-4px)
+  Box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08)
+  Border-color: #D4A59A
+
+Estructura interna:
+• Icon (48px) color #D4A59A
+• Título servicio (H3, Cormorant, #1A1A1A)
+• Descripción (Inter, #2D2D2D, 14px)
+• Duración + Precio (Inter Medium, #1A1A1A, 16px)
+• "Más info" link (Terracotta)
+
+
+CARDS - Portfolio/Galería:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Contenedor: 400x400px (1:1)
+Border-radius: 8px
+Overflow: hidden
+Position: relative
+Cursor: pointer
+
+Imagen: 
+  Object-fit: cover
+  Width: 100%
+  Height: 100%
+  Transition: transform 0.4s ease
+
+Overlay hover:
+  Background: rgba(26, 26, 26, 0.7)
+  Opacity: 0 → 1 on hover
+  Display: flex, align center
+  
+Hover:
+  Imagen transform: scale(1.05)
+  Overlay aparece con icono "+" o "Ver detalles"
+
+
+CARDS - Testimonio:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #F5F0EB
+Border-left: 4px solid #D4A59A
+Padding: 24px
+Border-radius: 8px
+Box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05)
+
+Estructura:
+• Avatar círculo (80px)
+• Nombre cliente (Inter Medium, #1A1A1A, 18px)
+• Rating estrellas (⭐⭐⭐⭐⭐)
+• Fecha (Inter Regular, #2D2D2D, 14px, opacidad 0.7)
+• Texto testimonio (Inter Regular, #2D2D2D, 16px, line-height 1.6)
+• Badge "Verificado Booksy" (si aplica)
+
+
+INPUT FIELDS - Formulario contacto/reserva:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Border: 2px solid #EAE3DC
+Border-radius: 4px
+Padding: 16px
+Font: Inter 400, 16px
+Color: #2D2D2D
+Transition: border-color 0.2s ease
+
+Focus:
+  Border-color: #D4A59A
+  Outline: none
+  Box-shadow: 0 0 0 4px rgba(212, 165, 154, 0.1)
+
+Placeholder:
+  Color: #2D2D2D
+  Opacity: 0.5
+
+
+ANIMACIONES:
+─────────────────────────────────────────────────────────────────────
+
+PRINCIPIO: "Subtle Elegance" - Animaciones suaves y refinadas que no distraen. Movimientos orgánicos que imitan comportamientos naturales (gravedad, momentum). Evitar rebotes exagerados o efectos "juguetones".
+
+Fade-in en scroll (secciones):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Opacity: 0 → 1
+• Transform: translateY(30px) → translateY(0)
+• Duration: 0.6s
+• Easing: cubic-bezier(0.4, 0, 0.2, 1) (ease-out suave)
+• Delay: Elementos escalonados +0.1s entre sí
+
+Cards portfolio hover:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Imagen scale: 1 → 1.05
+• Duration: 0.4s
+• Easing: ease-out
+• Simultáneo con overlay fade-in
+
+Hero section entrada:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Heading: Fade-in + translateY(-20px → 0) en 0.8s con delay 0.2s
+• Subheading: Fade-in + translateY(-20px → 0) en 0.8s con delay 0.4s
+• CTA button: Fade-in + scale(0.9 → 1) en 0.6s con delay 0.6s
+
+Menú navegación scroll:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Al hacer scroll down >100px: Background #FFFFFF con box-shadow, padding reduce ligeramente
+• Transition: all 0.3s ease
+• Smooth scroll behavior en links internos
+
+⚠️ EVITAR:
+✗ Parallax agresivo (marea, innecesario para este tipo de web)
+✗ Animaciones bounce (demasiado juguetón para estética elegante)
+✗ Efectos glitch/distortion (no aporta nada al propósito)
+✗ Sliders automáticos en portfolio (molesto, usuario pierde control)
+✗ Cualquier animación >1s duración (impaciente)
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 4: ESTRUCTURA DE PÁGINA
+═══════════════════════════════════════════════════════════════════════
+
+HEADER/NAVEGACIÓN:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Comportamiento: Sticky (fixed al hacer scroll, con transición suave)
+Background inicial: Transparent (sobre hero)
+Background scroll: #FFFFFF con opacidad 0.98
+Box-shadow scroll: 0 4px 12px rgba(0, 0, 0, 0.08)
+Height: 80px
+Padding: 0 80px (desktop), 0 24px (mobile)
+Z-index: 1000
+
+Contenido:
+• Logo/Nombre (izquierda): 
+  - Texto "Lidia Ibeas" en Cormorant Garamond 600, 28px, #1A1A1A
+  - Subtítulo "Beauty & Nails" en Inter 400, 12px, #2D2D2D, letter-spacing 0.1em, uppercase
+  - Hover: Sin efecto (es link a home pero no necesita animación)
+  
+• Menú horizontal (centro):
+  - Inicio
+  - Servicios
+    └ Manicura
+    └ Pedicura  
+    └ Tratamientos Faciales
+    └ Depilación
+  - Portfolio
+  - Reseñas
+  - Contacto
+  - Font: Inter 500, 15px, #2D2D2D
+  - Letter-spacing: 0.02em
+  - Hover: Color #D4A59A + underline animado (width 0→100%, 0.3s)
+  - Active page: Color #D4A59A con underline permanente
+
+• CTA destacado (derecha): 
+  - "RESERVAR" botón primario (versión compacta: padding 12px 32px)
+  - Icono calendario sutil antes del texto
+
+Mobile (<768px):
+  - Hamburger menu (3 líneas, #1A1A1A)
+  - Click abre menú fullscreen overlay:
+    * Background: #F5F0EB
+    * Menú vertical centrado
+    * Items grande: 24px
+    * Animación slide-in desde derecha
+  - CTA "Reservar" fijo bottom (sticky bar mobile)
+
+
+HERO SECTION:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Layout: Full width, altura 90vh (desktop), 70vh (mobile)
+Background: Imagen hero con overlay gradiente
+
+Opción A (Recomendada): Foto espectacular nail art
+  - Imagen: Close-up manos con manicura creativa (ombre, nail art geométrico)
+  - Overlay: Linear-gradient(135deg, rgba(26,26,26,0.6) 0%, rgba(26,26,26,0.3) 100%)
+  
+Contenido centrado:
+  - Padding: 120px vertical, contenido max-width 800px centrado
+  
+  - H1: "Manicuras que Duran, Belleza que Perdura"
+    * Cormorant Garamond 600, 56px (mobile: 40px)
+    * Color: #FFFFFF
+    * Text-align: center
+    * Text-shadow: 0 2px 8px rgba(0,0,0,0.3) (legibilidad)
+    * Line-height: 1.2
+    * Margin-bottom: 24px
+    
+  - Subtítulo: "Especialistas en manicura rusa y nail art personalizado | Soto de Viñuelas"
+    * Inter 400, 20px (mobile: 18px)
+    * Color: #F5F0EB
+    * Text-align: center
+    * Margin-bottom: 40px
+    
+  - Badges destacados (horizontal):
+    * ⭐ "5.0 en Booksy" | 📍 "Soto de Viñuelas" | ✓ "Profesional Certificada"
+    * Background: rgba(255,255,255,0.15)
+    * Backdrop-filter: blur(10px) (efecto glassmorphism sutil)
+    * Padding: 8px 16px, border-radius 20px
+    * Inter 500, 14px, #FFFFFF
+    * Display inline-flex, gap 16px
+    * Margin-bottom: 48px
+    
+  - CTAs (doble botón horizontal):
+    * Botón Primario: "RESERVAR CITA" (#1A1A1A fondo, #FFFFFF texto)
+    * Botón Secundario: "VER PORTFOLIO" (outline #FFFFFF)
+    * Gap: 16px entre botones
+    * Centrados
+
+  - Scroll indicator (bottom):
+    * Icono flecha abajo animada (bounce suave infinito)
+    * Color: #FFFFFF, opacidad 0.7
+    * Position absolute, bottom 40px
+
+
+SECCIÓN PROPUESTA VALOR / USP:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Padding: 120px vertical (mobile: 80px)
+
+Layout: Container max-width 1200px, 3 columnas iguales (mobile: stack vertical)
+
+Título sección:
+  - H2: "¿Por Qué Elegir Lidia Ibeas?"
+  - Cormorant Garamond 500, 40px, #1A1A1A
+  - Text-align: center
+  - Margin-bottom: 64px
+
+Cada USP card:
+  - Icono (48px, color #D4A59A) centrado top
+  - Título (Inter 600, 20px, #1A1A1A) 
+  - Descripción (Inter 400, 16px, #2D2D2D, line-height 1.6)
+  - Text-align: center
+  - Padding: 32px
+  
+  USP 1: Especialización Manicura Rusa
+    * Icono: Estrella/Award
+    * Título: "Técnica Rusa Premium"
+    * Texto: "Formación especializada en manicura rusa, la técnica que garantiza mayor durabilidad y acabado impecable. Hasta 4 semanas perfectas."
+    
+  USP 2: Atención Personalizada
+    * Icono: Corazón
+    * Título: "Experiencia Única 1:1"
+    * Texto: "Sin prisas ni salones masificados. Cada cliente recibe atención completa y personalizada en ambiente relajado y profesional."
+    
+  USP 3: Higiene y Calidad
+    * Icono: Checkmark shield
+    * Título: "Máximos Estándares"
+    * Texto: "Esterilización hospitalaria, productos premium de marcas líderes. Tu salud y seguridad son prioridad absoluta."
+
+
+SECCIÓN SERVICIOS PRINCIPALES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #F5F0EB
+Padding: 120px vertical (mobile: 80px)
+
+Título sección:
+  - H2: "Servicios Destacados"
+  - Cormorant Garamond 500, 40px, #1A1A1A
+  - Text-align: center
+  - Subtítulo: "De manicuras rusas a nail art personalizado, cada servicio es una experiencia"
+  - Inter 400, 18px, #2D2D2D
+  - Margin-bottom: 64px
+
+Layout: Grid 2x3 (desktop), 1 columna (mobile)
+Gap: 32px horizontal, 40px vertical
+
+Cada servicio card (componente Card-Servicio especificado arriba):
+  
+SERVICIO 1: Manicura Rusa
+  - Icono: Certificado
+  - Badge "ESPECIALIDAD" (esquina superior derecha, #D4A59A background)
+  - Título: "Manicura Rusa"
+  - Descripción: "La técnica europea que revoluciona el cuidado de uñas. Cutículas impecables, esmalte de larga duración (3-4 semanas), acabado profesional."
+  - Duración: "90 min"
+  - Precio: "desde 35€"
+  - CTA: "Más información" (link terciario)
+
+SERVICIO 2: Pedicura Permanente
+  - Icono: Spa/relax
+  - Título: "Pedicura Permanente"
+  - Descripción: "Pies suaves, uñas perfectas. Tratamiento completo con exfoliación, hidratación profunda y esmaltado semipermanente."
+  - Duración: "75 min"
+  - Precio: "desde 30€"
+
+SERVICIO 3: Uñas Esculpidas
+  - Icono: Sparkles
+  - Título: "Extensiones y Esculpidas"
+  - Descripción: "Alarga y fortalece tus uñas con técnicas modernas. Acrylic, gel, polygel. Resultados naturales y duraderos."
+  - Duración: "120 min"
+  - Precio: "desde 45€"
+
+SERVICIO 4: Nail Art Personalizado
+  - Icono: Paleta/pincel
+  - Título: "Diseños Personalizados"
+  - Descripción: "Desde minimalismo elegante hasta diseños complejos. Traes la inspiración, yo la hago realidad."
+  - Duración: "Variable"
+  - Precio: "desde +5€"
+
+SERVICIO 5: Tratamiento Manos
+  - Icono: Hoja/natural
+  - Título: "Rejuvenecimiento de Manos"
+  - Descripción: "Exfoliación, mascarilla hidratante, masaje. Devuelve juventud y suavidad a tus manos."
+  - Duración: "45 min"
+  - Precio: "20€"
+
+SERVICIO 6: Ver Todos
+  - Card especial con background #FFFFFF
+  - Icono: Flecha →
+  - Título: "Explorar Todos los Servicios"
+  - CTA: "Ver Carta Completa" botón secundario
+  - Link a página/sección servicios completos
+
+
+SECCIÓN PORTFOLIO GALERÍA:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Padding: 120px vertical (mobile: 80px)
+
+Título sección:
+  - H2: "Portfolio"
+  - Cormorant Garamond 500, 40px, #1A1A1A
+  - Text-align: center
+  - Subtítulo: "Cada uña cuenta una historia. Descubre trabajos recientes."
+  - Margin-bottom: 48px
+
+Filtros categoría (opcional pero recomendado):
+  - Horizontal tabs: "Todos" | "Manicura Rusa" | "Nail Art" | "Pedicura" | "Extensiones"
+  - Inter 500, 16px
+  - Activo: #1A1A1A con underline, Inactivo: #2D2D2D opacidad 0.6
+  - Click filtra galería con animación fade
+  - Margin-bottom: 40px
+
+Layout galería: 
+  - Masonry grid / Pinterest style (columnas igual width, altura variable según imagen)
+  - 4 columnas desktop, 3 tablet, 2 mobile
+  - Gap: 16px
+  - Lazy loading
+
+Cada imagen portfolio (componente Card-Portfolio especificado):
+  - Ratio libre (no forzar 1:1 si foto es portrait mejor)
+  - Click abre lightbox modal:
+    * Background overlay: rgba(26,26,26,0.95)
+    * Imagen centrada, max 90vw / 90vh
+    * Caption: Descripción técnica ("Manicura rusa + nail art geométrico")
+    * Navegación prev/next
+    * Close button (X)
+    * Escape key cierra
+
+Botón final sección:
+  - "Ver en Instagram @lidiaibeasbeauty" (botón secundario)
+  - Icono Instagram
+  - Abre perfil Instagram en nueva pestaña
+
+
+SECCIÓN RESEÑAS/TESTIMONIOS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #F5F0EB
+Padding: 120px vertical (mobile: 80px)
+
+Título sección:
+  - H2: "Lo Que Dicen Nuestras Clientas"
+  - Cormorant Garamond 500, 40px, #1A1A1A
+  - Text-align: center
+  - Stats destacados:
+    * "⭐ 5.0/5" (grande, Cormorant 600, 56px, #D4A59A)
+    * "Basado en 50+ reseñas verificadas" (Inter 400, 16px)
+  - Margin-bottom: 64px
+
+Layout: Carousel/slider horizontal (o grid 3 columnas)
+  - Si carousel: Dots navigation, autoplay opcional (5s), pausable hover
+  - Si grid: 3 columnas desktop, 1 mobile, mostrar 3 mejores reseñas
+
+Cada testimonio (componente Card-Testimonio especificado):
+
+Testimonio 1:
+  - Avatar: Iniciales "MC"
+  - Nombre: "María C."
+  - Rating: ⭐⭐⭐⭐⭐
+  - Fecha: "Hace 2 semanas"
+  - Texto: "La mejor manicura que me he hecho nunca. Lidia es súper profesional, me asesoró perfectamente y el resultado es espectacular. Llevo 3 semanas y como el primer día. Volveré seguro."
+  - Badge: "Verificado Booksy"
+
+Testimonio 2:
+  - Avatar: Iniciales "AL"
+  - Nombre: "Ana López"
+  - Rating: ⭐⭐⭐⭐⭐
+  - Fecha: "Hace 1 mes"
+  - Texto: "Ambiente tranquilo, atención personalizada, producto de calidad. Y sobre todo, un trabajo impecable. Mi manicura rusa ha durado 4 semanas perfecta. 100% recomendable."
+
+Testimonio 3:
+  - Avatar: Iniciales "SG"
+  - Nombre: "Sara G."
+  - Rating: ⭐⭐⭐⭐⭐
+  - Fecha: "Hace 3 semanas"
+  - Texto: "Buscaba alguien que hiciera nail art de calidad y Lidia superó mis expectativas. El diseño quedó exactamente como quería. Además es encantadora. ¡Gracias!"
+
+CTA final:
+  - "Leer Más Reseñas en Booksy" (link terciario)
+  - Icono external link
+
+
+SECCIÓN PROCESO/CÓMO FUNCIONA:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Padding: 100px vertical (mobile: 60px)
+
+Título sección:
+  - H2: "Reserva Tu Cita en 3 Pasos"
+  - Cormorant Garamond 500, 36px, #1A1A1A
+  - Text-align: center
+  - Margin-bottom: 56px
+
+Layout: 3 columnas con línea conectora entre ellas (desktop), stack vertical (mobile)
+
+Paso 1:
+  - Número grande: "01" (Cormorant 600, 80px, #D4A59A, opacidad 0.3)
+  - Icono: Calendario
+  - Título: "Elige Servicio y Fecha"
+  - Descripción: "Selecciona el servicio que necesitas y tu horario preferido. Disponibilidad en tiempo real."
+
+Paso 2:
+  - Número: "02"
+  - Icono: Usuario/confirmación
+  - Título: "Confirma tu Reserva"
+  - Descripción: "Introduce tus datos y recibe confirmación inmediata por email/WhatsApp."
+
+Paso 3:
+  - Número: "03"
+  - Icono: Sparkles/corazón
+  - Título: "Disfruta de tu Experiencia"
+  - Descripción: "Relájate y déjame cuidar tus manos. Sales con una manicura perfecta."
+
+CTA central final:
+  - Botón primario "RESERVAR AHORA"
+
+
+SECCIÓN UBICACIÓN/CONTACTO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #F5F0EB
+Padding: 100px vertical (mobile: 60px)
+
+Layout: 2 columnas (60% mapa, 40% info), stack mobile
+
+Columna izquierda - Mapa:
+  - Google Maps embed iframe
+  - Height: 500px
+  - Border-radius: 8px
+  - Location: Soto de Viñuelas exacto (si Lidia proporciona dirección completa)
+  - Marcador custom con icono/color brand
+
+Columna derecha - Info contacto:
+  - H2: "Encuéntrame"
+  - Cormorant 500, 32px
+  - Margin-bottom: 32px
+  
+  Dirección:
+    - Icono pin
+    - "Calle [X], Soto de Viñuelas, 28150 Madrid"
+    - Inter 400, 18px, #2D2D2D
+    - Link Google Maps ("Cómo llegar")
+    
+  Teléfono:
+    - Icono phone
+    - "[Número teléfono]"
+    - Click to call link (tel:)
+    
+  Email:
+    - Icono mail
+    - "[Email]"
+    - Mailto link
+    
+  Instagram:
+    - Icono Instagram
+    - "@lidiaibeasbeauty"
+    - Link perfil
+    
+  Horario:
+    - Icono reloj
+    - "Lunes a Viernes: 10:00 - 20:00"
+    - "Sábados: 10:00 - 14:00"
+    - "Domingos: Cerrado"
+    
+  CTA:
+    - Botón primario "ENVIAR WHATSAPP"
+    - Link WhatsApp directo con mensaje pre-rellenado: "Hola, me gustaría reservar una cita para [servicio]"
+
+
+SECCIÓN FAQ (OPCIONAL PERO RECOMENDADO):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Padding: 100px vertical (mobile: 60px)
+
+Título:
+  - H2: "Preguntas Frecuentes"
+  - Cormorant 500, 36px
+  - Text-align: center
+  - Margin-bottom: 48px
+
+Layout: Accordion lista (max-width 800px centrado)
+
+Cada pregunta:
+  - Fondo: #F5F0EB cuando expandido, transparent cuando colapsado
+  - Border-bottom: 1px solid #EAE3DC
+  - Padding: 24px
+  - Cursor: pointer
+  
+  Pregunta (título):
+    - Inter 600, 18px, #1A1A1A
+    - Icono + / - derecha (toggle)
+    
+  Respuesta (contenido colapsable):
+    - Inter 400, 16px, #2D2D2D, line-height 1.6
+    - Animación slide-down smooth
+    - Margin-top: 16px
+
+Preguntas sugeridas:
+
+1. "¿Qué es la manicura rusa y en qué se diferencia?"
+   R: "La manicura rusa es una técnica europea que trabaja las cutículas de forma más precisa usando fresas de diamante. El resultado es un acabado más limpio y duradero (hasta 4 semanas vs 2 semanas de manicura tradicional)."
+
+2. "¿Cuánto dura una manicura permanente?"
+   R: "Depende del crecimiento de tu uña y cuidados, pero generalmente entre 2-4 semanas perfecta. La manicura rusa tiende a durar más que la tradicional."
+
+3. "¿Qué marcas de productos utilizas?"
+   R: "Trabajo con marcas premium reconocidas internacionalmente como [OPI/CND/otras]. Calidad garantizada."
+
+4. "¿Puedo llevar mi propio diseño de referencia?"
+   R: "¡Por supuesto! Me encanta cuando mis clientas traen inspiración de Pinterest o Instagram. Lo adaptamos juntas a tu estilo."
+
+5. "¿Cómo cancelo o modifico mi cita?"
+   R: "Puedes hacerlo directamente desde Booksy o contactándome por WhatsApp con 24h de antelación mínimo."
+
+6. "¿Ofreces servicio a domicilio?"
+   R: "Actualmente trabajo solo en mi salón en Soto de Viñuelas para garantizar máxima calidad e higiene."
+
+
+FOOTER:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #1A1A1A
+Color texto: #F5F0EB
+Padding: 64px vertical 80px horizontal (desktop), 48px vertical 24px horizontal (mobile)
+
+Layout: 3 columnas iguales (desktop), stack (mobile)
+
+Columna 1 - Branding:
+  - Logo/Nombre: "Lidia Ibeas" (Cormorant 600, 28px, #FFFFFF)
+  - Subtítulo: "Beauty & Nails" (Inter 400, 12px, #F5F0EB, opacidad 0.8)
+  - Tagline: "Manicuras que duran, belleza que perdura"
+  - Inter 400, 16px, #F5F0EB, opacidad 0.7, italic
+
+Columna 2 - Links rápidos:
+  - Título: "Navegación" (Inter 600, 14px, #FFFFFF, uppercase, letter-spacing 0.1em)
+  - Lista links:
+    * Inicio
+    * Servicios
+    * Portfolio
+    * Reseñas
+    * Contacto
+    * Política Privacidad
+    * Términos y Condiciones
+  - Inter 400, 15px, #F5F0EB opacidad 0.8
+  - Hover: opacidad 1, color #D4A59A
+
+Columna 3 - Contacto & Social:
+  - Título: "Contacto" (Inter 600, 14px, #FFFFFF, uppercase)
+  - Dirección: "Soto de Viñuelas, Madrid"
+  - Teléfono: "[número]" (click-to-call)
+  - Email: "[email]"
+  - Espaciado: 8px entre items
+  
+  Social icons:
+    - Instagram, Facebook (si aplica), WhatsApp
+    - Size: 32px, color #F5F0EB
+    - Hover: color #D4A59A, transform scale(1.1)
+    - Gap: 16px
+
+Bottom bar:
+  - Border-top: 1px solid rgba(245, 240, 235, 0.2)
+  - Padding-top: 32px
+  - Margin-top: 48px
+  - Layout: Flexbox space-between
+  
+  Izquierda:
+    - "© 2024 Lidia Ibeas Beauty & Nails. Todos los derechos reservados."
+    - Inter 400, 14px, #F5F0EB opacidad 0.6
+    
+  Derecha:
+    - "Diseño web por [Tu nombre/estudio]"
+    - Inter 400, 14px, #F5F0EB opacidad 0.6
+
+
+RESPONSIVE BREAKPOINTS:
+─────────────────────────────────────────────────────────────────────
+
+Mobile: < 768px
+  - Header: Hamburger menu, logo centrado, CTA bottom sticky
+  - Hero: Height 70vh, headings más pequeños, botones stack vertical
+  - Grids: 1 columna
+  - Padding secciones: 80px → 48px vertical
+  - Padding lateral: 24px
+  - Font sizes reducidos proporcionalmente (H1: 40px, H2: 32px, body: 16px)
+
+Tablet: 768px - 1024px
+  - Grids servicios: 2 columnas
+  - Portfolio: 3 columnas
+  - Padding secciones: 100px vertical
+  - Mantener navegación horizontal si cabe
+
+Desktop: > 1024px
+  - Full layout como especificado
+  - Max-width container: 1200px
+  - Grids servicios: 3 columnas
+  - Portfolio: 4 columnas
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 5: SEO
+═══════════════════════════════════════════════════════════════════════
+
+Title: "Lidia Ibeas Beauty & Nails | Manicura Rusa Soto de Viñuelas"
+(59 caracteres - dentro del límite óptimo 50-60)
+
+Meta description: "Especialista en manicura rusa y nail art en Soto de Viñuelas. Técnicas premium, durabilidad garantizada, ambiente personalizado. ⭐5.0 Booksy. Reserva tu cita."
+(158 caracteres - dentro del límite 150-160)
+
+Keywords focus:
+- manicura rusa soto de viñuelas (principal, long-tail local)
+- pedicura permanente tres cantos (local secundaria)
+- salón de uñas madrid norte (local amplia)
+- extensiones de uñas soto de viñuelas
+- nail art personalizado madrid
+- manicurista profesional soto de viñuelas
+- uñas esculpidas tres cantos
+- mejor salón de uñas zona norte madrid
+- manicura larga duración madrid
+- pedicura spa soto de viñuelas
+
+Schema.org markup (JSON-LD):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Tipos necesarios:
+
+1. LocalBusiness + BeautySalon
+{
+  "@context": "https://schema.org",
+  "@type": "BeautySalon",
+  "name": "Lidia Ibeas Beauty & Nails",
+  "image": "[URL logo/foto salón]",
+  "description": "Salón especializado en manicura rusa, pedicura permanente y nail art en Soto de Viñuelas",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "[Calle específica]",
+    "addressLocality": "Soto de Viñuelas",
+    "postalCode": "28150",
+    "addressCountry": "ES"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": [lat],
+    "longitude": [lng]
+  },
+  "telephone": "[teléfono]",
+  "priceRange": "€€",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "10:00",
+      "closes": "20:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "10:00",
+      "closes": "14:00"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "50+"
+  }
+}
+
+2. Service (para cada servicio principal)
+3. Person (para Lidia como profesional)
+
+
+H1 principal: "Manicura Rusa y Nail Art Profesional en Soto de Viñuelas"
+(Incluye keyword principal + localización + profesionalidad)
+
+H2 secundarios optimizados:
+- "¿Por Qué Elegir Nuestro Salón de Uñas?" (naturalidad)
+- "Servicios de Manicura y Pedicura Premium"
+- "Portfolio de Diseños y Trabajos Recientes"
+- "Reseñas Verificadas de Nuestras Clientas"
+- "Cómo Llegar a Nuestro Salón en Soto de Viñuelas"
+
+Alt text imágenes:
+- Hero: "Manicura rusa con nail art geométrico en tonos nude - Lidia Ibeas Beauty Soto de Viñuelas"
+- Portfolio: "Diseño de uñas [descripción específica] - Manicura profesional Madrid norte"
+- Servicio: "Tratamiento de manicura rusa paso a paso en salón Soto de Viñuelas"
+
+URL structure:
+- Home: / (o /index.html)
+- Servicios: /#servicios (anchor, landing page única)
+- Portfolio: /#portfolio
+- Reseñas: /#reseñas
+- Contacto: /#contacto
+
+(Landing page única = mejor para SEO local pequeño negocio)
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 6: ACCESIBILIDAD & PERFORMANCE
+═══════════════════════════════════════════════════════════════════════
+
+ACCESIBILIDAD (WCAG 2.1 AA):
+─────────────────────────────────────────────────────────────────────
+
+Contraste de color:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Texto principal (#2D2D2D sobre #FFFFFF): Ratio 11.84:1 ✓ AAA
+• Texto sobre fondo nude (#2D2D2D sobre #F5F0EB): Ratio 9.47:1 ✓ AAA
+• Botones (#FFFFFF sobre #1A1A1A): Ratio 16.73:1 ✓ AAA
+• Links terracotta (#D4A59A sobre #FFFFFF): Verificar mínimo 4.5:1
+
+Alt text:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Todas las imágenes portfolio deben tener alt descriptivo único
+• Formato: "Manicura [técnica] con [diseño] en tonos [colores] - [contexto]"
+• Imágenes decorativas: alt="" (no vacío sin alt, sino alt vacío explícito)
+• Logo: alt="Lidia Ibeas Beauty & Nails - Salón de Manicura Soto de Viñuelas"
+
+Navegación por teclado:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Tab order lógico: Logo → Menú → CTA → Contenido → Footer
+• Focus states visibles en todos elementos interactivos:
+  - Outline: 2px solid #D4A59A
+  - Outline-offset: 4px
+  - No usar outline: none sin alternativa
+• Skip to main content link (hidden, visible on focus)
+• Menú mobile keyboard accessible (escape cierra)
+
+ARIA labels:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Iconos sin texto: aria-label descriptivo
+  - Ejemplo: <a href="instagram" aria-label="Síguenos en Instagram">
+• Navegación: <nav aria-label="Navegación principal">
+• Botón hamburger: aria-label="Menú de navegación" + aria-expanded="false/true"
+• Lightbox modal: aria-modal="true", role="dialog"
+
+Tamaños de fuente:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Usar rem (no px fijos) para permitir zoom navegador
+• Body mínimo: 1rem (16px)
+• Botones CTA mínimo: 1rem (16px)
+• Links mínimo: 0.875rem (14px)
+
+Semántica HTML:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Uso correcto tags: <header>, <nav>, <main>, <section>, <article>, <aside>, <footer>
+• Jerarquía headings: Solo 1 H1, H2 para secciones principales, H3 subsecciones
+• Listas: <ul>/<ol> para menús y listas de servicios
+• Botones: <button> para acciones, <a> para navegación
+
+
+PERFORMANCE (Target: PageSpeed >90):
+─────────────────────────────────────────────────────────────────────
+
+Imágenes:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Formato: WebP con fallback JPG
+  ```html
+  <picture>
+    <source srcset="image.webp" type="image/webp">
+    <img src="image.jpg" alt="...">
+  </picture>
+  ```
+• Compresión: 80-85% quality (imperceptible visualmente)
+• Responsive srcset para diferentes resoluciones
+• Lazy loading: loading="lazy" en todas excepto hero/above-fold
+• Hero image: Preload en <head>
+  ```html
+  <link rel="preload" as="image" href="hero.webp">
+  ```
+
+CSS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Critical CSS inline en <head> (above-the-fold styles)
+• Rest: <link rel="stylesheet"> con media="print" onload="this.media='all'"
+• Minificación: Remover espacios, comentarios (build step)
+• CSS moderno: Usar flexbox/grid (evitar floats), custom properties (variables)
+
+JavaScript:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Defer todos los scripts: <script src="script.js" defer></script>
+• Vanilla JS preferible (evitar jQuery si no es necesario)
+• Event delegation para elementos dinámicos
+• Debounce en scroll events (performance)
+
+Fonts:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Google Fonts con preconnect:
+  ```html
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  ```
+• font-display: swap (evita FOIT - Flash Of Invisible Text)
+• Preload fonts críticos:
+  ```html
+  <link rel="preload" href="inter.woff2" as="font" type="font/woff2" crossorigin>
+  ```
+
+Otros:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Minify HTML (build step)
+• Enable Gzip/Brotli compression (server)
+• Browser caching headers (server)
+• Reduce HTTP requests: Inline small CSS/JS, combine files
+• No third-party scripts pesados (evitar Google Analytics si no es crítico, usar Plausible)
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 7: CONTENIDO EXISTENTE / PORTFOLIO
+═══════════════════════════════════════════════════════════════════════
+
+Contenido a obtener de Booksy:
+─────────────────────────────────────────────────────────────────────
+
+Servicios:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Scraping/manual de lista completa servicios con:
+• Nombre exacto servicio
+• Descripción actual (puede mejorarse copywriting)
+• Duración
+• Precio
+• Categorías (manicura, pedicura, tratamientos, depilación)
+
+Reseñas:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Top 5-10 reseñas más recientes y positivas:
+• Nombre cliente (iniciales si privacidad)
+• Rating
+• Texto testimonio
+• Fecha
+• Badge "Verificado Booksy"
+
+Portfolio:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Si Lidia tiene fotos en Booksy, descargarlas con calidad máxima
+• Si tiene Instagram (@lidiaibeasbeauty), scrapear últimas 30-50 fotos mejores
+• Organizar por categorías: Manicura Rusa, Nail Art, Pedicura, Extensiones
+• Mínimo 20 fotos para galería inicial
+• Formato correcto, resize si necesario (max 1200px lado más largo)
+
+Info negocio:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Dirección exacta (no solo "Soto de Viñuelas", calle número)
+• Teléfono
+• Horarios detallados
+• Rating actual
+• Número total reseñas
+• Enlace Instagram si existe
+
+
+Contenido a crear/mejorar:
+─────────────────────────────────────────────────────────────────────
+
+Copywriting profesional para:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Hero H1 + subtítulo (ya especificados arriba)
+• Descripciones servicios (expandir lo de Booksy, más persuasivo)
+• Sección USP (valores únicos)
+• Textos FAQ
+• Footer tagline
+• Meta description SEO
+
+Fotos necesarias idealmente:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Hero imagen (espectacular, mejor trabajo reciente)
+• Lidia retrato profesional
+• Salón/estación trabajo (limpio, organizado, acogedor)
+• Close-ups herramientas premium
+• Si no hay fotos pro: Placeholder con nota "Coming soon - Sesión fotográfica programada"
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 8: FUNCIONALIDADES ESPECIALES
+═══════════════════════════════════════════════════════════════════════
+
+SISTEMA DE RESERVA:
+─────────────────────────────────────────────────────────────────────
+
+Opción A (Recomendada): Integración Widget Booksy
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Booksy ofrece widget embebido iframe
+• Botón "Reservar Ahora" abre modal/overlay con iframe Booksy
+• Ventajas: Sistema completo (calendario, pagos, confirmaciones), ya configurado
+• Implementación:
+  ```html
+  <button onclick="openBooksy()">RESERVAR AHORA</button>
+  <div id="booksy-modal" class="modal">
+    <iframe src="https://booksy.com/widget/[ID]"></iframe>
+  </div>
+  ```
+• Styling iframe con brand colors (background modal, close button)
+
+Opción B (Alternativa): Link directo Booksy
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Botón "Reservar" abre Booksy en nueva pestaña
+• Más simple pero menos integrado
+• Útil si widget no está disponible
+
+
+FORMULARIO CONTACTO SIMPLE:
+─────────────────────────────────────────────────────────────────────
+
+Para consultas no-reserva:
+• Campos: Nombre, Email, Teléfono (opcional), Mensaje
+• Validación client-side JavaScript (email formato, campos required)
+• Backend: 
+  - PHP simple enviando email a Lidia
+  - O Formspree/Netlify Forms (third-party gratis)
+  - O Google Forms embed estilizado
+• Mensaje éxito: "¡Gracias! Te responderé en menos de 24h"
+• ReCAPTCHA v3 invisible (anti-spam)
+
+
+WHATSAPP INTEGRATION:
+─────────────────────────────────────────────────────────────────────
+
+Botón flotante (sticky bottom-right):
+• Icono WhatsApp verde característico
+• Click abre WhatsApp Web/App con mensaje pre-rellenado
+• Link: `https://wa.me/34[número]?text=Hola%20Lidia%2C%20me%20gustar%C3%ADa%20reservar%20una%20cita%20para%20[servicio]`
+• Mostrar solo desktop (mobile tiene WhatsApp app)
+• Animación pulso suave (attention grabber)
+• Z-index alto (siempre visible)
+
+Estilo botón:
+```css
+.whatsapp-btn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 64px;
+  height: 64px;
+  background: #25D366; /* WhatsApp green */
+  border-radius: 50%;
+  box-shadow: 0 4px 16px rgba(37, 211, 102, 0.4);
+  animation: pulse 2s infinite;
+}
+```
+
+
+GALERÍA LIGHTBOX:
+─────────────────────────────────────────────────────────────────────
+
+JavaScript lightbox (GLightbox o similar):
+• Click imagen portfolio abre fullscreen overlay
+• Fondo: rgba(26, 26, 26, 0.95)
+• Imagen centrada, responsive
+• Navegación: Flechas prev/next, thumbnails bottom
+• Info imagen: Caption con descripción
+• Close: X button + click fuera + ESC key
+• Swipe gestures mobile
+• Keyboard navigation (arrows, ESC)
+• Lazy load imágenes fullsize
+
+
+INSTAGRAM FEED (OPCIONAL):
+─────────────────────────────────────────────────────────────────────
+
+Si Lidia tiene Instagram activo:
+• Widget SnapWidget / Juicer / Flockler (gratis con limitaciones)
+• Grid 3x2 últimas fotos
+• Link cada foto a Instagram
+• Hashtag filter: #lidiaibeasbeauty
+• Actualización automática
+• Fallback: Manual update periódico
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 9: VALIDACIÓN AUTOMÁTICA CON PLAYWRIGHT
+═══════════════════════════════════════════════════════════════════════
+
+TESTS CRÍTICOS A IMPLEMENTAR:
+─────────────────────────────────────────────────────────────────────
+
+Setup Playwright:
+```bash
+npm init playwright@latest
+```
+
+Test 1: Navegación y Links
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```javascript
+test('Navegación funciona correctamente', async ({ page }) => {
+  await page.goto('http://localhost:3000');
+  
+  // Click cada link menú
+  await page.click('a[href="#servicios"]');
+  await expect(page.locator('#servicios')).toBeInViewport();
+  
+  await page.click('a[href="#portfolio"]');
+  await expect(page.locator('#portfolio')).toBeInViewport();
+  
+  // CTAs hero
+  await expect(page.locator('text=RESERVAR CITA')).toBeVisible();
+  await expect(page.locator('text=VER PORTFOLIO')).toBeVisible();
+});
+```
+
+Test 2: Responsive Design
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```javascript
+test('Responsive mobile', async ({ page }) => {
+  await page.setViewportSize({ width: 375, height: 667 }); // iPhone SE
+  await page.goto('http://localhost:3000');
+  
+  // Hamburger menu visible
+  await expect(page.locator('.hamburger-menu')).toBeVisible();
+  
+  // Grids stack vertical
+  const servicesGrid = page.locator('.services-grid');
+  await expect(servicesGrid).toHaveCSS('grid-template-columns', '1fr');
+});
+```
+
+Test 3: Formulario Contacto
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```javascript
+test('Formulario validación', async ({ page }) => {
+  await page.goto('http://localhost:3000#contacto');
+  
+  // Submit vacío muestra errores
+  await page.click('button[type="submit"]');
+  await expect(page.locator('.error-message')).toBeVisible();
+  
+  // Fill válido y submit
+  await page.fill('input[name="nombre"]', 'Test User');
+  await page.fill('input[name="email"]', 'test@example.com');
+  await page.fill('textarea[name="mensaje"]', 'Test message');
+  await page.click('button[type="submit"]');
+  
+  await expect(page.locator('.success-message')).toBeVisible();
+});
+```
+
+Test 4: Galería Lightbox
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```javascript
+test('Portfolio lightbox funciona', async ({ page }) => {
+  await page.goto('http://localhost:3000#portfolio');
+  
+  // Click primera imagen
+  await page.click('.portfolio-grid img:first-child');
+  
+  // Lightbox abierto
+  await expect(page.locator('.lightbox-modal')).toBeVisible();
+  
+  // Navegación funciona
+  await page.click('.lightbox-next');
+  // Verificar imagen cambió
+  
+  // ESC cierra
+  await page.keyboard.press('Escape');
+  await expect(page.locator('.lightbox-modal')).not.toBeVisible();
+});
+```
+
+Test 5: Performance (Lighthouse CI)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```javascript
+test('PageSpeed score >85', async ({ page }) => {
+  await page.goto('http://localhost:3000');
+  
+  const metrics = await page.evaluate(() => {
+    return JSON.parse(JSON.stringify(performance.getEntriesByType('navigation')[0]));
+  });
+  
+  // FCP < 1.8s
+  expect(metrics.loadEventEnd - metrics.fetchStart).toBeLessThan(1800);
+});
+```
+
+Test 6: Accesibilidad (Axe)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```javascript
+import AxeBuilder from '@axe-core/playwright';
+
+test('No violaciones accesibilidad', async ({ page }) => {
+  await page.goto('http://localhost:3000');
+  
+  const results = await new AxeBuilder({ page }).analyze();
+  
+  expect(results.violations).toEqual([]);
+});
+```
+
+
+COMANDOS NPM:
+─────────────────────────────────────────────────────────────────────
+```json
+{
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:report": "playwright show-report"
+  }
+}
+```
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 10: ENTREGABLES ESPERADOS
+═══════════════════════════════════════════════════════════════════════
+
+ESTRUCTURA DE ARCHIVOS:
+─────────────────────────────────────────────────────────────────────
+
+```
+lidia-ibeas-beauty/
+│
+├── index.html                 (HTML semántico completo)
+│
+├── assets/
+│   ├── css/
+│   │   ├── main.css           (Estilos principales)
+│   │   ├── variables.css      (Custom properties: colores, espaciados)
+│   │   └── responsive.css     (Media queries)
+│   │
+│   ├── js/
+│   │   ├── main.js            (JavaScript funcionalidades)
+│   │   ├── lightbox.js        (Galería)
+│   │   └── smooth-scroll.js   (Navegación smooth)
+│   │
+│   ├── images/
+│   │   ├── hero/              (Hero image + variants)
+│   │   ├── portfolio/         (Fotos trabajos, optimized WebP + JPG)
+│   │   ├── services/          (Iconos servicios si custom)
+│   │   ├── testimonials/      (Avatars clientes)
+│   │   └── logo.svg           (Logo Lidia si existe)
+│   │
+│   └── fonts/                 (Si self-hosted, sino Google Fonts CDN)
+│
+├── tests/
+│   ├── navigation.spec.js
+│   ├── responsive.spec.js
+│   ├── forms.spec.js
+│   ├── gallery.spec.js
+│   ├── performance.spec.js
+│   └── accessibility.spec.js
+│
+├── README.md                  (Instrucciones despliegue y edición)
+├── package.json               (Dependencies Playwright)
+└── .gitignore
+```
+
+
+CONTENIDO README.md:
+─────────────────────────────────────────────────────────────────────
+
+```markdown
+# Lidia Ibeas Beauty & Nails - Landing Page
+
+Landing page profesional para salón de manicura y pedicura en Soto de Viñuelas.
+
+## Tecnologías
+- HTML5 semántico
+- CSS3 (Flexbox, Grid, Custom Properties)
+- Vanilla JavaScript (ES6+)
+- Google Fonts (Cormorant Garamond, Inter)
+- Playwright (testing)
+
+## Despliegue Local
+1. Clonar repositorio
+2. Abrir `index.html` en navegador (no requiere build)
+3. Para desarrollo con live-reload: `npx live-server`
+
+## Testing
+```bash
+npm install
+npm test
+```
+
+## Edición de Contenido
+
+### Cambiar Servicios
+Editar sección `#servicios` en `index.html`, línea ~XXX.
+Cada servicio es un `<div class="service-card">`.
+
+### Añadir Fotos Portfolio
+1. Optimizar imagen (WebP, max 1200px, quality 85%)
+2. Colocar en `assets/images/portfolio/`
+3. Añadir en galería (línea ~XXX):
+```html
+<img src="assets/images/portfolio/nueva-foto.webp" alt="Descripción detallada">
+```
+
+### Actualizar Reseñas
+Editar `#reseñas`, línea ~XXX.
+
+### Cambiar Colores Brand
+Editar `assets/css/variables.css`:
+```css
+--color-primary: #F5F0EB;
+--color-secondary: #D4A59A;
+--color-accent: #1A1A1A;
+```
+
+## Despliegue Producción
+
+### Netlify (Recomendado - Gratis)
+1. Conectar repositorio GitHub
+2. Build command: (vacío, es static HTML)
+3. Publish directory: `/`
+4. Dominio custom: lidiaibeasbeauty.com
+
+### GitHub Pages (Alternativa)
+1. Settings → Pages
+2. Source: main branch / root
+3. Dominio: username.github.io/lidia-ibeas-beauty
+
+## Mantenimiento
+
+- **Portfolio**: Añadir nuevas fotos mensualmente
+- **Reseñas**: Actualizar con últimas de Booksy trimestralmente
+- **Precios**: Revisar sección servicios si cambian tarifas
+
+## Contacto Desarrollo
+[Tu nombre/estudio]
+[Email/web]
+```
+
+
+CHECKLIST ENTREGA:
+─────────────────────────────────────────────────────────────────────
+
+□ HTML validado W3C (https://validator.w3.org/)
+□ CSS validado W3C
+□ JavaScript sin errores consola
+□ Todas las imágenes optimizadas (WebP + fallback)
+□ Responsive testado (mobile 375px, tablet 768px, desktop 1440px+)
+□ Lighthouse score >85 (Performance, Accessibility, SEO, Best Practices)
+□ Links funcionan (internos anchor + externos)
+□ Formulario contacto funcional
+□ Widget/link Booksy integrado
+□ WhatsApp botón funcional
+□ Galería lightbox funciona
+□ Tests Playwright pasan todos
+□ README completo
+□ Comentarios código (moderados, solo donde necesario)
+□ Git repository limpio (.gitignore adecuado)
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 11: NOTAS FINALES
+═══════════════════════════════════════════════════════════════════════
+
+EQUILIBRIO DEL DISEÑO:
+─────────────────────────────────────────────────────────────────────
+
+Este diseño debe equilibrar:
+
+✓ SOFISTICACIÓN (40%): Elegancia editorial, tipografía refinada, espaciado generoso
+  - Transmite profesionalidad premium sin ser inalcanzable
+  - Justifica precios más altos que competencia masificada
+  - Atrae clientela que valora calidad sobre precio
+
+✓ CALIDEZ (35%): Paleta cálida, testimonios reales, ambiente acogedor
+  - Contrarresta frialdad clínica que puede alejar
+  - Lidia no es franquicia impersonal, es profesional cercana
+  - Importante para generar confianza y reservas
+
+✓ PORTFOLIO VISUAL (25%): Trabajo habla por sí solo, fotos protagonistas
+  - Nail art es inherentemente visual, debe ser estrella
+  - Decisión compra basada 80% en ver resultados previos
+  - Instagram generation espera contenido visual abundante
+
+
+NO DEBE PARECER:
+─────────────────────────────────────────────────────────────────────
+
+✗ Nail salon genérico de centro comercial (rosa chicle, brillos, cursivas exageradas)
+  - Saturación visual, estética barata y pasada de moda
+  - Lidia ofrece servicio premium personalizado, no volumen express
+
+✗ Spa ultraminimalista frío (exceso blanco/gris, sans-serif única, iconografía geométrica dura)
+  - Transmite distancia, impersonal, puede intimidar
+  - Pierde calidez necesaria para servicio personal de belleza
+
+✗ Portfolio artista sin estructura (solo imágenes, sin info clara servicios/precios/contacto)
+  - No convierte visitas en reservas
+  - Usuario necesita info práctica fácilmente accesible
+
+
+DEBE PARECER:
+─────────────────────────────────────────────────────────────────────
+
+✓ Glossier (marca belleza moderna): Limpio, femenino sin estereotipos, aspiracional pero accesible
+✓ Salón boutique high-end: Atención personalizada, experiencia cuidada, productos premium
+✓ Portfolio Instagram profesional: Visual-first, grid limpio, navegación intuitiva
+
+
+CONCEPTO CENTRAL: "Editorial Elegance Meets Authentic Craft"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+La landing no es catálogo de servicios ni galería de fotos sin más.
+Es escaparate digital que refleja la experiencia real en el salón de Lidia:
+
+- Profesionalidad técnica (manicura rusa, conocimiento especializado)
+- Atención cuidada uno-a-uno (sin prisas, personalizado)
+- Resultados espectaculares (portfolio habla por sí solo)
+- Ambiente tranquilo y acogedor (espacio para relajarse)
+
+Cada elemento visual refuerza este mensaje:
+
+- Paleta nude/terracotta → Sofisticación natural, no artificial
+- Tipografía serif elegante + sans moderna → Tradición + contemporaneidad
+- Espaciado generoso → Tiempo dedicado, sin prisa
+- Portfolio protagonista → Transparencia, confianza en resultados
+- Testimonios reales → Credibilidad, experiencia compartida
+
+
+DIFERENCIADORES CLAVE A DESTACAR VISUALMENTE:
+─────────────────────────────────────────────────────────────────────
+
+1. MANICURA RUSA (especialidad técnica única)
+   → Badge "ESPECIALIDAD" en card servicio
+   → Sección dedicada explicando qué es y beneficios
+   → Portfolio mostrando resultados durabilidad
+
+2. RATING 5.0 BOOKSY (proof social inmediato)
+   → Hero section prominente
+   → Sección testimonios amplia
+   → Logos/badges confianza
+
+3. AMBIENTE PERSONALIZADO (vs salones masificados)
+   → Foto salón tranquilo
+   → USP "Experiencia 1:1 sin prisas"
+   → Testimonios mencionando atención personalizada
+
+4. UBICACIÓN EXCLUSIVA SOTO DE VIÑUELAS (zona residencial premium)
+   → Mapa destacado
+   → SEO local agresivo
+   → Copy destacando "exclusividad zona norte Madrid"
+
+
+RECORDATORIOS IMPLEMENTACIÓN:
+─────────────────────────────────────────────────────────────────────
+
+⚠️ NO usar templates pre-hechos (Bootstrap genérico, themes WordPress)
+   → Diseño custom refleja exclusividad servicio
+
+⚠️ NO saturar con animaciones (distrae, ralentiza)
+   → Sutileza es elegancia
+
+⚠️ NO descuidar mobile (60%+ tráfico será mobile)
+   → Mobile-first approach, testear exhaustivamente
+
+⚠️ SÍ priorizar velocidad carga (imágenes optimizadas, código minificado)
+   → Usuario abandonará si tarda >3s
+
+⚠️ SÍ implementar analytics (Google Analytics o Plausible)
+   → Medir conversión, optimizar iterativamente
+
+⚠️ SÍ facilitar contacto (WhatsApp, Booksy, formulario)
+   → Cada fricción = oportunidad perdida
+
+
+PRÓXIMOS PASOS POST-LANZAMIENTO:
+─────────────────────────────────────────────────────────────────────
+
+1. Blog sencillo (cuidado uñas, tendencias nail art) → SEO long-tail
+2. Página servicios expandida (cada servicio página dedicada) → SEO específico
+3. Sistema reservas propio (reducir dependencia Booksy) → Comisiones 0%
+4. Programa fidelización (5ª manicura gratis) → Retención clientes
+5. Colaboraciones locales (peluquerías, spas zona) → Cross-promotion
+
+
+═══════════════════════════════════════════════════════════════════════
+FIN DEL PROMPT - LANDING PAGE LIDIA IBEAS BEAUTY & NAILS
+═══════════════════════════════════════════════════════════════════════
+
+Este prompt contiene TODA la información necesaria para construir una landing page profesional, SEO-optimizada, accesible y de alto rendimiento que refleje la calidad del servicio de Lidia y convierta visitas en reservas.
+
+No se requieren decisiones adicionales del desarrollador. Todas las especificaciones (colores, fonts, espaciados, secciones, contenido, funcionalidades) están detalladas y justificadas.
+
+Implementar fielmente este diseño resultará en una presencia web que:
+- Se diferencia claramente de competencia genérica
+- Transmite profesionalidad premium
+- Facilita conversión (reservas)
+- Es mantenible y escalable
+- Cumple estándares modernos (SEO, accesibilidad, performance)
+
+¡A construir una web espectacular que haga justicia al talento de Lidia! 💅✨

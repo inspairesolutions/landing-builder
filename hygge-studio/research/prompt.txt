@@ -1,0 +1,1393 @@
+═══════════════════════════════════════════════════════════════════════
+PROMPT PARA CLAUDE CODE: HYGGE STUDIO - ESTUDIO DE BELLEZA MULTIDISCIPLINAR
+═══════════════════════════════════════════════════════════════════════
+
+Lee el skill frontend-design antes de empezar.
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 1: CONTEXTO DEL PROYECTO
+═══════════════════════════════════════════════════════════════════════
+
+Cliente: HYGGE STUDIO
+Tipo: Estudio de belleza multidisciplinar (manicura, tatuajes línea fina, pestañas, maquillaje, bodas)
+Ubicación: Sector Foresta, 4, Local 2, 28760, Tres Cantos, Madrid
+Rating: 5.0/5 (44 reseñas verificadas en Booksy)
+Referencia Booksy: https://booksy.com/es-es/127123_hygge-studio_salon-de-unas_53150_soto-de-vinuelas
+
+Servicios principales:
+─────────────────────────────────────────────────────────────────────
+MANICURA & NAIL ART:
+• Manicura Clean (15€ - 20min)
+• Manicura Completa (30€ sin retirada / 35€ con retirada - 1h 30min / 2h)
+• Manicura de Nivelación (35€ sin retirada / 40€ con retirada)
+• Soft Gel X (45€ - 2h 30min) [TÉCNICA PREMIUM]
+• Nail Art: Sencillo (6€), Medio (10€), Avanzado (20€)
+• Manicura Completa SPA (40€ - 2h 30min)
+• Pedicura Rusa (20€ - 30min)
+• Pedicura Completa en seco (35€ sin retirada / 40€ con retirada)
+
+TATUAJES LÍNEA FINA:
+• Mini tatuaje (60€+ - 1h)
+• Mini tatuaje detallado (100€ - 1h 30min)
+• Tatuaje Línea Fina (80€+ - 2h) [SERVICIO ESTRELLA]
+• Tatuaje Mediano (150€+ - 1h 30min)
+• Tatuaje Mediano/Grande (200€+ - 3h)
+• Tatuaje Grande (300€+ - 4h 30min)
+• Proyecto de tatuajes (350€+ - 5h)
+• Tatuajes sorpresa "LA JAULITA" (40€+ - 1h 30min) [CONCEPTO ÚNICO]
+• Combo 2 mini (80€), 3 mini (110€), 4 mini (145€), 5 mini (170€)
+
+PESTAÑAS & CEJAS:
+• Lifting de pestañas coreano con tinte (55€ - 1h 45min)
+• Lifting de pestañas coreano sin tinte (50€ - 1h 30min)
+• Laminado de cejas con depilación (40€ - 1h)
+• Diseño y depilación de cejas con pinzas (10€ - 30min)
+
+MAQUILLAJE:
+• Maquillaje para eventos (75€ - 1h 30min)
+• Maquillaje fantasía (100€+ - 4h)
+
+SERVICIOS PARA BODAS:
+• Maquillaje y Peluquería de Novia día B (350€ - 6h - servicio móvil)
+• Maquillaje para Novia día B (220€ - 3h)
+• Prueba de maquillaje y peinado para novia (120€+ - 5h)
+• Maquillaje invitada (90€ - 2h)
+• Peluquería invitada (80€ - 2h)
+• Maquillaje + Peluquería invitada (120€ - 3h)
+• Tattoo Corner para bodas (1.000€ - 4h) [DIFERENCIADOR ÚNICO]
+
+PELUQUERÍA & BARBERÍA:
+• Corte en seco (15€+ - 45min)
+• Peinado post corte (10€+ - 45min)
+• Corte básico degradado barbería (15€ - 45min)
+
+TRATAMIENTOS ESTÉTICOS:
+• Tatuaje de pecas (150€+ - 2h)
+• Tatuaje de lunares (50€+ - 1h 30min)
+• Tatuaje para cobertura de cicatrices (300€+ - 3h)
+
+JOYERÍA DENTAL:
+• Joya dental pequeña (35€), mediana (50€), grande (80€)
+• Proyecto de joyería dental (200€+ - 1h 30min)
+
+CURSOS:
+• Curso de automaquillaje (50€+ - 4h)
+• Curso de tatuaje (800€ - 8h)
+
+
+Diferenciadores clave:
+─────────────────────────────────────────────────────────────────────
+✅ ESTUDIO MULTIDISCIPLINAR INTEGRAL - Único en la zona: manicura + tatuajes + pestañas + maquillaje + bodas bajo un mismo techo
+✅ "LA JAULITA" - Concepto único de tatuajes sorpresa que crea comunidad y experiencia diferenciadora
+✅ TATTOO CORNER PARA BODAS - Innovador servicio de tatuajes como entretenimiento en bodas (1.000€ por evento)
+✅ ESPECIALIZACIÓN LÍNEA FINA - Tatuajes delicados, minimalistas, perfectos para público femenino
+✅ TÉCNICAS COREANAS - Lifting de pestañas coreano de última generación
+✅ SERVICIO MÓVIL PARA NOVIAS - Desplazamiento a domicilio el día de la boda
+✅ RATING PERFECTO 5.0/5 - 44 reseñas verificadas, cero negativas
+✅ SOFT GEL X - Técnica premium de extensiones de gel suave
+✅ ESTÉTICA HYGGE - Espacio nórdico acogedor que marca diferencia frente a salones genéricos
+✅ TRATAMIENTOS ÚNICOS - Tatuaje de pecas, lunares, cobertura de cicatrices
+✅ JOYERÍA DENTAL - Servicio escaso en la zona
+✅ FORMACIÓN Y CURSOS - Posicionamiento de autoridad profesional
+
+
+Público objetivo:
+─────────────────────────────────────────────────────────────────────
+PRIMARY (70%):
+• Mujeres 25-45 años, nivel adquisitivo medio-alto
+• Zona: Tres Cantos, Colmenar Viejo, Alcobendas, San Sebastián de los Reyes, Madrid Norte
+• Urbanas, modernas, conscientes de tendencias, activas en Instagram
+• Buscan calidad premium y experiencia, no solo precio
+• Valoran la estética minimalista, el detalle, la higiene impecable
+• Para tatuajes: primer o segundo tatuaje, diseños delicados, femeninos, sutiles
+• Para bodas: novias con presupuesto medio-alto, buscan profesionales de confianza
+
+SECONDARY (30%):
+• Mujeres 18-24 años (primer acercamiento a servicios premium)
+• Hombres 25-40 años (barbería, corte básico)
+• Clientas de ocasiones especiales (eventos, bodas como invitadas)
+• Clientas que buscan servicios de formación
+
+
+Competencia:
+─────────────────────────────────────────────────────────────────────
+• Salones de uñas low-cost en centros comerciales (precio, no calidad)
+• Artistas freelance de línea fina en Instagram (precio, no espacio fijo)
+• Estudios de tatuaje tradicional Madrid (estilo diferente, público diferente)
+• Maquilladoras freelance y peluquerías tradicionales para bodas
+DIFERENCIADOR CLAVE: La competencia se especializa en UNA cosa. Hygge Studio es MULTIDISCIPLINAR, permite cross-selling, fidelización y experiencia única.
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 2: OBJETIVOS
+═══════════════════════════════════════════════════════════════════════
+
+1. Posicionar a Hygge Studio como EL referente de belleza integral en Madrid Norte especializado en tatuajes línea fina + manicura premium + servicios para bodas
+
+2. Generar mínimo 25 reservas/semana via web (actualmente la mayoría viene de Booksy; este sitio web es el canal propio)
+
+3. Captar novias para temporada bodas (marzo-octubre) - mínimo 3 contratos de paquete completo al mes en temporada alta
+
+4. Aumentar visibilidad de servicios únicos: La Jaulita, Tattoo Corner Bodas, Joyería Dental, Tatuaje de Pecas
+
+5. Posicionamiento SEO local específico
+
+6. Convertir visitas en RESERVA DIRECTA (Booksy) o CONTACTO (WhatsApp/formulario)
+
+7. Transmitir calidad premium sin ser intimidante - aspiracional pero accesible
+
+8. Destacar el rating 5.0/5 como prueba social irrefutable
+
+9. Generar contenido altamente compartible en Instagram Stories
+
+10. Crear canal de comunicación directa (sin depender 100% de Booksy)
+
+
+SEO Keywords objetivo:
+─────────────────────────────────────────────────────────────────────
+- hygge studio tres cantos
+- manicura tres cantos madrid
+- tatuajes línea fina tres cantos
+- tatuajes minimalistas madrid norte
+- soft gel x madrid norte
+- lifting pestañas coreano tres cantos
+- manicura rusa alcobendas
+- maquilladora bodas tres cantos
+- tattoo corner bodas madrid
+- nail art tres cantos
+- pedicura rusa madrid norte
+- estudio belleza integral tres cantos
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 3: DIRECTRICES DE DISEÑO
+═══════════════════════════════════════════════════════════════════════
+
+ESTÉTICA GENERAL:
+─────────────────────────────────────────────────────────────────────
+Concepto: "NORDIC MINIMALIST STUDIO"
+Descripción: Estética nórdica hygge (acogedor, cálido, minimalista) con toques modernos urbanos. El diseño debe respirar, ser limpio y espacioso. La fotografía es protagonista absoluta. Debe sentirse como un estudio boutique de alta gama pero accesible. Inspiración en estudios escandinavos de belleza + galerías de arte minimalistas.
+
+Inspiración visual:
+• Kinfolk Magazine - Fotografía minimalista, espacios respirables, tonos neutros
+• Estudios de belleza coreanos - Limpieza visual, foco en detalle, iluminación suave
+• Glossier - Beauty branding moderno, aspiracional pero friendly
+• Cuyana "Fewer, better things" - Retail minimalista premium
+• Ace & Tate - Minimalismo high-end approachable
+
+Adjetivos clave:
+✓ Minimalista
+✓ Acogedor (hygge)
+✓ Sofisticado
+✓ Delicado
+✓ Espacioso
+✓ Sereno
+✓ Contemporáneo
+✓ Artesanal
+✓ Auténtico
+✓ Aspiracional pero accesible
+
+Evitar absolutamente:
+✗ Estética de salón low-cost asiático (fondos rojos/dorados, dragones, exceso de brillo)
+✗ Estudio de tatuaje intimidante (negro total, calaveras, grafitis oscuros)
+✗ Spa cursi con flores de loto, piedras zen, exceso de rosas y violetas
+✗ Paletas pastel chicle (rosa bebé + menta + lavanda)
+✗ Efectos de brillo, degradados arcoíris, neones
+✗ Tipografía script cursiva excesiva
+✗ Exceso de elementos decorativos - menos es más
+
+
+PALETA DE COLORES:
+─────────────────────────────────────────────────────────────────────
+
+COLOR PRIMARIO - Gris Cálido Neutro (Warm Greige)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#F5F5F5 - Off-White (fondo principal, casi blanco pero cálido)
+#E8E8E8 - Gris Muy Claro (backgrounds de secciones alternadas)
+#B8B8B8 - Gris Cálido Medio (textos secundarios, bordes sutiles)
+
+Razón: Base del concepto hygge - neutral, versátil, elegante sin ser frío. Permite que la fotografía sea protagonista absoluta. Refleja la estética nórdica minimalista. Funciona para manicura y tatuajes, creando cohesión visual.
+
+
+COLOR SECUNDARIO - Negro Profundo
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#000000 - Negro Puro (textos principales, logo, elementos gráficos clave)
+#1A1A1A - Negro Suave (textos largos para reducir fatiga visual)
+
+Razón: Contraste máximo con fondos claros. Sofisticación y seriedad. Legibilidad perfecta. Representa la parte artística del estudio.
+
+
+COLOR ACENTO - Terracota Suave (Soft Terracotta)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#E8C4BC - Terracota Suave Principal (CTAs, highlights, detalles decorativos)
+#D4A89A - Terracota Medio (hover states, bordes de elementos destacados)
+
+Razón: Cálido, acogedor, orgánico - perfecto para hygge. No es rosa (evita cliché femenino) pero mantiene feminidad sutil. Sofisticado, contemporáneo, Instagram-friendly. Muy de moda en diseño nórdico 2024-2026. Se asocia con artesanía y naturalidad.
+
+Uso: CTAs principales, iconos decorativos sutiles, líneas divisoras elegantes, hover effects, highlights en navegación, detalles en portfolio.
+
+
+COLOR DE APOYO - Beige Arena
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#F0E6DC - Beige Arena Claro (backgrounds de cards testimoniales y secciones específicas)
+
+Razón: Añade calidez sin competir con terracota. Crea variedad visual sin romper paleta neutra. Evoca texturas orgánicas (lino, algodón).
+
+
+DISTRIBUCIÓN DE COLORES:
+─────────────────────────────────────────────────────────────────────
+• 60% Off-White/Grises (#F5F5F5, #E8E8E8) - Fondos principales, espacios respirables
+• 25% Negro (#000000, #1A1A1A) - Textos, elementos gráficos, logo
+• 10% Terracota (#E8C4BC, #D4A89A) - CTAs, acentos, detalles interactivos
+• 5% Beige Arena (#F0E6DC) - Backgrounds alternados secciones específicas
+
+REGLA DE ORO: La paleta es el escenario, la FOTOGRAFÍA es la protagonista. Mantener abundante whitespace para respirabilidad máxima. Si una sección tiene mucha fotografía a color, reducir uso de terracota para evitar saturación visual.
+
+
+TIPOGRAFÍA:
+─────────────────────────────────────────────────────────────────────
+
+HEADINGS (H1, H2, H3):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "DM Sans" (Google Fonts) - Sans-serif geométrica moderna, ligeramente condensada, muy legible, con toque contemporáneo sin exceso de personalidad.
+Alternativa: "Inter" (si DM Sans no carga)
+Peso: 500 (Medium) para H1, 400 (Regular) para H2-H3
+Tamaños:
+  H1: 3.5rem (56px) desktop, 2.25rem (36px) mobile
+  H2: 2.5rem (40px) desktop, 1.75rem (28px) mobile
+  H3: 1.75rem (28px) desktop, 1.375rem (22px) mobile
+Letter-spacing: -0.02em (ligeramente apretado para elegancia)
+Line-height: 1.2
+
+Razón: DM Sans es limpia, moderna, sin serifas anticuadas ni excesivamente corporativas. Toque de diseño gráfico contemporáneo perfecto para estudio creativo. Muy legible en todos los tamaños. Usada en marcas de belleza premium y estudios de diseño minimalistas.
+
+
+BODY TEXT:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Inter" (Google Fonts) - Sans-serif ultra-legible diseñada para pantallas.
+Alternativa: "DM Sans"
+Peso: 400 (Regular) normal, 500 (Medium) para énfasis
+Tamaño: 1.125rem (18px) desktop, 1rem (16px) mobile
+Line-height: 1.7 (generoso para facilitar lectura)
+Letter-spacing: -0.01em
+
+Razón: Inter está optimizada para legibilidad web. Neutra, profesional. Funciona con DM Sans - ambas geométricas modernas. Ligeramente más ancha que DM Sans, crea contraste visual sutil entre headings y body.
+
+
+BOTONES Y CTAs:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "DM Sans" Medium 500
+Tamaño: 1rem (16px)
+Letter-spacing: 0.05em (espaciado amplio para elegancia)
+Text-transform: uppercase
+
+Ejemplo: "RESERVAR AHORA" (uppercase con letter-spacing da sensación de sofisticación high-end)
+
+
+EVITAR ABSOLUTAMENTE:
+─────────────────────────────────────────────────────────────────────
+✗ Montserrat (sobre-usada, no se siente única)
+✗ Playfair Display / Cormorant / Lora (demasiado formales para hygge, asociadas con spas clásicos)
+✗ Poppins (demasiado redondeada, infantil)
+✗ Raleway (problemas de legibilidad mobile)
+✗ Great Vibes / Pacifico / Dancing Script (clichés de salones de belleza)
+✗ Bebas Neue (demasiado masculina, agresiva)
+✗ Roboto (aburrida, sin personalidad)
+
+
+ESPACIADO Y LAYOUT:
+─────────────────────────────────────────────────────────────────────
+
+PRINCIPIO: "GENEROUS BREATHING ROOM"
+El diseño minimalista nórdico se caracteriza por espacios generosos. El contenido debe flotar en whitespace, no estar comprimido.
+
+Secciones:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Padding vertical: 120px desktop, 80px mobile
+• Máximo width contenido: 1200px (centrado)
+• Margins laterales: 80px desktop, 24px mobile
+
+Entre elementos:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Heading → Párrafo: 24px
+• Párrafo → Párrafo: 16px
+• Cards entre sí: 32px
+• Sección → Sección: 120px desktop, 80px mobile
+
+Regla 8px:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Todos los espaciados múltiplos de 8: 8, 16, 24, 32, 40, 48, 56, 64, 80, 96, 120
+
+
+FOTOGRAFÍA E IMÁGENES:
+─────────────────────────────────────────────────────────────────────
+
+ESTILO FOTOGRÁFICO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Concepto: "HYGGE REALISM" - Fotografía natural, iluminación suave, tonos cálidos sin saturar. Sin filtros agresivos. Estética realista que inspire confianza.
+
+PORTFOLIO DE MANICURA/UÑAS:
+✓ Close-ups extremos de manos con manicura terminada
+✓ Luz natural difusa o softbox (sin sombras duras)
+✓ Fondos neutros (grises, beiges, blancos) que no compitan con las uñas
+✓ Composiciones minimalistas sobre superficies de lino beige
+✓ Variedad: clean minimalistas, nail art, Soft Gel X, tonos nude/terracota/negros
+✓ Manos de clientes reales (no stock photos)
+✓ Calidad mínima: 1080px ancho, enfoque perfecto
+
+PORTFOLIO DE TATUAJES LÍNEA FINA:
+✓ Close-ups de tatuajes recién terminados sobre piel limpia
+✓ Diversidad de ubicaciones: muñeca, tobillo, costillas, detrás oreja, dedos
+✓ Florales delicados, lettering fino, símbolos minimalistas
+✓ Fotografía que muestre escala (incluir referencia de tamaño)
+✓ Diversidad de tonos de piel
+
+FOTOGRAFÍA DEL ESPACIO:
+✓ Interior del estudio - decoración nórdica, plantas, textiles naturales
+✓ Luz natural entrando por ventanas
+✓ Texturas: madera clara, lino, cerámica
+
+Hero image ideal:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Opción 1: Close-up manos con manicura minimalista nude/terracota sobre superficie de lino, luz natural difusa
+Opción 2: Interior del estudio - espacio luminoso hygge nórdico
+Opción 3: Collage/grid 4 imágenes: uñas + tatuaje + espacio + herramientas
+
+Tratamiento: Overlay terracota 10% máximo si necesario para unificar tonos. Sin filtros agresivos. Gradient sutil negro 30% en bottom si texto encima de imagen compleja.
+
+Formatos:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Portfolio grid: 400×400px (1:1 ratio)
+• Hero: 1920×800px desktop, 100% width móvil
+• Services cards: 600×400px (3:2 ratio)
+• WebP con fallback JPG
+• Lazy loading en todo excepto hero
+
+
+ICONOGRAFÍA:
+─────────────────────────────────────────────────────────────────────
+Estilo: Outline minimalista (no filled), línea fina coherente con tatuajes
+Grosor: 1.5px
+Tamaño: 32px
+Color: #000000, cambio a #E8C4BC en hover para CTAs
+Set recomendado: Feather Icons o Tabler Icons
+
+Iconos necesarios:
+• Calendario (reservas)
+• Reloj (duración servicios)
+• Pin/ubicación (dirección y mapa)
+• Instagram (social)
+• WhatsApp (contacto directo)
+• Teléfono (llamada)
+• Mail (formulario)
+• Estrella outline (rating 5.0)
+• Check (servicios incluidos)
+• Flecha derecha (CTAs)
+• Hamburger (nav móvil)
+• Tarjeta crédito (métodos de pago)
+
+NO usar: Iconos rellenos sólidos, emojis, iconos de diferentes sets mezclados
+
+
+COMPONENTES UI:
+─────────────────────────────────────────────────────────────────────
+
+BOTONES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Botón Primario (CTA principal):
+───────────────────────────────────────────────────────────────────
+Background: #E8C4BC (terracota suave)
+Color texto: #000000
+Padding: 16px 40px
+Border-radius: 0px (esquinas rectas - minimalismo high-end)
+Font: "DM Sans" Medium 500, 16px
+Letter-spacing: 0.05em
+Text-transform: uppercase
+Border: 2px solid transparent
+Transition: all 0.3s ease
+
+Hover:
+  Background: #D4A89A
+  Transform: translateY(-2px)
+  Box-shadow: 0 4px 12px rgba(232, 196, 188, 0.4)
+
+Uso: "RESERVAR AHORA", "CONTACTAR", "VER PORTFOLIO"
+
+
+Botón Secundario:
+───────────────────────────────────────────────────────────────────
+Background: transparent
+Color texto: #000000
+Padding: 16px 40px
+Border-radius: 0px
+Border: 2px solid #000000
+Font: "DM Sans" Medium 500, 16px
+Letter-spacing: 0.05em
+Text-transform: uppercase
+Transition: all 0.3s ease
+
+Hover:
+  Background: #000000
+  Color texto: #F5F5F5
+  Transform: translateY(-2px)
+
+Uso: "VER MÁS SERVICIOS", "EXPLORAR PORTFOLIO"
+
+
+Botón Terciario / Link:
+───────────────────────────────────────────────────────────────────
+Background: none, Border: none
+Color: #000000
+Border-bottom: 1px solid #000000
+Font: "Inter" Medium 500, 16px
+Hover: Color #E8C4BC, border-bottom-color #E8C4BC
+
+Uso: Links en texto, "Leer más →"
+
+
+CARDS Servicios/Portfolio:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Padding: 0 (imagen full-bleed, contenido con padding 24px)
+Border-radius: 0px
+Border: none, Box-shadow: none (default)
+
+Imagen: aspect-ratio 1:1, object-fit: cover, overflow hidden
+Título servicio: DM Sans Medium, 1.25rem (20px), #000000
+Descripción: Inter Regular, 0.875rem (14px), #666666, line-height 1.6
+Precio: DM Sans Medium, 1.125rem (18px), #E8C4BC (terracota para destacar)
+Duración: Inter Regular, 0.75rem (12px), #999999
+
+Hover:
+  Box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08)
+  Transform: translateY(-4px)
+  Imagen: scale(1.05)
+  Transition: all 0.4s ease
+
+Grid: 3 columnas desktop, 2 tablet, 1 mobile, gap 32px
+
+
+CARDS Testimonios:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #F0E6DC (beige arena)
+Padding: 32px
+Border-radius: 0px
+
+Estructura:
+- 5 estrellas #000000, size 20px, margin-bottom 16px
+- Texto testimonio: Inter Regular 1rem, #1A1A1A, line-height 1.7, font-style italic, margin-bottom 24px
+- Nombre cliente: DM Sans Medium, 0.875rem (14px), #000000, uppercase, letter-spacing 0.05em
+- Servicio utilizado: Inter Regular, 0.75rem (12px), #999999
+
+Grid: 2 columnas desktop, 1 columna mobile
+
+
+FORMULARIOS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Input/Textarea: Background #FFFFFF, Border 1px solid #E8E8E8, Border-radius 0px, Padding 16px 20px
+Font: Inter Regular 16px, Color #1A1A1A
+Placeholder: Color #AAAAAA, font-style italic
+
+Focus: Border 2px solid #E8C4BC, Box-shadow 0 0 0 3px rgba(232,196,188,0.1)
+
+Label: DM Sans Medium, 0.875rem, uppercase, letter-spacing 0.05em, margin-bottom 8px, display block
+
+Submit: Botón primario terracota estándar
+
+
+ANIMACIONES:
+─────────────────────────────────────────────────────────────────────
+
+PRINCIPIO: "SUBTLE ELEGANCE" - Sutiles, suaves, casi imperceptibles. Velocidad moderada-lenta, easings suaves. Añaden polish sin crear distracción.
+
+Fade-in en scroll:
+• Opacity: 0 → 1, Transform: translateY(30px) → 0, Duration: 0.6s, Easing: ease-out
+• Trigger: Intersection Observer cuando elemento entra viewport (threshold 0.2)
+
+Hover portfolio: Transform scale(1.05), Duration 0.4s
+
+Botones hover: Transform translateY(-2px), box-shadow, Duration 0.3s
+
+Sticky header: Al scroll, height 80px → 60px, box-shadow aparece, Duration 0.3s
+
+Lightbox: Overlay opacity 0 → 0.9, Contenido scale(0.9) → scale(1), Duration 0.4s
+
+EVITAR:
+✗ Parallax scroll excesivo
+✗ Animaciones bounce/elásticas
+✗ Transiciones >0.8s
+✗ Sliders automáticos
+✗ Efectos de cursor personalizados
+
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 4: ESTRUCTURA DE PÁGINA
+═══════════════════════════════════════════════════════════════════════
+
+HEADER/NAVEGACIÓN:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Position: sticky top 0, Z-index: 1000
+Background: rgba(255, 255, 255, 0.98)
+Backdrop-filter: blur(10px)
+Box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05)
+Height: 80px desktop, 70px mobile
+Padding: 0 80px desktop, 0 24px mobile
+Display: flex, justify-content: space-between, align-items: center
+
+Contenido:
+• Logo (izquierda):
+  "HYGGE STUDIO" - DM Sans Medium, 20px, letter-spacing 0.1em, color #000000
+  O logo imagen SVG/PNG si existe (max-height 40px)
+
+• Menú horizontal (centro, solo desktop):
+  Items: Servicios | Portfolio | Bodas | Sobre Nosotras | Contacto
+  Font: Inter Medium, 14px, uppercase, letter-spacing 0.05em, color #1A1A1A
+  Spacing entre items: 40px
+  Hover: Color #E8C4BC, border-bottom 2px solid #E8C4BC, transition 0.3s ease
+  
+  "Servicios" puede tener mega-dropdown con categorías:
+  Manicura | Tatuajes | Pestañas | Bodas | Tratamientos | Cursos
+
+• CTA derecha:
+  Botón primario terracota "RESERVAR"
+  Padding: 12px 32px, font-size 14px
+
+Mobile:
+  Hamburger (3 líneas horizontales 2px, negro, 32px)
+  Click → Full-screen overlay #F5F5F5
+  Items centrados, font-size 1.5rem, spacing 32px
+  CTA full-width al final del menú
+  Close icon (X) top-right
+
+
+HERO SECTION:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Layout: Fullwidth, height 100vh desktop, 80vh mobile
+Imagen hero: Cover centrada, gradient overlay negro 30% bottom
+
+Contenido centrado verticalmente:
+  
+  H1: "Manicura · Tatuajes Línea Fina · Belleza Integral"
+  Font: DM Sans Medium, 3.5rem (56px) desktop, 2.25rem (36px) mobile
+  Color: #FFFFFF (sobre imagen oscura)
+  Letter-spacing: -0.02em
+  Text-align: center
+  Margin-bottom: 24px
+
+  Subtítulo: "Tu estudio hygge en Tres Cantos"
+  Font: Inter Regular, 1.25rem (20px) desktop, 1rem (16px) mobile
+  Color: rgba(255,255,255,0.9)
+  Text-align: center
+  Margin-bottom: 40px
+
+  CTAs (flex row, gap 16px, centrados):
+    - Botón primario terracota: "RESERVAR AHORA"
+    - Botón outline blanco: "VER PORTFOLIO"
+    (Botón outline en hero: border 2px solid white, color white, hover bg white color black)
+
+  Rating inline bajo CTAs:
+    "⭐⭐⭐⭐⭐ 5.0/5 · 44 reseñas"
+    Font: Inter Regular, 0.875rem
+    Color: rgba(255,255,255,0.8)
+    Margin-top: 32px
+
+  Scroll indicator (opcional):
+    Flecha down animada, bottom 32px center
+    Color: rgba(255,255,255,0.6)
+    Animation: bounce suave vertical, infinite
+
+Imágenes del estudio a usar en hero (archivos proporcionados):
+  USAR imagen de la silla de tratamiento borreguito beige (imagen 2) o la mesa de trabajo manicura (imagen 4)
+  Pueden usarse como collage 2-up o imagen individual full-cover
+
+
+SECCIÓN - INTRODUCCIÓN (Sobre Nosotras):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #F5F5F5
+Padding: 120px 0 desktop, 80px 0 mobile
+Max-width contenido: 800px, centrado
+
+Eyebrow:
+  "Bienvenidas a Hygge Studio"
+  Inter Regular, 0.875rem (14px), uppercase, letter-spacing 0.1em
+  Color: #E8C4BC
+  Text-align: center, margin-bottom 16px
+
+H2: "Donde la belleza encuentra la serenidad"
+  DM Sans Medium, 2.5rem desktop, 1.75rem mobile
+  Color: #000000, text-align center, margin-bottom 32px
+
+Párrafo (max-width 700px, centrado):
+  Inter Regular, 1.125rem, line-height 1.7, text-align center
+  
+  Contenido:
+  "En Hygge Studio creamos espacios donde la belleza y el bienestar se encuentran. 
+  Especializadas en manicura premium, tatuajes de línea fina y servicios integrales 
+  para bodas, ofrecemos una experiencia única inspirada en el concepto nórdico hygge: 
+  comodidad, calidez y atención al detalle.
+  
+  Nuestro estudio en Tres Cantos es un refugio donde cada servicio se realiza con 
+  dedicación artesanal. Desde una manicura rusa impecable hasta tu primer tatuaje 
+  delicado, cada detalle importa. Nos avalan 44 reseñas perfectas."
+
+Rating destacado:
+  5 estrellas ★★★★★ (color #000000, size 24px)
+  "5.0/5 · 44 reseñas verificadas en Booksy"
+  Font: Inter Medium 16px, color #000000
+  Centrado, margin-top 40px
+
+
+SECCIÓN - SERVICIOS DESTACADOS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Padding: 120px 0 desktop, 80px 0 mobile
+
+Heading: "Nuestros Servicios"
+  DM Sans Medium, 2.5rem, centrado, margin-bottom 64px
+
+Grid: 3 columnas desktop, 2 tablet, 1 mobile, gap 32px
+
+Cards con imágenes de portfolio real:
+
+1. MANICURA & NAIL ART
+   Imagen: Close-up uñas con nail art (usar imágenes reales proporcionadas o de portfolio Booksy)
+   Título: "Manicura & Nail Art"
+   Descripción: "Desde manicura rusa hasta Soft Gel X. Nail art personalizado de sencillo a avanzado."
+   Precio: "Desde 15€" (en terracota)
+
+2. TATUAJES LÍNEA FINA
+   Imagen: Close-up tatuaje delicado línea fina
+   Título: "Tatuajes Línea Fina"
+   Descripción: "Diseños minimalistas. Florales, lettering, símbolos. Tu primer tatuaje en buenas manos."
+   Precio: "Desde 60€"
+
+3. PESTAÑAS & CEJAS
+   Imagen: Lifting de pestañas resultado
+   Título: "Pestañas & Cejas"
+   Descripción: "Lifting coreano con/sin tinte. Laminado de cejas. Resultados naturales que duran semanas."
+   Precio: "Desde 40€"
+
+4. SERVICIOS PARA BODAS
+   Imagen: Novia o detalle de maquillaje nupcial
+   Título: "Servicios para Bodas"
+   Descripción: "Maquillaje y peluquería para novias e invitadas. Tattoo Corner único. Servicio móvil."
+   Precio: "Desde 80€"
+
+5. PEDICURA
+   Imagen: Pedicura rusa resultado
+   Título: "Pedicura"
+   Descripción: "Pedicura rusa y completa en seco. Técnica profesional, pies perfectos."
+   Precio: "Desde 20€"
+
+6. TRATAMIENTOS ESTÉTICOS
+   Imagen: Tatuaje de pecas o joyería dental
+   Título: "Tratamientos Estéticos"
+   Descripción: "Tatuaje de pecas, lunares, cobertura de cicatrices. Joyería dental exclusiva."
+   Precio: "Desde 50€"
+
+Botón final: "VER TODOS LOS SERVICIOS Y PRECIOS" (botón secundario outline negro, centrado)
+
+
+SECCIÓN - PORTFOLIO VISUAL:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #F5F5F5
+Padding: 120px 0 desktop, 80px 0 mobile
+
+Heading: "Nuestro Trabajo"
+  DM Sans Medium, 2.5rem, centrado, margin-bottom 16px
+
+Subtítulo:
+  "Portfolio de manicura, tatuajes línea fina y transformaciones de belleza"
+  Inter Regular, 1.125rem, #666666, centrado, margin-bottom 16px
+
+Filtros (tabs):
+  Todos | Manicura | Tatuajes | Pestañas | Bodas
+  
+  Tab activo: Background #000000, color #F5F5F5
+  Tab inactivo: Background transparent, color #000000, border 1px solid #E8E8E8
+  Hover inactivo: border-color #E8C4BC, color #E8C4BC
+  Padding: 8px 24px, border-radius 0, font Inter Medium 14px uppercase
+  Margin-bottom: 48px
+
+Grid:
+  4 columnas desktop, 3 tablet, 2 mobile
+  Gap: 16px
+  Imágenes: aspect-ratio 1:1, object-fit cover
+  
+  Hover sobre imagen:
+    Overlay rgba(0,0,0,0.2) + icono "+" centrado
+    Transform: scale(1.05)
+    Cursor: pointer → abre lightbox
+
+  Mínimo 16-20 imágenes
+  Usar imágenes reales de portfolio Booksy + las 5 imágenes del espacio proporcionadas
+
+Botón: "VER PORTFOLIO COMPLETO" (botón secundario, link a Instagram o página dedicada)
+
+
+SECCIÓN - DIFERENCIADORES ÚNICOS ("Lo Que Nos Hace Únicas"):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Padding: 120px 0 desktop, 80px 0 mobile
+
+Heading: "Lo Que Nos Hace Únicas"
+  DM Sans Medium, 2.5rem, centrado, margin-bottom 64px
+
+Grid: 2 columnas desktop (con gap 64px), 1 columna mobile
+
+Feature 1 - LA JAULITA (destacar con borde terracota sutil):
+  Título: "La Jaulita: Tatuajes Sorpresa" (DM Sans Medium 1.5rem)
+  Descripción: "Concepto único en Madrid: elige tu diseño de una selección sorpresa curada. Desde 40€. Experiencia divertida y resultado garantizado. ¡El tatuaje perfecto para los indecisos!"
+  Tag: "EXCLUSIVO" en badge terracota
+
+Feature 2 - TATTOO CORNER BODAS:
+  Título: "Tattoo Corner para Bodas"
+  Descripción: "Llevamos tatuajes a tu boda. Mini diseños para tus invitados, el recuerdo más original. Pack de 4 horas por 1.000€. Únicos en Madrid Norte."
+  Tag: "EXCLUSIVO"
+
+Feature 3 - MULTIDISCIPLINAR:
+  Título: "Belleza Integral Bajo Un Mismo Techo"
+  Descripción: "Manicura premium, tatuajes línea fina, maquillaje para bodas, pestañas coreanas. Todo en Hygge Studio. Sin ir a 5 sitios diferentes."
+
+Feature 4 - LÍNEA FINA ESPECIALIZADA:
+  Título: "Expertas en Tatuajes Delicados"
+  Descripción: "Líneas perfectas, diseños minimalistas. Ideal para tu primer tatuaje. Portfolio de más de 200 diseños únicos: florales, lettering, símbolos."
+
+Feature 5 - TÉCNICAS COREANAS:
+  Título: "Técnicas Internacionales de Vanguardia"
+  Descripción: "Lifting de pestañas coreano que dura 6-8 semanas. Soft Gel X de última generación. Formación continua en las mejores técnicas internacionales."
+
+Feature 6 - RATING PERFECTO:
+  Título: "⭐ 5.0/5 · 44 Reseñas Verificadas"
+  Descripción: "Calidad consistente, higiene impecable, trato personalizado. Nuestras clientas lo avalan. Lee sus reseñas en Booksy."
+  Link: "Ver todas las reseñas →"
+
+
+SECCIÓN - TESTIMONIOS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #F0E6DC (beige arena)
+Padding: 120px 0 desktop, 80px 0 mobile
+
+Heading: "Lo Que Dicen Nuestras Clientas"
+  DM Sans Medium, 2.5rem, centrado, margin-bottom 64px
+
+Grid: 2 columnas desktop, 1 columna mobile, gap 32px
+
+Testimonio 1:
+  ★★★★★ | "Las mejores uñas que he tenido nunca! Jara ha plasmado a la perfección lo que yo quería!" | Jara T. | Manicura Completa + Nail Art
+
+Testimonio 2:
+  ★★★★★ | "Ronda es una verdadera profesional, cada vez que voy tanto ella como Jara tienen un trato excepcional. Volveré una y mil veces! Estoy super contenta con el resultado." | Cliente de Pestañas | Lifting de Pestañas Coreano
+
+Testimonio 3:
+  ★★★★★ | "Profesionales de 10, trabajos impolutos y un trato exquisito que solo ellas te podrán dar. Recomendarles al 100%" | Cliente de Tatuaje | Tatuaje Mediano
+
+Testimonio 4:
+  ★★★★★ | "Muy buen trato y trabajo! Recomendado sin duda! 🤍 Increíble siempre. El mejor trato y el mejor resultado!" | Cliente de Manicura | Manicura Nivelación
+
+Link: "Leer las 44 reseñas en Booksy →" (link style, centrado, margin-top 40px)
+
+
+SECCIÓN - CÓMO RESERVAR:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Padding: 120px 0 desktop, 80px 0 mobile
+
+Heading: "Cómo Reservar Tu Cita"
+  DM Sans Medium, 2.5rem, centrado, margin-bottom 64px
+
+3 pasos en fila desktop, stack mobile:
+
+Step 1:
+  Número "1" en círculo outline terracota (#E8C4BC, 56px diámetro, border 2px)
+  Título: "Elige Tu Servicio"
+  Texto: "Explora nuestro menú completo de manicura, tatuajes, pestañas y bodas. ¿Dudas? Contáctanos."
+
+Step 2:
+  Número "2"
+  Título: "Reserva Online o por WhatsApp"
+  Texto: "Sistema Booksy disponible 24/7 o escríbenos directamente. Respuesta garantizada en menos de 24h."
+
+Step 3:
+  Número "3"
+  Título: "Disfruta Tu Experiencia Hygge"
+  Texto: "Ven a nuestro estudio en Tres Cantos. Ambiente acogedor, profesionales expertas, resultado perfecto."
+
+Botón: "RESERVAR AHORA" (botón primario terracota, centrado, margin-top 48px)
+Link: Booksy URL
+
+
+SECCIÓN - UBICACIÓN & CONTACTO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #F5F5F5
+Padding: 120px 0 desktop, 80px 0 mobile
+
+Layout: 50/50 desktop (mapa izquierda + info derecha), stack mobile
+
+Lado izquierdo - Mapa:
+  Google Maps embed responsive
+  Dirección: Sector Foresta, 4, Local 2, 28760, Tres Cantos
+  Height: 500px desktop, 300px mobile
+  Border: none
+
+Lado derecho - Info:
+  Padding: 0 0 0 80px desktop, 0 24px mobile
+
+  H2: "Encuéntranos" (DM Sans Medium, 2rem, margin-bottom 32px)
+
+  Dirección: [pin icon] Sector Foresta, 4, Local 2 | 28760, Tres Cantos, Madrid
+  WhatsApp: [whatsapp icon] +34 XXX XXX XXX (actualizar con número real)
+  Instagram: [instagram icon] @hyggestudio → "Síguenos en Instagram"
+  Booksy: [calendario icon] Reserva 24/7 en Booksy
+  Horario: [reloj icon] Lun-Sab: 10:00-20:00 (verificar y actualizar horario real)
+
+  Botones:
+    - "RESERVAR EN BOOKSY" (botón primario terracota)
+    - "ABRIR EN GOOGLE MAPS" (botón secundario outline)
+
+  Spacing entre items de contacto: 24px
+
+
+SECCIÓN CTA FINAL (Pre-Footer):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #E8C4BC (terracota completo)
+Padding: 80px 0
+Text-align: center
+
+H2: "¿Lista para tu próxima transformación?"
+  DM Sans Medium, 2.5rem, color #000000, margin-bottom 24px
+
+Texto: "Reserva tu cita en Hygge Studio. Tu espacio de belleza en Tres Cantos."
+  Inter Regular, 1.125rem, color rgba(0,0,0,0.8), margin-bottom 40px
+
+Botones (flex row, gap 16px, centrados):
+  - "RESERVAR AHORA" (background #FFFFFF, color #000000)
+  - "CONTACTAR" (border 2px solid #000000, color #000000, hover bg #000000 color #F5F5F5)
+
+
+FORMULARIO DE CONTACTO (puede ser sección o modal):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Padding: 120px 0 (si es sección), centrado max-width 640px
+
+Campos:
+  - Nombre (text, required)
+  - Email (email, required)
+  - Teléfono (tel, optional)
+  - Servicio de interés (select: Manicura | Tatuajes | Pestañas y Cejas | Bodas | Pedicura | Otro)
+  - Fecha preferida (date, optional)
+  - Mensaje (textarea, required, placeholder: "Cuéntanos qué necesitas...")
+
+Submit: "ENVIAR CONSULTA" (botón primario terracota, full-width)
+
+Post-submit: Mensaje "¡Gracias! Nos pondremos en contacto contigo pronto." en fondo terracota suave
+
+
+FOOTER:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #1A1A1A (negro suave)
+Color texto base: #F5F5F5
+Padding: 64px 0 32px desktop, 48px 0 24px mobile
+
+Grid: 4 columnas desktop, 2 tablet, 1 mobile, gap 48px
+
+Columna 1 - Identidad:
+  Logo "HYGGE STUDIO" (blanco, DM Sans Medium, 1.25rem, letter-spacing 0.1em)
+  Tagline: "Tu refugio de belleza en Tres Cantos" (Inter Regular, 0.875rem, rgba(245,245,245,0.7))
+  Social icons: Instagram (24px, outline blanco, hover terracota)
+
+Columna 2 - Servicios:
+  Título: "SERVICIOS" (DM Sans Medium, 0.875rem, uppercase, letter-spacing 0.1em, color #E8C4BC)
+  Links: Manicura | Tatuajes Línea Fina | Pestañas & Cejas | Bodas | Pedicura | Tratamientos
+  Estilo: Inter Regular, 0.875rem, rgba(245,245,245,0.8), line-height 2, hover #E8C4BC
+
+Columna 3 - Navegación:
+  Título: "NAVEGACIÓN" (mismo estilo)
+  Links: Portfolio | Sobre Nosotras | Contacto | Reservar
+  + "La Jaulita" (destacado en terracota)
+
+Columna 4 - Contacto:
+  Título: "CONTACTO"
+  Dirección: "Sector Foresta, 4, Local 2 / 28760, Tres Cantos"
+  WhatsApp/Email
+  Botón: "RESERVAR" (pequeño, border terracota, color terracota)
+
+Divisoria: border-top 1px solid rgba(245,245,245,0.1), margin 48px 0 24px
+
+Footer Bottom:
+  Flex space-between (stack mobile)
+  Copyright: "© 2026 Hygge Studio. Todos los derechos reservados." (Inter Regular, 0.75rem, rgba(245,245,245,0.5))
+  Links legales: Aviso Legal | Privacidad (mismo estilo)
+
+
+RESPONSIVE:
+─────────────────────────────────────────────────────────────────────
+Breakpoints:
+  Mobile: < 768px
+  Tablet: 768px - 1024px
+  Desktop: > 1024px
+
+Mobile cambios principales:
+• Header: Hamburger menu visible, logo reducido, botón CTA más pequeño
+• Hero: Height 80vh, font-sizes reducidos según especificado, botones stack vertical
+• Servicios: Grid 1 columna full-width
+• Portfolio: 2 columnas con gap 12px
+• Testimonios: 1 columna
+• Diferenciadores: 1 columna
+• Footer: 1 columna, order: Logo → Servicios → Navegación → Contacto
+• Padding vertical secciones: 120px → 80px → 48px
+• Padding horizontal: 80px → 24px
+• Todos los textos H1-H3: Reducción según especificado en tipografía
+• Botones: Full-width en mobile (min-height 48px para tap target)
+
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 5: SEO
+═══════════════════════════════════════════════════════════════════════
+
+Title: "Hygge Studio Tres Cantos | Manicura & Tatuajes Línea Fina"
+
+Meta description: "Estudio de belleza hygge en Tres Cantos. Manicura rusa premium, tatuajes línea fina delicados, lifting pestañas coreano y servicios para bodas. ⭐5.0/5 · Reserva online."
+
+Keywords focus:
+- hygge studio tres cantos
+- manicura tres cantos madrid
+- tatuajes línea fina tres cantos
+- tatuajes minimalistas madrid norte
+- soft gel x madrid norte
+- lifting pestañas coreano tres cantos
+- manicura rusa alcobendas madrid
+- maquilladora bodas tres cantos
+- tattoo corner bodas madrid
+- nail art tres cantos
+- pedicura rusa madrid norte
+- estudio belleza integral tres cantos
+
+Schema.org:
+{
+  "@context": "https://schema.org",
+  "@type": "BeautySalon",
+  "name": "Hygge Studio",
+  "url": "[URL del sitio]",
+  "telephone": "+34XXXXXXXXX",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sector Foresta, 4, Local 2",
+    "addressLocality": "Tres Cantos",
+    "postalCode": "28760",
+    "addressCountry": "ES"
+  },
+  "priceRange": "€€",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "44"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+      "opens": "10:00",
+      "closes": "20:00"
+    }
+  ]
+}
+
+H1 principal (Hero): "Manicura · Tatuajes Línea Fina · Belleza Integral"
+
+Open Graph:
+og:title: "Hygge Studio Tres Cantos | Manicura & Tatuajes Línea Fina"
+og:description: "Estudio de belleza hygge. Manicura rusa, tatuajes línea fina, lifting pestañas coreano. 5.0/5 en Booksy."
+og:image: "[URL imagen hero o portfolio destacada 1200x630px]"
+og:type: "website"
+og:locale: "es_ES"
+
+Twitter Card:
+twitter:card: "summary_large_image"
+twitter:title: "Hygge Studio Tres Cantos | Manicura & Tatuajes Línea Fina"
+
+Alt texts:
+- Hero: "Interior acogedor estudio hygge belleza Tres Cantos Madrid"
+- Portfolio manicura: "Manicura rusa nail art minimalista Hygge Studio"
+- Portfolio tatuajes: "Tatuaje línea fina floral delicado muñeca"
+- Cada imagen de servicio: "[Nombre servicio] profesional Hygge Studio Tres Cantos"
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 6: ACCESIBILIDAD & PERFORMANCE
+═══════════════════════════════════════════════════════════════════════
+
+ACCESIBILIDAD:
+─────────────────────────────────────────────────────────────────────
+• Contraste WCAG AA mínimo:
+  Negro (#000000) sobre blanco (#F5F5F5): ratio 19.58:1 (AAAAAA)
+  Negro (#000000) sobre terracota (#E8C4BC): ratio 4.2:1 (AA para texto grande)
+  Todos los textos cumplen mínimo AA
+
+• Alt text descriptivo en TODAS las imágenes
+  Portfolio: descripciones específicas del trabajo
+  Decorativas: alt="" vacío
+
+• Focus states visibles:
+  Botones: outline 2px solid #E8C4BC, offset 2px
+  Links: underline en focus
+  Inputs: border #E8C4BC con box-shadow
+
+• Navegación por teclado:
+  Tab order lógico (header → hero → secciones → footer)
+  Skip to content link
+  Modal cerrable con ESC
+  Menú móvil navegable con teclado
+
+• ARIA labels en iconos:
+  <button aria-label="Abrir menú de navegación">
+  <a aria-label="Síguenos en Instagram">
+  <button aria-label="Cerrar galería">
+
+• Font sizes en rem (nunca px fijo para textos)
+
+• Semántica HTML correcta:
+  <header>, <nav>, <main>, <section>, <article>, <footer>
+  Headings jerárquicos sin saltos (H1 → H2 → H3)
+  <button> para acciones, <a> para navegación
+  <form> con <label> asociados por for + id
+
+• Solo un H1 por página
+
+
+PERFORMANCE:
+─────────────────────────────────────────────────────────────────────
+• Imágenes:
+  Formato: WebP con fallback JPG
+  Compresión: 80-85% quality
+  Lazy loading en todas excepto hero (loading="lazy")
+  Hero: loading="eager"
+  srcset para diferentes resoluciones
+
+• CSS:
+  Critical CSS inline en <head> (hero + header)
+  CSS no crítico cargado async
+  Minificación
+  CSS modular organizado (ver Sección 10)
+
+• JavaScript:
+  Scripts no críticos con defer
+  Minificación
+  Lazy load de lightbox/modals
+  Intersection Observer para animaciones (no scroll listeners)
+
+• Fonts:
+  Google Fonts con display=swap
+  Preload fonts críticas en <head>
+  Solo weights necesarios: 400, 500
+
+• Target PageSpeed:
+  Mobile: >85/100
+  Desktop: >90/100
+  LCP < 2.5s, CLS < 0.1
+
+• HTTPS obligatorio
+• Gzip/Brotli compression
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 7: CONTENIDO EXISTENTE
+═══════════════════════════════════════════════════════════════════════
+
+IMÁGENES DEL ESPACIO PROPORCIONADAS (5 imágenes, archivos incluidos en proyecto):
+─────────────────────────────────────────────────────────────────────
+
+Imagen 1 (cabina oscura con camilla y lámpara):
+  Descripción: Cabina de tratamiento con ambiente oscuro acogedor, camilla blanca, lámpara profesional
+  Alt: "Cabina de tratamiento con iluminación acogedora Hygge Studio Tres Cantos"
+  Uso recomendado: Sección "Sobre Nosotras" o galería de espacio
+
+Imagen 2 (silla borreguito beige + lavabo):
+  Descripción: Silla de tratamiento manicura borreguito crema, estética hygge nórdica, lavabo blanco
+  Alt: "Estación de pedicura silla diseño nórdico Hygge Studio"
+  Uso recomendado: HERO o sección servicios de manicura/pedicura - imagen icónica del estudio
+
+Imagen 3 (espejo con "hygge tribute" + cuadros "Hygge News"):
+  Descripción: Espejo con texto hygge tribute reflejado, cuadros decorativos Hygge News en pared
+  Alt: "Decoración nórdica minimalista con identidad de marca Hygge Studio"
+  Uso recomendado: Sección "Sobre Nosotras" - detalle de identidad y carácter del estudio
+
+Imagen 4 (mesa trabajo manicura con herramientas):
+  Descripción: Mesa de trabajo manicura profesional con herramientas, lámparas, sillas borreguito
+  Alt: "Estación de trabajo profesional manicura Hygge Studio Tres Cantos"
+  Uso recomendado: Sección servicios manicura o galería de proceso/espacio
+
+Imagen 5 (lámpara retro + cuadros "CHAOS", "BLA BLA BLA", "do it for you"):
+  Descripción: Rincón decorativo con lámpara retro, cuadros con tipografía moderna, espejo circular
+  Alt: "Detalles decoración contemporánea con carácter Hygge Studio"
+  Uso recomendado: Sección "Sobre Nosotras" o galería de ambiente - muestra personalidad del estudio
+
+
+PORTFOLIO DE TRABAJO (disponible en Booksy, incorporar en diseño):
+─────────────────────────────────────────────────────────────────────
+Las URLs de imágenes del portfolio en Booksy se pueden usar directamente si se descargan:
+https://d375139ucebi94.cloudfront.net/region2/es/127123/service_photos/
+
+MANICURA & NAIL ART: Múltiples imágenes disponibles mostrando:
+- Manicura completa con gel
+- Nail art en diferentes niveles de complejidad
+- Soft Gel X
+- Manicura de nivelación
+
+TATUAJES LÍNEA FINA: Portfolio extenso mostrando:
+- Línea fina (flores, símbolos, lettering)
+- Mini tatuajes
+- Tatuajes medianos y grandes
+- Proyectos completos
+
+PESTAÑAS: Lifting coreano resultados
+
+BODAS: Maquillaje + peinado de novias e invitadas, Tattoo Corner
+
+TRATAMIENTOS: Tatuaje de pecas, lunares
+
+Se deben incorporar AL MENOS 16-20 imágenes en el portfolio de la web.
+
+
+TEXTOS/COPY:
+─────────────────────────────────────────────────────────────────────
+
+SOBRE NOSOTRAS (usar como base, adaptar):
+"En Hygge Studio creamos espacios donde la belleza y el bienestar se encuentran. Inspiradas en el concepto nórdico 'hygge' —que evoca calidez, comodidad y bienestar—, hemos creado un espacio en Tres Cantos donde cada servicio se realiza con dedicación artesanal y atención personalizada.
+
+Somos un equipo de profesionales especializadas en manicura premium, tatuajes de línea fina y servicios integrales para bodas. Cada una de nosotras se ha formado en las técnicas más avanzadas: desde la manicura rusa y el sistema Soft Gel X, hasta el lifting de pestañas coreano y el arte del tatuaje minimalista.
+
+Lo que nos diferencia es nuestra versatilidad. En Hygge Studio no solo perfeccionamos tus uñas o creamos tu tatuaje soñado; ofrecemos una experiencia completa de belleza bajo un mismo techo.
+
+Con un rating perfecto de 5.0/5 estrellas en Booksy basado en 44 reseñas reales, nuestras clientas nos avalan. Te esperamos en Sector Foresta, 4, para que descubras por qué Hygge Studio se ha convertido en el refugio de belleza favorito de Madrid Norte."
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 8: FUNCIONALIDADES ESPECIALES
+═══════════════════════════════════════════════════════════════════════
+
+INTEGRACIÓN BOOKSY:
+─────────────────────────────────────────────────────────────────────
+• Todos los CTAs "RESERVAR AHORA" enlazan a:
+  https://booksy.com/es-es/127123_hygge-studio_salon-de-unas_53150_soto-de-vinuelas
+• Target: _blank, rel: noopener noreferrer
+
+
+WHATSAPP FLOTANTE:
+─────────────────────────────────────────────────────────────────────
+• Botón sticky bottom-right:
+  Position: fixed, bottom 24px, right 24px, z-index 999
+  Size: 60px × 60px (círculo)
+  Background: #25D366 (verde WhatsApp)
+  Icon: SVG WhatsApp blanco, 32px
+  Box-shadow: 0 4px 12px rgba(0,0,0,0.15)
+  Hover: scale(1.1)
+
+• Link: https://wa.me/34XXXXXXXXX?text=Hola%20Hygge%20Studio%2C%20quiero%20informaci%C3%B3n%20sobre...
+  (Reemplazar XXXXXXXXX con número real)
+
+• En mobile puede añadir tooltip: "¡Escríbenos!" que aparece al primer load
+
+
+LIGHTBOX PARA PORTFOLIO:
+─────────────────────────────────────────────────────────────────────
+• Click en imagen → Modal full-screen
+• Overlay: rgba(0,0,0,0.9)
+• Imagen: max-width 90vw, max-height 90vh, centrada
+• Navegación: flechas prev/next (SVG outline, 48px, blanco)
+• Teclado: ESC cierra, flechas navegan
+• Swipe mobile: touch events izquierda/derecha
+• Botón cerrar X: top-right, 40px, blanco
+• Animación: fade + scale 0.4s ease-out
+• No pre-cargar todas las imágenes
+
+
+FILTRADO PORTFOLIO:
+─────────────────────────────────────────────────────────────────────
+• Tabs: Todos | Manicura | Tatuajes | Pestañas | Bodas
+• Data attributes: data-category="manicura" en cada imagen
+• Click → Filter con animación fade (0.3s)
+• JavaScript puro, sin librerías externas
+
+
+FORMULARIO CONTACTO:
+─────────────────────────────────────────────────────────────────────
+• Campos: Nombre, Email, Teléfono, Servicio, Fecha, Mensaje
+• Validación client-side (HTML5 + JS)
+• Submit: FormSubmit.co, Netlify Forms o similar (sin backend)
+• Mensaje de éxito post-submit
+• Protección anti-spam: honeypot field oculto
+
+
+MAPA GOOGLE:
+─────────────────────────────────────────────────────────────────────
+• Google Maps embed responsive (iframe)
+• Dirección: Sector Foresta, 4, Local 2, 28760, Tres Cantos
+• Link "¿Cómo llegar?" → Google Maps app en mobile
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 9: VALIDACIÓN AUTOMÁTICA (PLAYWRIGHT)
+═══════════════════════════════════════════════════════════════════════
+
+Una vez completado el desarrollo, ejecutar estos tests con Playwright:
+
+TEST 1 - Botón Reservar enlaza a Booksy:
+  - Navegar a localhost:PORT
+  - Verificar que botón "RESERVAR AHORA" del hero está visible
+  - Click en botón
+  - Verificar que nueva pestaña tiene URL que contiene "booksy.com"
+
+TEST 2 - Navegación header funciona:
+  - Click en "Portfolio" en header
+  - Verificar que hace scroll a sección con id="portfolio"
+  - Click en "Contacto"
+  - Verificar que hace scroll a sección con id="contacto"
+
+TEST 3 - Menú mobile funciona:
+  - Viewport 375px × 812px
+  - Verificar que menú desktop está oculto (display none)
+  - Click en botón hamburger
+  - Verificar que menú overlay aparece (visible)
+  - Click en primer item de menú
+  - Verificar que overlay desaparece
+
+TEST 4 - Filtrado portfolio:
+  - Click en tab "Manicura"
+  - Verificar que imágenes con data-category="manicura" son visibles
+  - Verificar que imágenes con data-category="tatuajes" están ocultas
+  - Click en tab "Todos"
+  - Verificar que todas las imágenes son visibles
+
+TEST 5 - Lightbox portfolio:
+  - Click en primera imagen del grid
+  - Verificar que overlay modal aparece
+  - Presionar tecla ESC
+  - Verificar que modal se cierra
+
+TEST 6 - Validación formulario:
+  - Click en submit sin rellenar campos
+  - Verificar que aparece validación HTML5 en campo Nombre
+  - Rellenar solo nombre con email inválido
+  - Verificar error de formato email
+  - Rellenar todos los campos required correctamente
+  - Verificar que submit procede sin errores de validación
+
+TEST 7 - Responsive - no scroll horizontal:
+  - Viewport 375px
+  - Verificar document.body.scrollWidth === window.innerWidth (sin overflow)
+
+TEST 8 - WhatsApp flotante visible:
+  - Viewport 375px × 812px
+  - Verificar que botón WhatsApp tiene position fixed
+  - Verificar que está visible en pantalla (bottom-right)
+  - Verificar que href contiene "wa.me"
+
+TEST 9 - Imágenes con alt text:
+  - Obtener todas las imágenes de la página
+  - Verificar que ninguna tiene alt vacío (excepto las decorativas con alt="")
+  - Verificar que alt texts descriptivos tienen más de 5 caracteres
+
+TEST 10 - Heading jerarquía:
+  - Verificar que existe exactamente un H1 en la página
+  - Verificar que no hay H3 sin H2 previo en la misma sección
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 10: ENTREGABLES ESPERADOS
+═══════════════════════════════════════════════════════════════════════
+
+1. index.html - HTML semántico completo:
+   - DOCTYPE HTML5, meta tags completos
+   - Open Graph y Twitter Cards
+   - Schema.org JSON-LD en <head>
+   - Estructura semántica: header, main, sections, footer
+   - Un solo H1
+   - Alt texts en todas las imágenes
+   - ARIA labels donde corresponda
+   - Skip to content link
+
+2. CSS modular organizado:
+   - /css/variables.css (Custom Properties: colores, tamaños, tipografía)
+   - /css/reset.css (Normalización cross-browser, box-sizing)
+   - /css/base.css (body, tipografía global, links)
+   - /css/components.css (Botones, cards, badges, formularios, nav, tabs)
+   - /css/layout.css (Grid, secciones, header, footer, portfolio)
+   - /css/animations.css (Keyframes, transiciones, efectos scroll)
+   - /css/responsive.css (Media queries mobile y tablet)
+
+3. JavaScript modular:
+   - /js/navigation.js (Hamburger menu, smooth scroll, sticky header)
+   - /js/portfolio-filter.js (Filtrado por categorías + animaciones)
+   - /js/lightbox.js (Modal: nav prev/next, teclado, touch swipe)
+   - /js/scroll-animations.js (Intersection Observer para fade-in)
+   - /js/whatsapp.js (Botón flotante + tooltip)
+   - /js/form-validation.js (Validación client-side + feedback visual)
+
+4. Assets:
+   - /images/espacio/ (5 imágenes del estudio proporcionadas, optimizadas WebP)
+   - /images/portfolio/ (imágenes de trabajo organizadas por categoría)
+   - /images/hero.webp (imagen principal del hero)
+   - favicon.svg (letra "H" o símbolo en terracota #E8C4BC)
+   - og-image.jpg (1200×630px para redes sociales)
+
+5. Responsive mobile-first:
+   - Estilos base para mobile
+   - Media query @media (min-width: 768px) para tablet
+   - Media query @media (min-width: 1024px) para desktop
+
+6. README.md completo con:
+   - Estructura del proyecto explicada
+   - Instrucciones de despliegue
+   - Cómo actualizar portfolio (añadir imagen + data-category)
+   - Cómo actualizar precios y servicios
+   - Cómo cambiar número WhatsApp
+   - Cómo actualizar enlace Booksy
+   - Cómo cambiar horarios
+   - Variables CSS principales para personalización rápida
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 11: NOTAS FINALES
+═══════════════════════════════════════════════════════════════════════
+
+Este diseño debe equilibrar:
+✓ Elegancia minimalista nórdica hygge (60%) - Base del concepto, whitespace generoso, paleta neutra
+✓ Calidez y accesibilidad emocional (25%) - No intimidante, bienvenida, terracota que calienta el frío nórdico
+✓ Portfolio-first visual impact (15%) - El trabajo real es el argumento de venta más poderoso
+
+NO debe parecer:
+✗ Un salón de uñas low-cost con fondos rojos y decoración recargada asiática
+✗ Un estudio de tatuajes oscuro, underground e intimidante
+✗ Un spa tradicional con flores de loto, violetas y exceso de elementos decorativos femeninos
+✗ Una web genérica de beauty con imágenes de stock artificiales y sonrisas forzadas
+✗ Un consultorio médico aséptico y frío (exactamente lo opuesto al hygge)
+
+DEBE parecer:
+✓ Un estudio boutique de belleza en Copenhague, Estocolmo o Seúl - minimalista, cálido, aspiracional
+✓ Una galería de arte pequeña donde cada trabajo se presenta con orgullo y espacio
+✓ El tipo de negocio donde pagarías un poco más porque sabes que la experiencia y el resultado merecen la pena
+✓ Exactamente lo que transmiten las 5 imágenes del estudio proporcionadas: acogedor, detallado, auténtico, moderno
+
+El concepto HYGGE no es solo el nombre del negocio, es el alma del diseño. Hygge (pronunciado "hoo-gah") es un concepto danés-noruego que evoca el placer de los momentos cotidianos, la comodidad en el espacio compartido, la calidez sin ostentación. Cada decisión de diseño debe reforzar este concepto: espacios amplios para respirar, colores cálidos que no saturan, tipografía legible sin esfuerzo, fotografía honesta y cercana.
+
+El portfolio ES el argumento de venta más potente de Hygge Studio. Manicuras perfectas, tatuajes delicados, resultados reales. La web debe presentarlos de forma que hablen por sí solos, con espacio suficiente para apreciarse, sin decoraciones que compitan con el trabajo.
+
+"LA JAULITA" y el "TATTOO CORNER PARA BODAS" son dos conceptos únicos que merecen visibilidad especial. Son elementos virales que generan conversación en redes sociales y diferencian radicalmente a Hygge Studio de cualquier competidor en Madrid Norte.
+
+El rating perfecto de 5.0/5 con 44 reseñas verificadas es un activo de marketing excepcional. Debe estar presente en el hero, en la sección de testimonios y en el footer. No de forma ostentosa, sino como prueba social natural y honesta.
+
+NOTA TÉCNICA IMPORTANTE:
+- Reemplazar "+34 XXX XXX XXX" con el número real de WhatsApp del negocio
+- Verificar y actualizar los horarios de apertura reales
+- Las imágenes del portfolio deben descargarse/alojarse localmente (no depender de Booksy CDN)
+- Verificar handle real de Instagram (@hyggestudio o cual sea)
+- El enlace a Booksy ya está verificado: https://booksy.com/es-es/127123_hygge-studio_salon-de-unas_53150_soto-de-vinuelas
+
+═══════════════════════════════════════════════════════════════════════
+FIN DEL PROMPT
+═══════════════════════════════════════════════════════════════════════

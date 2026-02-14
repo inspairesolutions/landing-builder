@@ -1,0 +1,217 @@
+/* ═══════════════════════════════════════════════════════
+   HYGGE STUDIO - Responsive (Mobile-First)
+   Mobile base → Tablet (768px) → Desktop (1024px)
+   ═══════════════════════════════════════════════════════ */
+
+/* ══════════════════════════════════════
+   TABLET (768px+)
+   ══════════════════════════════════════ */
+
+@media (min-width: 768px) {
+
+  /* ── Typography ── */
+  h1,
+  .hero__title {
+    font-size: 2.75rem;
+  }
+
+  h2,
+  .section-heading,
+  .cta-section__title {
+    font-size: 2.25rem;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+  /* ── Sections ── */
+  .section {
+    padding: var(--space-10) 0;
+  }
+
+  /* ── Hero ── */
+  .hero {
+    height: 90vh;
+  }
+
+  .hero__ctas {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .hero__subtitle {
+    font-size: 1.125rem;
+  }
+
+  /* ── Services Grid ── */
+  .services-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* ── Portfolio Grid ── */
+  .portfolio-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  /* ── Features Grid ── */
+  .features-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-5);
+  }
+
+  /* ── Testimonials Grid ── */
+  .testimonials-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* ── Steps Grid ── */
+  .steps-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-4);
+  }
+
+  /* ── Location ── */
+  .location-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-8);
+    align-items: start;
+  }
+
+  .location__map {
+    height: 500px;
+  }
+
+  .location__buttons {
+    flex-direction: row;
+  }
+
+  /* ── CTA Section ── */
+  .cta-section__buttons {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  /* ── Footer ── */
+  .footer-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .footer__bottom {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  /* ── Forms ── */
+  .form-row {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+
+/* ══════════════════════════════════════
+   DESKTOP (1024px+)
+   ══════════════════════════════════════ */
+
+@media (min-width: 1024px) {
+
+  /* ── Container ── */
+  .container {
+    padding: 0 var(--padding-x);
+  }
+
+  /* ── Typography ── */
+  body {
+    font-size: var(--text-body);
+  }
+
+  h1,
+  .hero__title {
+    font-size: var(--text-h1);
+  }
+
+  h2,
+  .section-heading,
+  .cta-section__title {
+    font-size: var(--text-h2);
+  }
+
+  h3 {
+    font-size: var(--text-h3);
+  }
+
+  /* ── Sections ── */
+  .section {
+    padding: var(--section-padding) 0;
+  }
+
+  /* ── Header ── */
+  .header {
+    height: var(--header-height);
+  }
+
+  .header__inner {
+    padding: 0 var(--padding-x);
+  }
+
+  .header__nav {
+    display: flex;
+  }
+
+  .header__cta {
+    display: block;
+  }
+
+  .hamburger {
+    display: none;
+  }
+
+  /* ── Hero ── */
+  .hero {
+    height: 100vh;
+  }
+
+  .hero__title {
+    font-size: var(--text-h1);
+  }
+
+  .hero__subtitle {
+    font-size: 1.25rem;
+  }
+
+  /* ── Services Grid ── */
+  .services-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  /* ── Portfolio Grid ── */
+  .portfolio-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  /* ── Features Grid ── */
+  .features-grid {
+    gap: var(--space-8);
+  }
+
+  /* ── Location ── */
+  .location__info {
+    padding: 0 0 0 var(--space-10);
+  }
+
+  /* ── Footer ── */
+  .footer-grid {
+    grid-template-columns: 1.5fr 1fr 1fr 1fr;
+  }
+}
+
+
+/* ══════════════════════════════════════
+   LARGE DESKTOP (1280px+)
+   ══════════════════════════════════════ */
+
+@media (min-width: 1280px) {
+  .hero__content {
+    max-width: 900px;
+  }
+}
