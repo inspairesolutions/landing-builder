@@ -1,0 +1,1453 @@
+═══════════════════════════════════════════════════════════════════════
+PROMPT PARA CLAUDE CODE: REDISEÑO WEB NOVANORTE
+═══════════════════════════════════════════════════════════════════════
+
+Lee el skill frontend-design antes de empezar.
+
+Este es un proyecto de RENOVACIÓN web. La web actual existe en https://www.novanorte.com/
+El objetivo es mantener los colores corporativos actuales (azul marino / dorado), mejorar
+la estructura visual y la experiencia de usuario, modernizar el diseño manteniendo todo
+el contenido existente. NO es una web nueva desde cero: es la misma web, renovada.
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 1: CONTEXTO DEL PROYECTO
+═══════════════════════════════════════════════════════════════════════
+
+Cliente: Clínica Estética NovaNorte
+Tipo: Clínica estética y depilación láser
+Ubicación: Sector Literatos 22, Tres Cantos, 28760 Madrid
+Teléfono principal: (+34) 918 062 403 / 692 966 377 (WhatsApp)
+Email: info@novanorte.com
+Web actual: https://www.novanorte.com/
+Horario: Lunes a Viernes 10:30h - 20:30h · Sábados cerrado
+
+─────────────────────────────────────────────────────────────────────
+Servicios principales:
+─────────────────────────────────────────────────────────────────────
+
+PLATAFORMA LÁSER:
+• Depilación Láser Diodo Palomar Vectus (servicio estrella, el más avanzado del mercado)
+• I2PL+ Ellipse
+• Láser CO2 Fraccionado Piexel2
+
+TRATAMIENTOS MÉDICO-ESTÉTICOS CORPORALES:
+• VelaShape III (reducción de celulitis y contorno corporal)
+• EMSCULPT de BTL (definición muscular y reducción de grasa)
+• Electrofitnness
+• Tratamientos reductores y reafirmantes con seguimiento nutricional
+• Carboxiterapia corporal
+• Indiba (regenerador celular)
+
+TRATAMIENTOS MÉDICO-ESTÉTICOS FACIALES:
+• Toxina Botulínica (Botox completo)
+• Ácido Hialurónico
+• Ellanse M
+• Radiesse
+• Mesoterapia
+• Escleroterapia
+• Peeling químico
+• Lifting con hilos tensores (sin cirugía)
+• Consulta de cirugía estética
+• Eliminación de manchas faciales
+• Láser CO2 fraccionado facial
+
+MICRO IMPLANTE CAPILAR:
+• Tratamiento especializado capilar
+
+MICROPIGMENTACIÓN:
+• Micropigmentación facial y corporal
+
+ESTÉTICA CONVENCIONAL:
+• Tratamientos corporales estéticos (sesiones 60-90 min)
+• Tratamientos faciales estéticos
+• Depilación convencional
+• Dieta personalizada incluida en tratamientos corporales
+
+ALTA COSMÉTICA:
+• Productos Biologique Recherche (distribuidor oficial)
+• Venta de cosmética de alta gama
+
+─────────────────────────────────────────────────────────────────────
+Diferenciadores clave:
+─────────────────────────────────────────────────────────────────────
+
+✅ Décadas de experiencia en el sector estético en Tres Cantos
+✅ Palomar Vectus: el láser de diodo más eficaz, rápido, seguro e indoloro del mercado
+✅ Distribuidores oficiales de Biologique Recherche (cosmética de prestigio internacional)
+✅ Dieta personalizada totalmente gratuita incluida en tratamientos corporales
+✅ Política de precio: si encuentras algo más barato, lo igualan
+✅ Trato personalizado, cercano y explicativo (mencionado en testimonios)
+✅ Equipos de aparatología de alta gama (VelaShape III, EMSCULPT BTL)
+✅ Oferta integral: médico-estético + estética + láser + cosmética + nutrición
+✅ Ubicación en Tres Cantos (única clínica de este nivel en el municipio)
+
+─────────────────────────────────────────────────────────────────────
+Público objetivo:
+─────────────────────────────────────────────────────────────────────
+
+PRIMARY (65%): Mujeres de 28-55 años
+• Residentes en Tres Cantos y municipios limítrofes (Colmenar Viejo, Alcobendas, Soto del Real)
+• Nivel adquisitivo medio-alto (Tres Cantos tiene renta per cápita superior a media española)
+• Interesadas en depilación láser definitiva, tratamientos antiedad, reducción corporal
+• Buscan resultados reales con tecnología puntera y trato de confianza
+• Preocupadas por la calidad, no solo por el precio
+• Comportamiento: investigan online, leen reseñas, buscan en Google Maps
+
+SECONDARY (25%): Mujeres de 55-70 años
+• Enfocadas en tratamientos de rejuvenecimiento facial
+• Botox, ácido hialurónico, lifting con hilos, tratamientos de manchas
+• Buscan resultados naturales y profesionales médicos cualificados
+• Alta fidelidad: si están satisfechas, repiten y recomiendan
+
+TERTIARY (10%): Hombres de 30-60 años
+• Interesados en EMSCULPT, depilación láser, micro implante capilar
+• Segmento creciente que la clínica puede potenciar
+
+─────────────────────────────────────────────────────────────────────
+Competencia:
+─────────────────────────────────────────────────────────────────────
+
+• Otras clínicas estéticas en Tres Cantos (menor tecnología)
+• Franquicias de depilación láser en Madrid norte (Laseralia, Depiltech) - mayor precio, menos personalización
+• Clínicas en Alcobendas y San Sebastián de los Reyes (mayor desplazamiento para el cliente)
+• Ventaja competitiva clara: NovaNorte es la opción local premium con décadas de historia
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 2: OBJETIVOS
+═══════════════════════════════════════════════════════════════════════
+
+1. OBJETIVO PRIMARIO: Generar consultas y reservas de citas directamente desde la web
+   (llamada telefónica, WhatsApp o formulario de contacto)
+
+2. OBJETIVO SECUNDARIO: Posicionamiento SEO local en Tres Cantos para "depilación láser",
+   "clínica estética" y tratamientos específicos como "botox tres cantos" o "velashape madrid"
+
+3. OBJETIVO TERCIARIO: Transmitir confianza y profesionalidad para convertir visitas
+   indecisos en clientes que llamen o visiten la clínica
+
+4. OBJETIVO DE MARCA: Renovar imagen sin perder la identidad de clínica consolidada
+   con décadas de experiencia; no parecer nueva ni desconocida
+
+5. SEO LOCAL: Aparecer en las primeras posiciones para:
+   - "clínica estética tres cantos"
+   - "depilación láser tres cantos"
+   - "botox tres cantos madrid"
+   - "velashape tres cantos"
+   - "micropigmentación tres cantos"
+
+6. Convertir visitas en llamadas/WhatsApp: CTA visible y permanente en toda la web
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 3: DIRECTRICES DE DISEÑO
+═══════════════════════════════════════════════════════════════════════
+
+ESTÉTICA GENERAL:
+─────────────────────────────────────────────────────────────────────
+
+Concepto: "Clinical Elegance" - Clínica médica de confianza con elegancia discreta
+
+La web actual usa azul marino oscuro + dorado. Este binomio se MANTIENE pero se refina:
+más espacio en blanco, tipografía más moderna, fotografías más limpias, componentes
+UI más actualizados. El resultado debe parecer una clínica premium de Tres Cantos, no
+una web de los años 2010.
+
+Inspiración visual:
+• Clínicas Imema (clinicaimema.com) - Por su equilibrio médico-elegante
+• Dr. Gerard Cosmetic Surgery - Por uso del blanco y espacio limpio
+• Clínica Menorca (clinicamenorca.es) - Por estructura clara de servicios
+• MedSpa Neinstein - Por cómo muestran tecnología y resultados
+
+Adjetivos clave:
+✓ Confiable (décadas de experiencia, no una startup)
+✓ Elegante (sin ser frío o aséptico)
+✓ Profesional (personal médico cualificado)
+✓ Accesible (trato cercano, no intimidante)
+✓ Moderno (tecnología punta, no anticuado)
+✓ Local (orgullo de ser de Tres Cantos)
+✓ Efectivo (resultados reales, testimonios)
+
+Evitar absolutamente:
+✗ Aspecto de spa barato o centro de belleza de barrio
+✗ Rosa chicle, morado lavanda, colores "girly" excesivos
+✗ Fotografías de stock genéricas (modelos perfectas en blanco)
+✗ Diseño recargado con muchos elementos decorativos sin función
+✗ Tipografías de fantasía o scripts difíciles de leer
+✗ Animaciones excesivas o lentas que distraigan
+✗ Fondo negro total (demasiado oscuro, no apropiado para clínica)
+
+
+─────────────────────────────────────────────────────────────────────
+PALETA DE COLORES: (MANTENER IDENTIDAD ACTUAL - REFINAR)
+─────────────────────────────────────────────────────────────────────
+
+COLOR PRIMARIO - Azul Medianoche NovaNorte
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#1A2B4A - Azul marino oscuro (color principal corporativo, fondo header/footer)
+#243560 - Azul marino intenso (variante más saturada para hover/activos)
+#0F1E35 - Azul casi negro (fondos muy oscuros, sombras profundas)
+
+Razón: Es el azul marino profundo que actualmente usa NovaNorte. Transmite
+       seriedad médica, confianza y elegancia. Se mantiene porque es su identidad.
+
+
+COLOR SECUNDARIO - Blanco Clínico
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#FFFFFF - Blanco puro (fondos secciones, texto sobre azul marino)
+#F8F9FC - Blanco grisáceo (fondos alternos de secciones, tarjetas)
+#E8EDF5 - Gris azulado claro (bordes suaves, divisores, backgrounds secondarios)
+
+Razón: El blanco es imprescindible para que la web respire. La versión actual
+       está muy saturada. Añadir más blanco moderniza sin cambiar la identidad.
+
+
+COLOR ACENTO - Dorado Champagne
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#C9A85C - Dorado cálido (CTAs primarios, highlights, elementos de lujo)
+#B8944A - Dorado oscuro (hover sobre botones dorados)
+#E8C97A - Dorado claro (detalles decorativos, iconos secundarios, bordes de tarjetas premium)
+
+Razón: El dorado es el segundo color corporativo de NovaNorte. Aporta elegancia,
+       calidad premium y diferenciación. Se usa con mesura para máximo impacto.
+Uso: Botones CTA principales, líneas decorativas, números de estadísticas,
+     badges de "oferta", iconos de servicios estrella, hover states.
+
+
+COLOR TEXTO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#1A2B4A - Texto principal (mismo que primario, para coherencia)
+#4A5568 - Texto secundario/subtítulos (gris azulado)
+#718096 - Texto terciario/captions (gris medio)
+
+DISTRIBUCIÓN DE COLORES:
+─────────────────────────────────────────────────────────────────────
+• 45% Blanco/Blanco grisáceo (fondos de secciones, áreas de contenido)
+• 30% Azul marino #1A2B4A (header, footer, secciones destacadas, texto)
+• 20% Gris azulado/texto (párrafos, subtítulos, elementos UI neutros)
+• 5% Dorado #C9A85C (botones CTA, acentos, highlights)
+
+⚠️ REGLA DE ORO: El dorado es escaso y precioso. Se usa SOLO en los botones
+   de acción principal y en 1-2 elementos decorativos por sección. Si aparece
+   en cada elemento, pierde su efecto premium.
+
+
+─────────────────────────────────────────────────────────────────────
+TIPOGRAFÍA:
+─────────────────────────────────────────────────────────────────────
+
+HEADINGS (H1, H2, H3):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Cormorant Garamond" (Google Fonts) - Serif elegante, evoca lujo y confianza médica
+Alternativa: "Playfair Display"
+Peso: 600 (SemiBold) para H1, 500 (Medium) para H2, 400 (Regular) para H3
+
+Tamaño:
+  H1: 3.5rem (56px) desktop, 2.2rem (35px) mobile
+  H2: 2.5rem (40px) desktop, 1.8rem (29px) mobile
+  H3: 1.75rem (28px) desktop, 1.4rem (22px) mobile
+
+Letter-spacing: -0.02em (ligeramente condensado, más elegante)
+Line-height: 1.15
+
+Razón: Cormorant Garamond es la tipografía perfecta para clínicas médico-estéticas
+       premium. Serif con personalidad elegante pero legible. Contrasta idealmente
+       con la sans-serif del cuerpo.
+
+
+BODY TEXT:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Inter" (Google Fonts) - Sans-serif moderna, altísima legibilidad
+Alternativa: "DM Sans"
+Peso: 400 (Regular), 500 (Medium) para énfasis
+Tamaño: 1.0rem (16px) desktop, 0.95rem (15px) mobile
+Line-height: 1.7
+Letter-spacing: 0.01em
+
+Razón: Inter es la sans-serif más legible del mercado para textos médicos e
+       informativos. Clean, neutral, accesible. Complementa perfectamente
+       a Cormorant Garamond sin competir con ella.
+
+
+BOTONES Y CTAs:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Font: "Inter" 600 (SemiBold)
+Tamaño: 0.875rem (14px)
+Letter-spacing: 0.08em
+Text-transform: uppercase
+
+Ejemplo: "PEDIR CITA" vs "LLAMAR AHORA" vs "VER TRATAMIENTOS"
+
+
+EVITAR ABSOLUTAMENTE:
+─────────────────────────────────────────────────────────────────────
+✗ Roboto (demasiado genérica, usada en millones de webs mediocres)
+✗ Open Sans (ídem, muy vista en webs desactualizadas del sector)
+✗ Comic Sans o fuentes decorativas (absolutamente inadmisible en clínica)
+✗ Lato (demasiado neutral, pierde el carácter premium)
+✗ Times New Roman (serif antigua de sistema, nada premium)
+
+
+─────────────────────────────────────────────────────────────────────
+ESPACIADO Y LAYOUT:
+─────────────────────────────────────────────────────────────────────
+
+PRINCIPIO: "Luxury Breathing Room" - El espacio en blanco es un elemento de diseño,
+           no un desperdicio. Las clínicas premium respiran.
+
+Secciones:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Padding vertical: 96px desktop, 64px mobile
+• Máximo width contenido: 1200px
+• Margins laterales: 80px desktop, 24px mobile
+
+Entre elementos:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Heading → Párrafo: 24px
+• Párrafo → Párrafo: 16px
+• Imagen → Caption: 8px
+• Cards entre sí: 24px grid gap
+• Sección → Sección: 0px (padding propio de cada sección)
+
+Regla 8px:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Todos los espaciados múltiplos de 8: 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 96px
+
+
+─────────────────────────────────────────────────────────────────────
+FOTOGRAFÍA E IMÁGENES:
+─────────────────────────────────────────────────────────────────────
+
+ESTILO FOTOGRÁFICO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Concepto: "Clean Clinical Warmth" - Clínica limpia y profesional con calidez humana
+
+Fotografías de equipos (Palomar Vectus, VelaShape, EMSCULPT):
+✓ Sobre fondo blanco o azul marino muy claro
+✓ Iluminación limpia, sin sombras duras
+✓ Detalle técnico visible (tecnología avanzada)
+✓ Si hay profesional aplicando, que se vea la mano experta
+✓ Formato horizontal preferido para headers de sección
+
+Fotografías de personas/resultados:
+✓ Antes/después profesionales si existen
+✓ Modelos de edad real (25-55 años), no modelos de 20 años perfectas
+✓ Expresiones de confianza y satisfacción, no de dolor o incomodidad
+✓ Luz suave, natural, sin filtros excesivos
+✓ Paleta cálida-neutra (tono piel, blanco, crema)
+
+Hero image ideal:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Opción 1: Equipo Palomar Vectus en aplicación profesional sobre piel (close-up)
+• Opción 2: Profesional de la clínica con bata blanca en ambiente clínico limpio
+• Opción 3: Interior de la clínica moderno y luminoso
+• Tratamiento: Overlay azul marino semitransparente 40-50% para legibilidad del texto
+
+NOTA: Como esta es una renovación HTML/CSS, usar las imágenes de la web actual
+disponibles en los URLs de la web (wp-content/uploads/...) o placeholders con
+la descripción correcta si las imágenes originales no se pueden usar.
+
+Formato:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Hero: 1920x800px mínimo
+• Cards de servicios: 600x400px (ratio 3:2)
+• Logos tecnología: 200x100px máximo
+• WebP format (fallback JPG)
+• Lazy loading en todas excepto hero y above-the-fold
+
+
+─────────────────────────────────────────────────────────────────────
+ICONOGRAFÍA:
+─────────────────────────────────────────────────────────────────────
+
+Estilo: Line icons (outline), fino y elegante
+Grosor: 1.5px
+Tamaño: 24px en contenido, 32px en cards de servicios, 48px en iconos destacados
+Color: #C9A85C (dorado) en iconos de características premium; #1A2B4A (azul marino)
+       en iconos informativos
+
+Set recomendado: Lucide Icons o Phosphor Icons (ambos gratuitos, cohesivos)
+
+Iconos necesarios:
+• Estrella / medalla (experiencia, calidad)
+• Láser / rayo (depilación láser)
+• Cara / rostro (tratamientos faciales)
+• Cuerpo / silueta (tratamientos corporales)
+• Certificado / diploma (profesionalidad médica)
+• Teléfono (contacto, llamar)
+• WhatsApp / mensaje (contacto)
+• Ubicación / pin (Tres Cantos)
+• Reloj (horario)
+• Precio / etiqueta (ofertas)
+• Flecha derecha (navegación, ver más)
+• Check / tick (listados de beneficios)
+
+NO usar: Emojis como iconos, iconos de clipart, iconos de diferentes estilos mezclados
+
+
+─────────────────────────────────────────────────────────────────────
+COMPONENTES UI:
+─────────────────────────────────────────────────────────────────────
+
+BOTONES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Botón Primario CTA - PEDIR CITA / LLAMAR AHORA:
+───────────────────────────────────────────────────────────────────
+Background: #C9A85C (dorado)
+Color texto: #FFFFFF
+Padding: 14px 32px
+Border-radius: 4px (esquinas casi rectas, carácter médico-serio)
+Font-size: 14px
+Letter-spacing: 0.08em
+Text-transform: uppercase
+Font-weight: 600
+Border: none
+Transition: all 0.25s ease
+
+Hover:
+  Background: #B8944A
+  Transform: translateY(-2px)
+  Box-shadow: 0 8px 24px rgba(201, 168, 92, 0.35)
+
+
+Botón Secundario - VER TRATAMIENTOS / MÁS INFO:
+───────────────────────────────────────────────────────────────────
+Background: transparent
+Color texto: #FFFFFF (sobre fondo oscuro) o #1A2B4A (sobre fondo claro)
+Border: 1.5px solid #FFFFFF (sobre oscuro) o 1.5px solid #1A2B4A (sobre claro)
+Padding: 13px 31px (1px menos que primario para compensar el borde)
+Border-radius: 4px
+Font-size: 14px
+Letter-spacing: 0.08em
+Text-transform: uppercase
+Font-weight: 500
+
+Hover:
+  Background: rgba(255,255,255,0.1) (sobre oscuro) o rgba(26,43,74,0.08)
+  Transform: translateY(-1px)
+
+
+Botón WhatsApp (flotante y sticky):
+───────────────────────────────────────────────────────────────────
+Background: #25D366 (verde WhatsApp oficial)
+Color: #FFFFFF
+Border-radius: 50px
+Padding: 14px 24px
+Posición: fixed, bottom: 24px, right: 24px
+Z-index: 9999
+Display: flex, align-items: center, gap: 8px
+Font-weight: 600
+Font-size: 14px
+Box-shadow: 0 4px 16px rgba(37, 211, 102, 0.4)
+
+Hover:
+  Transform: scale(1.05)
+  Box-shadow: 0 8px 24px rgba(37, 211, 102, 0.5)
+
+Texto: "WhatsApp 692 966 377"
+En mobile: solo el icono (texto oculto)
+
+
+CARDS DE SERVICIOS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #FFFFFF
+Border: 1px solid #E8EDF5
+Border-radius: 8px
+Padding: 32px
+Box-shadow: 0 2px 12px rgba(26, 43, 74, 0.06)
+Overflow: hidden
+
+Estructura de card:
+  - Icono (top, 32px, color dorado)
+  - Título (H3, Cormorant Garamond, azul marino)
+  - Separador dorado (width: 40px, height: 2px, background: #C9A85C)
+  - Descripción breve (Inter, texto secundario)
+  - Link "Ver más →" (Inter 500, azul marino, underline en hover)
+
+Hover card completa:
+  Box-shadow: 0 8px 32px rgba(26, 43, 74, 0.12)
+  Transform: translateY(-4px)
+  Transition: all 0.3s ease
+  Border-color: #C9A85C (borde dorado al hover)
+
+
+CARDS DE TECNOLOGÍA LÁSER (especiales):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Diferente al resto: fondo azul marino oscuro, texto blanco, imagen del equipo
+Background: #1A2B4A
+Color texto: #FFFFFF
+Border-radius: 12px
+Overflow: hidden
+
+Estructura:
+  - Imagen del equipo (top, 60% altura card)
+  - Badge "TECNOLOGÍA PUNTA" (background: #C9A85C, texto azul marino)
+  - Nombre equipo (H3 blanco)
+  - Breve descripción (texto gris claro)
+  - Botón "Saber más" (outline blanco)
+
+
+BADGES / PILLS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Oferta: Background #C9A85C, texto #FFFFFF, border-radius: 4px, padding: 4px 12px, font-size: 12px uppercase
+Nuevo: Background #1A2B4A, texto #FFFFFF, mismas specs
+Estrella: Background transparent, border: 1px solid #C9A85C, texto #C9A85C
+
+
+TARJETA TESTIMONIO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Background: #F8F9FC
+Border-left: 4px solid #C9A85C (línea dorada izquierda)
+Border-radius: 0 8px 8px 0
+Padding: 32px
+Cita en Cormorant Garamond italic, 1.2rem, color #1A2B4A
+Nombre en Inter 600, 0.875rem, color #C9A85C
+Comillas decorativas: " carácter CSS antes, color dorado, font-size 80px, opacity 0.15
+
+
+─────────────────────────────────────────────────────────────────────
+ANIMACIONES:
+─────────────────────────────────────────────────────────────────────
+
+PRINCIPIO: "Subtle Medical Confidence" - Animaciones sutiles que transmiten
+           seguridad y profesionalidad, nunca entretenimiento o juego.
+
+Fade-in en scroll (IntersectionObserver):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Opacity: 0 → 1
+• Transform: translateY(24px) → translateY(0)
+• Duration: 0.6s
+• Easing: cubic-bezier(0.4, 0, 0.2, 1)
+• Stagger entre cards: 0.1s
+
+Hero parallax suave:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Background-attachment: fixed (CSS simple, sin JavaScript)
+• Velocidad: 0.5x del scroll
+
+Counter animado en sección estadísticas:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• De 0 al número final
+• Trigger: cuando la sección entra en viewport
+• Duration: 1.5s con ease-out
+
+Hover en menú de navegación:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Underline que crece desde izquierda: scaleX(0) → scaleX(1)
+• Duration: 0.2s
+• Color: #C9A85C
+
+⚠️ EVITAR:
+✗ Scroll horizontal o efectos de paralaje agresivos que desorienten
+✗ Animaciones de carga largas (>0.5s) que retrasen la percepción del contenido
+✗ Rotaciones, flips o efectos de tarjeta 3D (no apropiados para clínica)
+✗ Autoplay de vídeo con sonido
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 4: ESTRUCTURA DE PÁGINA
+═══════════════════════════════════════════════════════════════════════
+
+HEADER/NAVEGACIÓN:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Comportamiento: Sticky. Al hacer scroll, el header se queda fijo en la parte superior.
+Con scroll >50px: añadir box-shadow y reducir altura ligeramente (efecto shrink).
+
+Background initial (sobre hero): rgba(26, 43, 74, 0.0) → transparente sobre hero
+Background sticky (con scroll): #1A2B4A sólido
+Transition background: 0.3s ease
+Height inicial: 80px
+Height con scroll: 64px
+Padding: 0 80px desktop, 0 24px mobile
+
+BARRA SUPERIOR (top bar, 36px):
+───────────────────────────────────────────────────────────────────
+Background: #0F1E35 (azul más oscuro)
+Contenido:
+  - Izquierda: "📍 Sector Literatos 22, Tres Cantos · Lun-Vie 10:30-20:30h"
+    (Inter 12px, color rgba(255,255,255,0.7))
+  - Derecha: "+34 918 062 403" + separador + "info@novanorte.com"
+    (Inter 12px, color rgba(255,255,255,0.7), hover: blanco)
+En mobile: ocultar esta barra completamente (display: none < 768px)
+
+HEADER PRINCIPAL:
+───────────────────────────────────────────────────────────────────
+Contenido izquierda: Logo NovaNorte
+  - Usar imagen logo actual: logo-novanorte.png
+  - Height: 48px
+  - Mantener ratio aspect
+
+Contenido centro: Menú horizontal
+  - Font: Inter 500, 14px, #FFFFFF, letter-spacing: 0.03em
+  - Underline dorado en hover (::after)
+  - Items:
+    · "TRATAMIENTOS" (con dropdown)
+    · "PLATAFORMA LÁSER" (con dropdown)
+    · "APARATOLOGÍA"
+    · "OFERTAS" (badge dorado parpadeante si hay oferta activa)
+    · "BLOG"
+    · "CONTACTO"
+
+  Dropdown TRATAMIENTOS:
+    Background: #FFFFFF
+    Box-shadow: 0 16px 40px rgba(26,43,74,0.15)
+    Border-top: 3px solid #C9A85C
+    Padding: 32px
+    Columnas: 2 (Médico-Estético | Estética)
+    
+    Columna "Médico-Estético":
+      → Tratamientos Médicos Corporales
+      → Tratamientos Médicos Faciales
+      → Micro Implante Capilar
+      → Micropigmentación
+    
+    Columna "Estética":
+      → Tratamientos Corporales
+      → Tratamientos Faciales
+      → Depilación
+    
+    Cada item: Inter 14px, color #1A2B4A, hover color #C9A85C
+
+  Dropdown PLATAFORMA LÁSER:
+    → Láser de Diodo Palomar Vectus ⭐ (marcado como estrella)
+    → I2PL+ Ellipse
+    → Láser CO2 Fraccionado Piexel2
+
+Contenido derecha: CTA prominente
+  - Botón primario dorado: "PEDIR CITA"
+  - Sub-texto: "692 966 377" (Inter 12px, color rgba(255,255,255,0.7))
+
+MOBILE HEADER (< 768px):
+───────────────────────────────────────────────────────────────────
+  - Logo izquierda
+  - Menú hamburger derecha (3 líneas, #FFFFFF)
+  - Menú mobile: fullscreen overlay, background #1A2B4A, items centrados
+  - Botón "PEDIR CITA" prominente al final del menú mobile
+  - Número de teléfono visible: grande, clicable (tel: link)
+
+
+─────────────────────────────────────────────────────────────────────
+HERO SECTION:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Layout: Fullscreen (100vh, mínimo 600px)
+Background: Imagen de fondo (equipo Palomar Vectus o interior clínica)
+            + overlay gradiente: linear-gradient(135deg, rgba(26,43,74,0.85) 0%, rgba(15,30,53,0.7) 100%)
+
+Contenido (centrado vertical y horizontal, o alineado a la izquierda con imagen a la derecha):
+
+  Opción elegida - SPLIT LAYOUT:
+  ─────────────────────────────────
+  Lado izquierdo (55%):
+    - Badge pill: "✦ CLÍNICA ESTÉTICA EN TRES CANTOS" 
+      (background rgba(201,168,92,0.15), border: 1px solid #C9A85C, color #C9A85C, 
+       font: Inter 12px uppercase, letter-spacing: 0.1em, border-radius: 40px, padding: 8px 16px)
+    - H1: "Clínica Estética NovaNorte"
+      (Cormorant Garamond 600, 3.5rem, #FFFFFF, line-height: 1.1)
+    - Subtítulo: "Décadas de experiencia en tratamientos estéticos, depilación láser y medicina estética en Tres Cantos, Madrid."
+      (Inter 400, 1.1rem, rgba(255,255,255,0.85), line-height: 1.6, max-width: 480px)
+    - Separador dorado: 60px width, 2px height, background #C9A85C, margin: 24px 0
+    - Fila de CTAs:
+      · Botón primario dorado: "PEDIR CITA"
+      · Botón secundario outline blanco: "VER TRATAMIENTOS"
+    - Datos de confianza debajo (flex row, gap: 32px):
+      · "🏆 +15 años de experiencia"
+      · "⭐ Tecnología Palomar Vectus"
+      · "✓ Personal médico certificado"
+      (Inter 13px, rgba(255,255,255,0.75))
+
+  Lado derecho (45%): 
+    - Imagen del equipo más avanzado (Palomar Vectus) o imagen profesional
+    - Efecto: border-radius 12px, ligero box-shadow dorado
+    - Solo visible en desktop (oculto en mobile)
+
+Hero mobile:
+  - Imagen de fondo 100vh con overlay oscuro
+  - Contenido centrado
+  - H1 más pequeño (2.2rem)
+  - Solo 1 botón CTA (dorado)
+  - Datos de confianza en columna (stacked)
+
+Scroll indicator:
+  - Flecha animada hacia abajo, color dorado, posición bottom: 32px
+  - Animación: bounce suave, duration 2s, loop
+
+
+─────────────────────────────────────────────────────────────────────
+SECCIÓN: BARRA DE CONFIANZA (trust bar)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Posición: Inmediatamente después del hero
+Background: #1A2B4A
+Padding: 32px 80px
+
+Contenido: 4 pilares en fila (flex, justify-content: space-around):
+
+1. ⚕ PERSONAL MÉDICO CERTIFICADO
+   "Equipo de profesionales cualificados"
+   
+2. 🔬 TECNOLOGÍA PALOMAR VECTUS  
+   "El láser de diodo más avanzado del mercado"
+
+3. 💳 PRECIO MÁS BAJO GARANTIZADO
+   "Si lo encuentras más barato, lo igualamos"
+
+4. 📍 EN TRES CANTOS DESDE 2006+
+   "Décadas sirviendo a nuestra comunidad"
+
+Cada pilar:
+  - Icono 32px, color dorado #C9A85C
+  - Título: Inter 700, 14px, #FFFFFF, uppercase, letter-spacing: 0.05em
+  - Subtexto: Inter 400, 12px, rgba(255,255,255,0.65)
+  - Separador vertical entre pilares (visible solo desktop)
+
+Mobile: 2x2 grid
+
+
+─────────────────────────────────────────────────────────────────────
+SECCIÓN: SERVICIOS PRINCIPALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Background: #F8F9FC (blanco grisáceo)
+Padding: 96px 80px
+
+Header de sección:
+  - Eyebrow: "LO QUE OFRECEMOS" (Inter 12px, #C9A85C, uppercase, letter-spacing: 0.1em)
+  - H2: "Nuestros Tratamientos" (Cormorant Garamond, centrado)
+  - Párrafo intro: max-width 600px, centrado, color texto secundario
+
+Grid de categorías principales (3 columnas desktop, 1 columna mobile):
+
+CARD 1 - PLATAFORMA LÁSER ⭐ (destacada)
+  - Imagen: Palomar Vectus
+  - Badge: "SERVICIO ESTRELLA" (dorado)
+  - Icono: rayo
+  - Título: "Depilación Láser"
+  - Descripción: "El láser de diodo Palomar Vectus es el más eficaz, rápido, seguro e indoloro. Resultados definitivos desde la primera sesión."
+  - Servicios incluidos (mini lista):
+    · Palomar Vectus
+    · I2PL+ Ellipse  
+    · Láser CO2 Fraccionado
+  - CTA: "Ver Plataforma Láser →"
+
+CARD 2 - TRATAMIENTOS MÉDICO-ESTÉTICOS
+  - Icono: cara/rostro
+  - Título: "Medicina Estética"
+  - Descripción: "Botox, ácido hialurónico, lifting con hilos y los tratamientos de rejuvenecimiento más avanzados del mercado."
+  - Servicios incluidos:
+    · Toxina Botulínica
+    · Ácido Hialurónico
+    · Hilos Tensores
+    · Carboxiterapia
+  - CTA: "Ver Tratamientos →"
+
+CARD 3 - CORPORALES & FIGURA
+  - Icono: silueta corporal
+  - Título: "Tratamientos Corporales"
+  - Descripción: "VelaShape III, EMSCULPT y tratamientos reductores con seguimiento nutricional personalizado incluido y gratuito."
+  - Servicios incluidos:
+    · VelaShape III
+    · EMSCULPT de BTL
+    · Tratamientos Reductores
+    · Dieta Personalizada GRATIS
+  - CTA: "Ver Tratamientos →"
+
+Debajo del grid: link centrado "Ver todos los tratamientos →" (Inter, azul marino, underline dorado en hover)
+
+
+─────────────────────────────────────────────────────────────────────
+SECCIÓN: TECNOLOGÍA LÁSER (destacada)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Background: #1A2B4A (azul marino) — sección oscura que contrasta
+Padding: 96px 80px
+Color textos: #FFFFFF
+
+Layout: 2 columnas (60/40)
+
+Columna izquierda:
+  - Eyebrow: "PLATAFORMA LÁSER" (dorado, uppercase)
+  - H2: "El Láser de Diodo Más Avanzado" (blanco, Cormorant Garamond)
+  - Párrafo descripción: "Somos pioneros en la implementación del Palomar Vectus en Tres Cantos, el láser de diodo de última generación que ofrece resultados definitivos, indoloros y seguros para todo tipo de piel."
+  - Lista de ventajas con checkmarks dorados:
+    ✓ Más rápido: trata una pierna en 15 minutos
+    ✓ Más seguro: valido para todos los fototipos
+    ✓ Indoloro: tecnología Uniform Pulse Technology
+    ✓ Resultados definitivos desde la 1ª sesión
+    ✓ Certificado médico Palomar Medical
+  - Botón primario dorado: "SOLICITAR INFORMACIÓN"
+
+Columna derecha:
+  - 3 subcards de tecnología (stacked vertically):
+    · Palomar Vectus (principal, más grande)
+    · I2PL+ Ellipse
+    · Láser CO2 Piexel2
+  - Cada subcard: imagen del equipo + nombre + descripción 1 línea
+  - Background: rgba(255,255,255,0.05), border: 1px solid rgba(201,168,92,0.3)
+  - Border-radius: 8px, padding: 20px
+
+Mobile: columna única, imagen encima del texto
+
+
+─────────────────────────────────────────────────────────────────────
+SECCIÓN: STAR PRODUCTS (VelaShape y EMSCULPT)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Background: #FFFFFF
+Padding: 96px 80px
+
+Header:
+  - Eyebrow: "APARATOLOGÍA DE VANGUARDIA"
+  - H2: "Resultados Visibles desde la Primera Sesión"
+
+Grid 2 columnas:
+
+VELASHAPE III:
+  - Imagen grande (horizontal 3:2)
+  - Badge: "BTL Aesthetics"  
+  - H3: "VelaShape III"
+  - Descripción completa del tratamiento
+  - Indicaciones: celulitis, contorno corporal, flacidez
+  - Botón outline: "Saber más sobre VelaShape"
+
+EMSCULPT DE BTL:
+  - Imagen grande
+  - Badge: "BTL Aesthetics"
+  - H3: "EMSCULPT de BTL"
+  - Descripción: definición muscular + reducción grasa simultánea
+  - Dato destacado: "Equivale a 20.000 abdominales en 30 minutos"
+  - Botón outline: "Saber más sobre EMSCULPT"
+
+
+─────────────────────────────────────────────────────────────────────
+SECCIÓN: BIOLOGIQUE RECHERCHE (cosmética premium)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Background: linear-gradient(135deg, #F8F9FC 0%, #EEF1F7 100%)
+Padding: 80px
+
+Layout: 2 columnas (40/60)
+
+Columna izquierda:
+  - Logo Biologique Recherche (imagen existente)
+  - Imagen de producto de alta cosmética
+
+Columna derecha:
+  - Eyebrow: "DISTRIBUIDORES OFICIALES"
+  - H2: "Alta Cosmética Biologique Recherche"
+  - Párrafo: "Trabajamos con Biologique Recherche, la marca de referencia mundial en cosmética profesional de alta gama. Somos distribuidores oficiales y podemos ayudarte a encontrar los productos perfectos para tu piel."
+  - Puntos clave:
+    · Marca de referencia internacional
+    · Productos profesionales de alta concentración
+    · Diagnóstico personalizado gratuito
+    · Compra directa en clínica o a domicilio
+  - CTA: "Solicitar información sobre productos"
+
+
+─────────────────────────────────────────────────────────────────────
+SECCIÓN: REJUVENECIMIENTO FACIAL (tratamientos médicos)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Background: #1A2B4A
+Padding: 96px 80px
+Color: #FFFFFF
+
+Layout: Header centrado + grid 3-4 columnas de tratamientos
+
+Header:
+  - Eyebrow: "MEDICINA ESTÉTICA FACIAL" (dorado)
+  - H2: "Tratamientos de Rejuvenecimiento" (blanco)
+  - Intro: "La estética avanza a pasos agigantados. Te ofrecemos las opciones más punteras para el rejuvenecimiento integral, eliminación de arrugas, manchas y cicatrices."
+
+Grid tratamientos (iconos + nombre + descripción brevísima):
+  1. Botox Completo - Toxina botulínica para arrugas de expresión
+  2. Ácido Hialurónico - Relleno y volumen natural
+  3. Hilos Tensores - Lifting sin cirugía, resultados inmediatos
+  4. Carboxiterapia - Rejuvenecimiento celular profundo
+  5. Ellanse M / Radiesse - Bioestimuladores de colágeno
+  6. Láser CO2 Fraccionado - Manchas, cicatrices, textura
+  7. Peeling Químico - Renovación celular superficial
+  8. Mesoterapia - Nutrición profunda de la piel
+
+Cada ítem:
+  Background: rgba(255,255,255,0.05)
+  Border: 1px solid rgba(201,168,92,0.2)
+  Border-radius: 8px
+  Padding: 24px
+  Icono: 32px, dorado
+  Nombre: Inter 600, 15px, blanco
+  Descripción: Inter 400, 13px, rgba(255,255,255,0.65)
+
+CTA final: "Consultar Tratamientos Médicos" (botón dorado, centrado)
+
+
+─────────────────────────────────────────────────────────────────────
+SECCIÓN: ESTADÍSTICAS / NÚMEROS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Background: #F8F9FC
+Padding: 80px
+
+4 estadísticas en fila:
+
+1. "+15" → "Años de experiencia"
+2. "3" → "Plataformas láser de última generación"
+3. "100%" → "Personal médico certificado"
+4. "∞" o "💯" → "Precio más bajo garantizado"
+
+Cada número:
+  - Número: Cormorant Garamond 600, 64px, color #C9A85C (dorado)
+  - Sufijo si aplica: mismo tamaño, dorado
+  - Label: Inter 400, 14px, #4A5568
+  - Separador vertical entre números (desktop)
+
+Animación counter: números animados al entrar en viewport
+
+
+─────────────────────────────────────────────────────────────────────
+SECCIÓN: OFERTAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Background: linear-gradient(135deg, #1A2B4A 0%, #243560 100%)
+Padding: 80px
+
+Header:
+  - Eyebrow: "PROMOCIONES" (dorado)
+  - H2: "Descubre Nuestras Ofertas" (blanco)
+  - Subtítulo: "Con los precios más bajos del municipio. Si encuentras algo más barato, lo igualamos."
+
+Slider/grid de ofertas (máximo 3 en grid, resto en slider):
+  - Cada card de oferta: imagen + badge "OFERTA" dorado + nombre + precio tachado + precio oferta + CTA
+
+Usar imagen existente: banner21.jpg de la web actual
+
+CTA principal: "VER TODAS LAS OFERTAS" (botón outline blanco)
+
+
+─────────────────────────────────────────────────────────────────────
+SECCIÓN: TESTIMONIOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Background: #FFFFFF
+Padding: 96px 80px
+
+Header centrado:
+  - Eyebrow: "TESTIMONIOS"
+  - H2: "Lo Que Dicen Nuestras Clientas"
+  - 5 estrellas doradas (símbolo ★★★★★, color #C9A85C)
+
+Grid 3 columnas (o slider en mobile) con los testimonios existentes:
+
+TESTIMONIO 1 - Nuria Álvarez:
+"Después de haber tirado el dinero en otros centros médicos láser, ahora he conseguido resultados con la clínica NovaNorte."
+
+TESTIMONIO 2 - Vanessa Ruiz:
+"Estoy más que satisfecha con las dos primeras sesiones y voy ampliando mis zonas de depilación poco a poco."
+
+TESTIMONIO 3 - Patricia González:
+"Yo no quiero prisas, quiero resultados y buen trato. Por eso aquí estoy encantada. La chica que lo hace me explica todo bien y es muy cercana y agradable."
+
+Cada tarjeta con diseño definido en sección de componentes (border-left dorado).
+Añadir avatar circular con iniciales si no hay foto (fondo azul marino, texto dorado).
+
+
+─────────────────────────────────────────────────────────────────────
+SECCIÓN: LOCALIZACIÓN Y CONTACTO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Background: #F8F9FC
+Padding: 80px
+
+Layout: 2 columnas (50/50)
+
+Columna izquierda - Información:
+  - Eyebrow: "CÓMO ENCONTRARNOS"
+  - H2: "Estamos en el Centro de Tres Cantos"
+  - Datos de contacto (cada uno con icono dorado):
+    📍 Sector Literatos 22, Tres Cantos, 28760 Madrid
+    📞 (+34) 918 062 403
+    📱 692 966 377 (WhatsApp)
+    ✉ info@novanorte.com
+    🕐 Lunes a Viernes: 10:30h - 20:30h
+    🕐 Sábados: Cerrado
+  - Botones de acción:
+    · "LLAMAR AHORA" (primario dorado, href="tel:+34918062403")
+    · "WHATSAPP" (verde WhatsApp, href="https://wa.me/34692966377")
+  - Formulario de contacto simple:
+    · Nombre (input)
+    · Teléfono (input)
+    · Tratamiento de interés (select con opciones)
+    · Mensaje breve (textarea, opcional)
+    · Botón: "SOLICITAR QUE ME LLAMEN"
+    · Política privacidad checkbox
+
+Columna derecha - Mapa:
+  - Iframe Google Maps embebido con la ubicación exacta
+  - Sector Literatos 22, Tres Cantos
+  - Height: 400px
+  - Border-radius: 8px
+  - Sin controles innecesarios
+
+Mobile: columna única, mapa primero, formulario debajo
+
+
+─────────────────────────────────────────────────────────────────────
+FOOTER:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Background: #0F1E35 (azul más oscuro que el primario)
+Color textos: rgba(255,255,255,0.75)
+Padding: 64px 80px 32px
+
+Grid 4 columnas (desktop) / 2 columnas (tablet) / 1 columna (mobile):
+
+COLUMNA 1 - Marca:
+  - Logo NovaNorte (versión clara/blanca)
+  - Descripción 2 líneas: "Clínica estética de referencia en Tres Cantos con décadas de experiencia en tratamientos láser, medicina estética y cosmética de alta gama."
+  - Redes sociales: iconos outline (Facebook, Instagram, etc.) con hover dorado
+  - Rating Google (si disponible): ⭐⭐⭐⭐⭐
+
+COLUMNA 2 - Tratamientos:
+  Título: "TRATAMIENTOS" (Inter 700, 12px, dorado, uppercase)
+  Links:
+  • Depilación Láser Palomar Vectus
+  • Tratamientos Médicos Faciales
+  • Tratamientos Médicos Corporales
+  • VelaShape III
+  • EMSCULPT de BTL
+  • Micropigmentación
+  • Micro Implante Capilar
+
+COLUMNA 3 - Información:
+  Título: "INFORMACIÓN"
+  Links:
+  • Ofertas
+  • Blog
+  • Aparatología
+  • Biologique Recherche
+  • Contacto
+  • Sugerencias
+  • Aviso Legal
+  • Política de Privacidad
+
+COLUMNA 4 - Contacto:
+  Título: "CONTACTO"
+  📍 Sector Literatos 22
+     Tres Cantos, 28760 Madrid
+  📞 918 062 403
+  📱 692 966 377 (WhatsApp)
+  ✉ info@novanorte.com
+  🕐 Lun-Vie: 10:30 - 20:30h
+
+  - Botón CTA footer: "PEDIR CITA" (outline dorado)
+
+BARRA INFERIOR DEL FOOTER:
+  - Línea divisoria: 1px solid rgba(255,255,255,0.1)
+  - Izquierda: "© 2025 Clínica Estética NovaNorte. Todos los derechos reservados."
+  - Derecha: "Diseño Web: [crédito]"
+  - Font: Inter 12px, rgba(255,255,255,0.45)
+
+
+─────────────────────────────────────────────────────────────────────
+BOTÓN FLOTANTE WHATSAPP:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Posición: fixed, bottom: 24px, right: 24px
+Z-index: 9999
+Link: href="https://wa.me/34692966377?text=Hola,%20me%20gustaría%20obtener%20información%20sobre%20sus%20tratamientos"
+Estilo definido en sección de componentes UI.
+Pulse animation suave (CSS @keyframes) para llamar la atención.
+Mobile: solo icono de WhatsApp (más pequeño), desktop: icono + texto
+
+
+─────────────────────────────────────────────────────────────────────
+RESPONSIVE:
+─────────────────────────────────────────────────────────────────────
+
+Breakpoints:
+  Mobile: < 768px
+  Tablet: 768px - 1199px
+  Desktop: > 1200px
+
+Mobile (< 768px):
+• Header: logo + hamburger menu únicamente
+• Top bar: oculta completamente
+• Hero: full-width, texto centrado, 1 CTA
+• Grid servicios: 1 columna
+• Grid estadísticas: 2x2
+• Sección láser: columna única
+• Grid testimonios: 1 columna (slider)
+• Formulario contacto: campos full-width
+• Footer: 1 columna
+• Botón WhatsApp: solo icono
+
+Tablet (768px - 1199px):
+• Header: menú visible pero más compacto
+• Grid servicios: 2 columnas
+• Grid tecnología: columna única con imagen encima
+• Footer: 2 columnas
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 5: SEO
+═══════════════════════════════════════════════════════════════════════
+
+Title: "Clínica Estética NovaNorte | Depilación Láser Tres Cantos"
+(54 caracteres ✓)
+
+Meta description: "Clínica estética en Tres Cantos con décadas de experiencia. Depilación láser Palomar Vectus, medicina estética, botox y tratamientos corporales. ¡Llámanos!"
+(161 caracteres — ajustar a: "Clínica estética en Tres Cantos con décadas de experiencia. Depilación láser Palomar Vectus, botox y tratamientos corporales. Precio garantizado.")
+(148 caracteres ✓)
+
+Keywords focus:
+- clínica estética tres cantos
+- depilación láser tres cantos
+- palomar vectus tres cantos
+- botox tres cantos madrid
+- velashape tres cantos
+- micropigmentación tres cantos
+- tratamientos estéticos tres cantos
+- medicina estética tres cantos madrid
+- láser depilación tres cantos precio
+
+Schema.org: LocalBusiness + MedicalBusiness + MedicalClinic
+
+Markup específico:
+  "@type": ["MedicalClinic", "LocalBusiness"]
+  "name": "Clínica Estética NovaNorte"
+  "address": {
+    "streetAddress": "Sector Literatos 22",
+    "addressLocality": "Tres Cantos",
+    "postalCode": "28760",
+    "addressCountry": "ES"
+  }
+  "telephone": ["+34918062403", "+34692966377"]
+  "openingHours": "Mo-Fr 10:30-20:30"
+  "url": "https://www.novanorte.com"
+
+H1 principal: "Clínica Estética NovaNorte en Tres Cantos, Madrid"
+
+Datos adicionales SEO:
+- Canonical URL en cada página
+- Open Graph tags (og:title, og:description, og:image)
+- Twitter Card meta tags
+- Hreflang: es-ES
+- Robots: index, follow
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 6: ACCESIBILIDAD & PERFORMANCE
+═══════════════════════════════════════════════════════════════════════
+
+ACCESIBILIDAD (WCAG 2.1 AA):
+─────────────────────────────────────────────────────────────────────
+• Contraste mínimo 4.5:1 en texto normal, 3:1 en texto grande
+  - Verificar: #FFFFFF sobre #1A2B4A → ratio 10.4:1 ✓
+  - Verificar: #1A2B4A sobre #FFFFFF → ratio 10.4:1 ✓
+  - Verificar: #C9A85C sobre #1A2B4A → ratio 4.8:1 ✓
+  - Verificar: #4A5568 sobre #FFFFFF → ratio 7.4:1 ✓
+• Alt text descriptivo en TODAS las imágenes:
+  - Logo: alt="Logo Clínica Estética NovaNorte"
+  - Palomar Vectus: alt="Equipo láser Palomar Vectus para depilación en NovaNorte"
+  - VelaShape: alt="Aparato VelaShape III para tratamiento anticelulítico"
+  - Imágenes decorativas: alt="" (vacío)
+• Focus states visibles: outline: 2px solid #C9A85C, outline-offset: 2px
+• Navegación por teclado completa (tab order lógico)
+• ARIA labels en todos los botones icon-only
+• Role="navigation" en nav principal
+• Skip link "Saltar al contenido" (visible solo en focus)
+• Tamaños de fuente en rem (escalables con zoom de navegador)
+• Mínimo 44x44px en áreas táctiles (botones, links)
+• No depender solo del color para transmitir información
+• Formularios: labels visibles asociados a inputs (for/id)
+
+
+PERFORMANCE (target PageSpeed >85 desktop, >75 mobile):
+─────────────────────────────────────────────────────────────────────
+• Imágenes: WebP con fallback JPG/PNG. Lazy loading en todo excepto hero.
+• CSS crítico (above-the-fold) inline en <head>
+• Resto CSS: defer o en </body>
+• JavaScript: defer o async donde posible
+• Fonts Google Fonts: preconnect + preload del subset usado
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+• Evitar @import de CSS (bloquea render)
+• Google Maps: lazy loading del iframe (loading="lazy")
+• Minificar CSS y JS en producción
+• Meta viewport: width=device-width, initial-scale=1
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 7: CONTENIDO EXISTENTE A PRESERVAR
+═══════════════════════════════════════════════════════════════════════
+
+IMÁGENES A USAR (de la web actual):
+─────────────────────────────────────────────────────────────────────
+Disponibles en https://www.novanorte.com/wp-content/uploads/:
+• logo-novanorte.png → Logo principal (header y footer)
+• velashape3-1900x550.jpg → Imagen VelaShape III
+• EMSCULPT-2-1900x550.jpg → Imagen EMSCULPT
+• palomar-1900x550.jpg → Imagen Palomar Vectus (hero y sección láser)
+• palomarvectus.png → Imagen alternativa Palomar
+• lifting.png → Imagen lifting/hilos tensores
+• reductores.png → Imagen tratamientos reductores
+• banner21.jpg → Banner de ofertas
+• logo_biologique_recherche.jpg → Logo Biologique Recherche
+• biologique-recherche_hotbook_portada.jpg → Imagen producto BR
+• logo/ → Carpeta con logos varios
+
+TEXTOS A PRESERVAR (de la web actual):
+─────────────────────────────────────────────────────────────────────
+• Texto sobre Biologique Recherche: mantener exactamente
+• Testimonios de Nuria Álvarez, Vanessa Ruiz, Patricia González: mantener
+• Textos descriptivos de servicios: usar como base, se puede mejorar redacción
+• Política de precio "si encuentras algo más barato, lo igualamos": destacar más
+
+PÁGINAS INTERNAS ENLAZADAS (construir solo homepage, pero los links deben funcionar):
+─────────────────────────────────────────────────────────────────────
+• /tratamientos-medicos-corporales/
+• /tratamientos-medicos-faciales/
+• /micro-implante-capilar/
+• /tratamientos-corporales/
+• /tratamientos-faciales/
+• /depilacion/
+• /micropigmentacion/
+• /laser-de-diodo-palomar-vectus/
+• /ipl-ellipse/
+• /laser-co2-fraccionado-piexel2/
+• /category/aparatologia/
+• /ofertas/
+• /category/blog/
+• /contacto/
+• /sugerencias/
+• /velashape-iii/
+• /emsculpt-de-btl/
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 8: FUNCIONALIDADES ESPECIALES
+═══════════════════════════════════════════════════════════════════════
+
+1. BOTÓN FLOTANTE WHATSAPP (ya descrito):
+   - Siempre visible, mobile y desktop
+   - Deep link con mensaje predefinido
+   - Animación pulse para llamar atención
+
+2. HEADER STICKY CON SHRINK:
+   - Al bajar 50px: header se compacta (80px → 64px)
+   - Background se vuelve opaco
+   - Transición suave
+
+3. MEGA-MENÚ DROPDOWN:
+   - "TRATAMIENTOS" → mega dropdown 2 columnas
+   - "PLATAFORMA LÁSER" → dropdown simple
+   - Cierre al click fuera o en Escape
+
+4. ANIMACIONES SCROLL (IntersectionObserver):
+   - Fade-in + translateY para todas las secciones
+   - Stagger en grids de cards
+   - Counter animado en sección estadísticas
+
+5. SLIDER TESTIMONIOS (mobile):
+   - Swipe manual (touch events)
+   - Dots de navegación
+   - Auto-avance cada 5 segundos
+
+6. FORMULARIO DE CONTACTO:
+   - Validación HTML5 + JS básica
+   - Mensajes de error accesibles
+   - Estado de éxito después de envío
+
+7. SMOOTH SCROLL:
+   - Todos los links de anclaje con scroll suave
+   - css: scroll-behavior: smooth
+
+8. TOP CTA BAR:
+   - Barra fija sobre el header con número de teléfono
+   - Ocultar en mobile
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 9: VALIDACIÓN AUTOMÁTICA (PLAYWRIGHT)
+═══════════════════════════════════════════════════════════════════════
+
+Después de generar index.html, crear test_novanorte.js con Playwright
+que valide:
+
+const { chromium } = require('playwright');
+const assert = require('assert');
+
+(async () => {
+  const browser = await chromium.launch();
+  const page = await browser.newPage();
+  await page.goto('file://' + __dirname + '/index.html');
+
+  // 1. Header visible
+  const header = await page.$('header');
+  assert(header, '✗ FAIL: Header no encontrado');
+  console.log('✓ Header presente');
+
+  // 2. Logo presente
+  const logo = await page.$('header img[alt*="NovaNorte"]');
+  assert(logo, '✗ FAIL: Logo no encontrado en header');
+  console.log('✓ Logo presente');
+
+  // 3. H1 correcto
+  const h1 = await page.$eval('h1', el => el.textContent);
+  assert(h1.includes('NovaNorte'), '✗ FAIL: H1 no menciona NovaNorte');
+  console.log('✓ H1 correcto: ' + h1.trim());
+
+  // 4. CTA botón dorado presente
+  const ctaButton = await page.$('a[href*="tel"], button:has-text("PEDIR CITA"), a:has-text("PEDIR CITA")');
+  assert(ctaButton, '✗ FAIL: Botón CTA no encontrado');
+  console.log('✓ CTA botón presente');
+
+  // 5. WhatsApp flotante
+  const whatsapp = await page.$('a[href*="wa.me"], a[href*="whatsapp"]');
+  assert(whatsapp, '✗ FAIL: Enlace WhatsApp no encontrado');
+  console.log('✓ WhatsApp enlace presente');
+
+  // 6. Teléfono en footer
+  const footer = await page.$('footer');
+  const footerText = await footer.textContent();
+  assert(footerText.includes('918 062 403') || footerText.includes('692 966 377'), 
+    '✗ FAIL: Teléfono no encontrado en footer');
+  console.log('✓ Teléfono presente en footer');
+
+  // 7. Dirección presente
+  const pageText = await page.textContent('body');
+  assert(pageText.includes('Tres Cantos'), '✗ FAIL: Mención a Tres Cantos no encontrada');
+  console.log('✓ Localización Tres Cantos presente');
+
+  // 8. Sección servicios
+  const serviciosSection = await page.$('section:has(h2), div:has(h2)');
+  assert(serviciosSection, '✗ FAIL: No hay secciones de contenido');
+  console.log('✓ Secciones de contenido presentes');
+
+  // 9. Meta description presente y correcta longitud
+  const metaDesc = await page.$eval('meta[name="description"]', el => el.content);
+  assert(metaDesc && metaDesc.length >= 120 && metaDesc.length <= 160,
+    '✗ FAIL: Meta description ausente o longitud incorrecta: ' + metaDesc?.length);
+  console.log('✓ Meta description correcta (' + metaDesc.length + ' chars)');
+
+  // 10. Schema.org presente
+  const schema = await page.$('script[type="application/ld+json"]');
+  assert(schema, '✗ FAIL: Schema.org no encontrado');
+  console.log('✓ Schema.org presente');
+
+  // 11. Responsive viewport meta
+  const viewport = await page.$('meta[name="viewport"]');
+  assert(viewport, '✗ FAIL: Meta viewport no encontrado');
+  console.log('✓ Meta viewport presente');
+
+  // 12. Google Fonts cargadas
+  const fontLink = await page.$('link[href*="fonts.googleapis.com"]');
+  assert(fontLink, '✗ FAIL: Google Fonts no enlazadas');
+  console.log('✓ Google Fonts enlazadas');
+
+  // 13. Footer con datos completos
+  assert(footerText.includes('info@novanorte.com'), '✗ FAIL: Email no encontrado en footer');
+  console.log('✓ Email presente en footer');
+
+  // 14. Palomar Vectus mencionado
+  assert(pageText.includes('Palomar') || pageText.includes('palomar'), 
+    '✗ FAIL: Palomar Vectus no mencionado');
+  console.log('✓ Palomar Vectus mencionado');
+
+  // 15. Testimonios presentes
+  assert(pageText.includes('Nuria') || pageText.includes('Vanessa') || pageText.includes('Patricia'),
+    '✗ FAIL: Testimonios no encontrados');
+  console.log('✓ Testimonios presentes');
+
+  await browser.close();
+  console.log('\n✅ TODOS LOS TESTS PASADOS - Web NovaNorte lista!');
+})().catch(err => {
+  console.error('❌ ERROR EN TESTS:', err.message);
+  process.exit(1);
+});
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 10: ENTREGABLES ESPERADOS
+═══════════════════════════════════════════════════════════════════════
+
+1. index.html — HTML semántico completo con:
+   - Estructura correcta: <header>, <nav>, <main>, <section>, <footer>
+   - Schema.org JSON-LD en <head>
+   - Open Graph y Twitter Card meta tags
+   - Google Fonts preload y preconnect
+   - CSS crítico inline para above-the-fold (opcional pero ideal)
+   - Todo el contenido de la web actual preservado y mejorado
+
+2. styles.css (o estilos en <style> del propio index.html) organizado en:
+   - Variables CSS: colores, tipografía, espaciados
+   - Reset/normalize básico
+   - Componentes base: botones, cards, badges
+   - Layout: header, hero, secciones, footer
+   - Responsive: media queries mobile-first
+   - Animaciones: transitions, keyframes, intersection observer classes
+
+3. scripts.js (o en <script> del propio index.html):
+   - Header sticky con shrink effect
+   - Mega-menú dropdown con cierre automático
+   - Hamburger menu mobile
+   - Scroll animations (IntersectionObserver)
+   - Counter animation en sección estadísticas
+   - Slider de testimonios mobile
+   - Smooth scroll para anchors
+   - Formulario validación básica
+
+4. Responsive completo mobile-first:
+   - 320px (iPhone SE) funciona sin scroll horizontal
+   - 375px (iPhone 12) óptimo
+   - 768px (iPad) bien organizado
+   - 1440px (desktop estándar) perfecto
+
+5. test_novanorte.js — Tests Playwright de validación
+
+6. README.md con:
+   - Descripción del proyecto
+   - Tecnologías usadas
+   - Cómo ejecutar los tests
+   - Créditos imágenes y recursos
+
+
+═══════════════════════════════════════════════════════════════════════
+SECCIÓN 11: NOTAS FINALES
+═══════════════════════════════════════════════════════════════════════
+
+Este diseño debe equilibrar:
+✓ Credibilidad médica (80%) - Es una CLÍNICA, no un spa ni una peluquería
+✓ Elegancia estética (15%) - El azul marino + dorado debe brillar
+✓ Conversión directa (5%) - Cada sección tiene su CTA
+
+NO debe parecer:
+✗ Un spa barato con mucho rosa y flores
+✗ Una página web de 2010 con fondos degradados y botones brillantes
+✗ Una web de franquicia de depilación láser genérica
+✗ Fría y aséptica como un hospital
+✗ Una web nueva sin historia (tiene décadas de experiencia, que se note)
+
+DEBE parecer:
+✓ La mejor clínica estética de Tres Cantos (porque es la que más tecnología tiene)
+✓ Un negocio de confianza con historia y experiencia real
+✓ Una web de 2025 que use los colores de siempre con modernidad renovada
+✓ La alternativa seria a las franquicias impersonales de Madrid
+
+El binomio AZUL MARINO + DORADO es la esencia de NovaNorte. Se mantiene 100%.
+Lo que cambia es la estructura, la tipografía, el espaciado y la modernidad del código.
+NO cambies los colores corporativos. NO los "mejores". Son su identidad.
+
+El PALOMAR VECTUS es su diferenciador número 1. Debe tener protagonismo visual.
+El PRECIO MÁS BAJO GARANTIZADO es su promesa comercial clave. Mencionarla en múltiples secciones.
+La EXPERIENCIA DE DÉCADAS es su credencial de confianza. Aparece en hero y trust bar.
+El TRATO CERCANO Y PERSONALIZADO está en los testimonios. No esconderlo.
+
+Tres Cantos es una ciudad con alto poder adquisitivo y sus residentes son exigentes.
+La web debe transmitir que NovaNorte está a la altura de sus expectativas.
+
+═══════════════════════════════════════════════════════════════════════
+FIN DEL PROMPT
+═══════════════════════════════════════════════════════════════════════
